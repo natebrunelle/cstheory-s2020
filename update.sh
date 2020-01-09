@@ -3,7 +3,7 @@
 here="$(dirname "$(readlink -m "$0")")/"
 self="$(readlink -m "$0")"
 cd "$here"
-target="$HOME/public_html/DMT1/S2020/"
+target="$HOME/public_html/cstheory/s2020/"
 
 if ls ~/.local/pandoc*/bin/pandoc
 then pd="$(ls  ~/.local/pandoc*/bin/pandoc | tail -1)"
@@ -49,7 +49,7 @@ function upfile_inner() {
             --to=html5 \
             --from=markdown+inline_code_attributes+smart \
             --number-sections \
-            --title-prefix="DMT1" \
+            --title-prefix="CSTheory" \
             --table-of-contents --toc-depth=3 \
             --css=${prefix}style.css \
             --katex='https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.11.1/' \
@@ -113,8 +113,8 @@ if [ cal.yaml -nt schedule.html ] \
 then
     echo "doing schedule"
     python3 cal2html.py
-    scp "assignments.json" "kytos.cs.virginia.edu:/var/www/html/dmt1/meta/"
-    scp "coursegrade.json" "kytos.cs.virginia.edu:/var/www/html/dmt1/meta/"
+    scp "assignments.json" "kytos.cs.virginia.edu:/var/www/html/cstheory/meta/"
+    scp "coursegrade.json" "kytos.cs.virginia.edu:/var/www/html/cstheory/meta/"
 fi
 if [ schedule.html -nt markdown/schedule.md ]
 then
