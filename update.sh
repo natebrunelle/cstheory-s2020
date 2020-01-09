@@ -3,7 +3,7 @@
 here="$(dirname "$(readlink -m "$0")")/"
 self="$(readlink -m "$0")"
 cd "$here"
-target="$(readlink -f "$here""../demo_site/")/"
+target="$(readlink -f "$here""/demo_site/")/"
 remote=njb2b@portal.cs.virginia.edu:public_html/cstheory/s2020
 mkdir -p "$target"files
 
