@@ -3,7 +3,9 @@
 here="$(dirname "$(readlink -m "$0")")/"
 self="$(readlink -m "$0")"
 cd "$here"
-target="$HOME/public_html/cstheory/s2020/"
+target="$(readlink -f "$here""../demo_site/")/"
+remote=njb2b@portal.cs.virginia.edu:public_html/cstheory/s2020
+mkdir -p "$target"files
 
 if ls ~/.local/pandoc*/bin/pandoc
 then pd="$(ls  ~/.local/pandoc*/bin/pandoc | tail -1)"
@@ -129,5 +131,5 @@ done
 
 
 
-#rsync --update --compress --recursive --times --verbose -e ssh "$target" "$remote"
+rsync --update --compress --recursive --times --verbose -e ssh "$target" "$remote"
 
