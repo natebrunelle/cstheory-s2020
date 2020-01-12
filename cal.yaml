@@ -80,12 +80,19 @@ reading:
     
 assignments:
     ".groups":
-        Exercise:
+        exercise:
             portion: "45"
-        Quiz:
+        quiz:
             portion: "14"
-        Exam:
+        exam:
             portion: "40"
+            
     exercise0-1:
         due: 2020-01-24 10:50:00
+        group: exercise
+        open: 2020-01-13
+        due: 2020-01-20 15:00:00
+        writeup: exercise0.html
+        weight: 1
+        
 
