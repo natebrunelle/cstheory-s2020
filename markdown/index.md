@@ -30,7 +30,4 @@ At the conclusion of this course, a successful student will be able to:
 - Reason formally about the cost of computation, and be able to prove useful bounds on the costs of solving problems, including showing that certain problems are intractable.
 
 
-## Details
-
-
 
