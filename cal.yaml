@@ -89,8 +89,8 @@ assignments:
             
     exercise0_1:
         group: exercise
-        open: 2020-01-13
-        due: 2020-01-20
+        open: 2020-01-14
+        due: 2020-01-21
         writeup: exercise0.html
         weight: 1
         
