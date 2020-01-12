@@ -4,7 +4,12 @@ title: Theory of Computation
 
 # Course Overview 
 
-This is a course on the theoretical aspects of computer science. This semester we will define and study computing from a theoretical perspective. Your experience will provide an understanding of:
+The goal of this course is to understand the fundamental limits on what can be
+efficiently computed in our universe and other possible (or imaginary) universes. These limits reveal
+deep and mysterious properties about information, communication, and computing, as well as practical
+issues about how to solve problems.
+
+Your experience will provide an understanding of:
 
 - Formal definitions of computing and computers
 - What "problems" can and cannot be computed according to those definitions (*computability*)
