@@ -105,6 +105,13 @@ assignments:
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise0.html'
         weight: 1
         files: 'exercise0_1.pdf'
+        rubric:
+            kind: hybrid
+            auto-weight: 0
+            auto-late-days: 0
+            late-penalty: 0.75
+            human:
+                - It is correct
     
         
 
