@@ -44,9 +44,10 @@ lectures:
 
     - Complexity
     - Evaluation
+    - Cost and Counting
 
     - Review
-    - Cost and Counting
+
     
     - Size Hierarchy
     - Machines
@@ -57,10 +58,11 @@ lectures:
     - Reductions
     - Rice's Theorem
 
-    - Review
+
     - Turing Machines
 
     - Polynomial Time Reductions
+    - Review
     - Omniscience
 
     - NP-Completeness
