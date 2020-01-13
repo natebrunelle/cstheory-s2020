@@ -169,6 +169,7 @@ def raw2cal(data, links=None):
         for task,ent in data['assignments'].items():
             if task[0] == '.': continue
             if 'due' not in ent: continue
+            print(ent)
             if ent['due'].date() != d: continue
             group = ent.get('group', re.match('^[A-Za-z]*',task).group(0))
             tmp = dict(data['assignments'].get('.groups',{}).get(group,{}))
