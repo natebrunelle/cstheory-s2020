@@ -119,6 +119,7 @@ assignments:
         
     exercise0_3:
         group: exercise
+        open: 2020-01-19 12:00:00
         due: 2020-01-23 15:30:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise0.html'
         weight: 1
