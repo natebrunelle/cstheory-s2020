@@ -2,7 +2,14 @@
 title: Office Hours
 ...
 
-Professor offices hours are in the professor's office.
+Professor offices hours are in the professor's office (Rice 209).
+
+He would be happy to chat with you if status looks like one of these:
+
+<img src=files/images/available.jpg height="200" >
+<img src=files/images/hosting.jpg height="200" >
+
+
 If I'm engaged with a student, don't just wait silently in the hall; ask me if you can come in and join the other student(s) there (often the answer will be yes, and even if no I'll know you are waiting).
 
 {.example ...} How to get help from a professor
@@ -19,7 +26,7 @@ TA office hours are in different locations at different times, as noted in the l
 
 1. Find when and where TAs are holding office hours
 2. Go to that location
-3. Look for a sign on a table or other indicator of CS 2102 TA
+3. Look for a sign on a table or other indicator of CS 3102 TA
 4. Approach the TA and ask for help
 {/}
 
