@@ -6,8 +6,8 @@ Professor offices hours are in the professor's office (Rice 209).
 
 He would be happy to chat with you if his status looks like one of these:
 
-<img src=files/images/available.jpg height="200" >
-<img src=files/images/hosting.jpg height="200" >
+<img src=files/images/available.jpg height="250" >
+<img src=files/images/hosting.jpg height="250" >
 
 
 If I'm engaged with another individual, don't just wait silently in the hall; ask me if you can come in and join the other student(s) there (often the answer will be yes, and even if no I'll know you are waiting).
