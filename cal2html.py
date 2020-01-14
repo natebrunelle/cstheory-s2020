@@ -417,6 +417,7 @@ if __name__ == '__main__':
     import json, sys, yaml
     raw = yamlfile('cal.yaml')
     links = yamlfile('links.yaml') if os.path.exists('links.yaml') else {print('no links.yaml')}
+    print(links)
     cal = raw2cal(raw, links)
     with open('schedule.html', 'w') as fh:
         fh.write(cal2html(cal))
