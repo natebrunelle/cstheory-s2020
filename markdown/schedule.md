@@ -2,7 +2,7 @@
 title: Spring 2020 Schedule
 ...
 
-As this is my time teaching this course, I expect to change the flow and pacing of topics as the semester progresses.
+Since this is a course in active re-development, I expect to change the flow and pacing of topics as the semester progresses.
 The past, and my best guess of the future, is reflected below.
 
 <hr/>
@@ -111,13 +111,9 @@ readings can be <input type="button" value="shown" onclick="document.querySelect
 
 <script src="schedule.js"></script>
 
-To subscribe to the above calendar, add <http://www.cs.virginia.edu/luther/DMT1/S2020/cal.ics> to your calender application of choice.
+To subscribe to the above calendar, add <http://www.cs.virginia.edu/~njb2b/cstheory/s2020/cal.ics> to your calender application of choice.
 
 <hr/>
-
-The <a href="https://www2.virginia.edu/registrar/exams.html#1202">final exam schedule</a> puts our final quiz at Thursday 30 April at 9:00 am. The final is an in-person on-paper quiz administered in the usual classroom.
-
-Note the <a href="https://www2.virginia.edu/registrar/exams.html#1202">final exam schedule</a> *also* lists a "special exam time" for CS 2102-001 and 2102-002. We are section 2012-003 and are thus not covered by that time.
 
 
 
