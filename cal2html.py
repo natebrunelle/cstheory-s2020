@@ -120,13 +120,17 @@ def raw2cal(data, links=None):
                     ent['sidx'] += 1
                 # handle separate links file
                 if links and d in links:
-                    print('here')
                     for f in links[d].get('files',[]):
                         n = os.path.basename(f)
                         n = n[n.find('-')+1:]
                         ans[-1].setdefault('reading',[]).append({'txt':n,'lnk':f})
-                    if 'video' in links[d]: ans[-1]['video'] = links[d]['video']
-                    if 'audio' in links[d]: ans[-1]['audio'] = links[d]['audio']
+                    for txt,lnk in links[d].items():
+                        if txt == 'files': continue
+                        ans[-1].setdefault('reading',[]).append({'txt':txt,'lnk':lnk})
+                        print(txt, lnk)
+                    print(ans[-1])
+                    #if 'video' in links[d]: ans[-1]['video'] = links[d]['video']
+                    #if 'audio' in links[d]: ans[-1]['audio'] = links[d]['audio']
 
             # handle office hours
             if data.get('office hours',{}).get('.begin', d) <= d:
@@ -236,7 +240,7 @@ def cal2html(cal):
                     if more:
                         ans.append('<details class="{}">'.format(' '.join(classes)))
                         ans.append('<summary>{}</summary>'.format(title))
-                        ans.append(' <small>and</small> '.join(more))
+                        ans.append(' <small>and\n</small> '.join(more))
                         ans.append('</details>')
                     else:
                         ans.append('<div class="{}">{}</div>'.format(' '.join(classes), title))
