@@ -95,12 +95,12 @@ assignments:
     Exam_1:
         group: exam
         weight: 12
-        due: 2020-02-20 15:00:00
+        due: 2020-02-20 15:30:00
     
     Exam_2:
         group: exam
         weight: 12
-        due: 2020-04-02 15:00:00
+        due: 2020-04-02 15:30:00
 
     Exam_3:
         group: exam
