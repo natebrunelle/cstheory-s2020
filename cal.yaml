@@ -34,10 +34,10 @@ sections:
 lectures:
     - welcome
     - Simplifying
-    - Logic and Bits
+    - Counting
 
-    - Sets and infinities
-    - Functions
+    - Logic and Bits
+    - Circuits
 
     - Circuits
     - Syntactic Sugar
