@@ -32,51 +32,6 @@ TA office hours are in different locations at different times, as noted in the l
 
 
 
-Upcoming office hours (for the next week):
+Course Calendar:
 
-<table class="oh">
-<thead><tr><th>Day</th><th>Whom</th><th>Where</th><th>Starts</th><th>Ends</th></tr></thead>
-<tbody id="cal-oh">
-</tbody>
-</table>
-
-<style>
-table.oh { margin: auto; }
-table.oh thead td { border-bottom: thin solid black; }
-table.oh td { text-align: center; }
-table.oh tbody tr:nth-child(2n+1) { background: linear-gradient(to right, rgba(0,0,0,0.03125), rgba(0,0,0,0)); }
-.oh.ta { background-color: rgba(0,255,127,0.125); }
-.oh.faculty { background-color: rgba(0,127,255,0.125); }
-tr.Sun, tr.Mon, tr.Tue, tr.Wed, tr.Thu, tr.Fri, tr.Sat { border-top: thick solid rgba(0,0,0,0.25); }
-tr.Sun + tr.Sun, tr.Mon + tr.Mon, tr.Tue + tr.Tue, tr.Wed + tr.Wed, tr.Thu + tr.Thu, tr.Fri + tr.Fri, tr.Sat + tr.Sat { border-top: none; }
-</style>
-<script src="moment.min.js" type="text/javascript"></script>
-<script src="cal-oh.js" type="text/javascript"></script>
-<script type="text/javascript">//<!--
-now = new Date(); now.setDate(now.getDate() - 1); now = now.toISOString()
-week = new Date(); week.setDate(week.getDate() + 7); week = week.toISOString()
-within = document.getElementById('cal-oh')
-oh_feed.forEach(x => {
-    if (x.end < now || x.start > week) return;
-    console.log(x)
-    s = new Date(x.start)
-    e = new Date(x.end)
-    tr = within.insertRow()
-    tr.classList.add(moment(x.start).format('ddd'))
-    tr.insertCell().innerText = moment(x.start).format('ddd D MMM')
-    let entry = tr.insertCell()
-    entry.classList.add('oh')
-    entry.classList.add(x['title'].split(' ')[0] == 'TA' ? 'ta' : 'faculty')
-    if ('link' in x) {
-        let a = document.createElement('a')
-        a.href = x['link']
-        a.innerText = x['title'].replace(/\bOH\b/g, '').trim()
-        entry.appendChild(a);
-    } else {
-        entry.innerText = x['title'].replace(/\bOH\b/g, '').trim()
-    }
-    tr.insertCell().innerText = x.location
-    tr.insertCell().innerText = moment(x.start).format('h:mm a')
-    tr.insertCell().innerText = moment(x.end).format('h:mm a')
-})
-//--></script>
+<iframe src="https://calendar.google.com/calendar/embed?src=kmf2gjk9ne5f6odf9t126a1gjs%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
