@@ -19,4 +19,6 @@ Each answer should be no more than a single paragraph, but in most cases just a 
 
 1. **Infinity:** Following on from the previous question, why will we consider only finite-length strings in our models of computing?
 
+1. **Computability:** Suppose I told my middle-school aged cousin "Computers can't do everything" and she responds with "Why not?". Suggest an answer to her question using something you've learned in lecture thus far.
+
 1. **Integrity:** The syllabus gives different rules regarding collaborations for different assignments. Please read the collaboration rules for the various kinds of tasks. We mention that, on exercises, we welcome and encourage collaboration with classmates and use of external materials to supplement your learning. We then give 3 qualifications in the bulletted list (independent write-ups, understand what you submit, cite each thing that wasn't your work). Why do we encourage collaboration? Why did we add each of the three qualifications? (Give one reason for each thing, so 4 reasons total). 
