@@ -127,6 +127,13 @@ assignments:
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise0.html'
         weight: 1
         files: ['mset.java', 'mset.py']
+        
+    quiz01:
+        group: quiz
+        due: 2020-01-28 15:30:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/quiz01.html'
+        weight: 1
+        files: [quiz01.txt, quiz01.pdf, quiz01.jpg, quiz01.png]
     
         
 
