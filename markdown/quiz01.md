@@ -13,7 +13,7 @@ Each answer should be no more than a single paragraph, but in most cases just a 
 
 # Questions
 
-1. **Sets:** We discussed in class that although we often use math to talk about computing and we often implement math with computers, there's typically a disconnect between math and computing. Name and discuss two ways that the behavior our implementation of mset from exercise0_3 is unlike that of sets from math.
+1. **Sets:** We discussed in class that although we often use math to talk about computing and we often implement math with computers, there's typically a disconnect between math and computing. Name and discuss two ways that the behavior of our implementation of mset from exercise0_3 is unlike that of sets from math.
 
 1. **Strings:** In our "vague" overview of computing models we said that, when we compute, we implement a function mapping strings to strings. Name and describe one reason why we chose strings as the input/output type.
 
