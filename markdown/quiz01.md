@@ -13,6 +13,8 @@ Each answer should be no more than a single paragraph, but in most cases just a 
 
 # Questions
 
+1. **Integrity:** The syllabus gives different rules regarding collaborations for different assignments. Please read the [collaboration rules](https://www.cs.virginia.edu/~njb2b/cstheory/s2020/syllabus.html#no-plagiarism-nor-anything-like-it) for each kind of task. We mention that, for exercises, we welcome and encourage collaboration with classmates and use of external materials to supplement your learning. We then give 3 qualifications in the itemized list (independent write-ups, understand what you submit, cite each thing that wasn't your work). Why do we encourage collaboration? Why did we add each of the three qualifications? (Give one reason for each thing, so 4 reasons total.)
+
 1. **Sets:** We discussed in class that although we often use math to talk about computing and we often implement math with computers, there's typically a disconnect between math and computing. Name and discuss two ways that the behavior of our implementation of mset from exercise0_3 is unlike that of sets from math.
 
 1. **Strings:** In our "vague" overview of computing models we said that, when we compute, we implement a function mapping strings to strings. Name and describe one reason why we chose strings as the input/output type.
@@ -21,4 +23,4 @@ Each answer should be no more than a single paragraph, but in most cases just a 
 
 1. **Computability:** Suppose I told my middle-school aged cousin "Computers can't do everything" and she responds with "Why not?". Suggest an answer to her question using something you've learned in lecture.
 
-1. **Integrity:** The syllabus gives different rules regarding collaborations for different assignments. Please read the [collaboration rules](https://www.cs.virginia.edu/~njb2b/cstheory/s2020/syllabus.html#no-plagiarism-nor-anything-like-it) for each kind of task. We mention that, for exercises, we welcome and encourage collaboration with classmates and use of external materials to supplement your learning. We then give 3 qualifications in the itemized list (independent write-ups, understand what you submit, cite each thing that wasn't your work). Why do we encourage collaboration? Why did we add each of the three qualifications? (Give one reason for each thing, so 4 reasons total.)
+
