@@ -160,7 +160,7 @@ assignments:
         group: exercise
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise1.html'
         weight: 1
-        files: 'exercise1_5.pdf'
+        files: ['binary_strings.py', 'binary_strings.java']
         due: 2020-02-03 15:30:00
         
     quiz01:
