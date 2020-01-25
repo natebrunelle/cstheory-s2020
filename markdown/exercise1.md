@@ -1,5 +1,5 @@
 ---
-title: Exercise 1\: Enchantress of Numbers
+title: Exercise 1 Enchantress of Numbers
 ...
 
 # Introduction
