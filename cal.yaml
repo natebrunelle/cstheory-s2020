@@ -128,12 +128,48 @@ assignments:
         weight: 1
         files: ['mset.java', 'mset.py']
         
+    exercise1_1:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise1.html'
+        weight: 1
+        files: 'exercise1_1.pdf'
+        due: 2020-01-30 15:30:00
+    
+    exercise1_2:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise1.html'
+        weight: 1
+        files: 'exercise1_2.pdf'
+        due: 2020-01-30 15:30:00
+        
+    exercise1_3:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise1.html'
+        weight: 1
+        files: 'exercise1_3.pdf'
+        due: 2020-01-30 15:30:00
+    
+    exercise1_4:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise1.html'
+        weight: 1
+        files: 'exercise1_4.pdf'
+        due: 2020-02-03 15:30:00
+    
+    exercise1_5:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise1.html'
+        weight: 1
+        files: 'exercise1_5.pdf'
+        due: 2020-02-03 15:30:00
+        
     quiz01:
         group: quiz
         due: 2020-01-28 15:30:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/quiz01.html'
         weight: 1
         files: [quiz01.txt, quiz01.pdf, quiz01.jpg, quiz01.png]
+    
     
         
 
