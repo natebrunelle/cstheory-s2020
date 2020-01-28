@@ -49,6 +49,8 @@ In particular, we assume knowledge of (with recommended resources for review):
 - Logic and Notation ([CS2102 Glossary of logical terms](http://www.cs.virginia.edu/luther/DMT1/S2020/glossary.html))
 - Java Programming ([Java wikibook](https://en.wikibooks.org/wiki/Java_Programming))
 
+For each of the CS2102 topics, you can view last [semester's lectures](http://www.cs.virginia.edu/luther/DMT1/F2019/schedule.html) for more information
+
 
 
 
