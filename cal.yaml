@@ -157,14 +157,14 @@ assignments:
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise1.html'
         weight: 1
         files: 'exercise1_4.pdf'
-        due: 2020-02-03 15:30:00
+        due: 2020-02-04 15:30:00
     
     exercise1_5:
         group: exercise
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise1.html'
         weight: 1
         files: ['binary_strings.py', 'binary_strings.java']
-        due: 2020-02-03 15:30:00
+        due: 2020-02-04 15:30:00
         
     quiz01:
         group: quiz
