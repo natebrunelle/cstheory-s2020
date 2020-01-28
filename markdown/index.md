@@ -44,7 +44,8 @@ In particular, we assume knowledge of (with recommended resources for review):
 
 - Sets ([CS2102 Sets Primer](http://www.cs.virginia.edu/luther/DMT1/S2020/sets.html))
 - Functions ([Section 4.3 of this text](http://www.cs.virginia.edu/luther/DMT1/S2020/files/mcs.pdf))
-- Proof Writing ([CS2102 Proof Techniques](http://www.cs.virginia.edu/luther/DMT1/S2020/techniques-q8.html))
+- Proof Techniques ([CS2102 Proof Techniques](http://www.cs.virginia.edu/luther/DMT1/S2020/techniques-q8.html))
+- Proof Styles, we'll mostly be using "prose proofs" ((CS2102 Proof style guide)[http://www.cs.virginia.edu/luther/DMT1/S2020/proofs.html])
 - Logic and Notation ([CS2102 Glossary of logical terms](http://www.cs.virginia.edu/luther/DMT1/S2020/glossary.html))
 - Java Programming ([Java wikibook](https://en.wikibooks.org/wiki/Java_Programming))
 
