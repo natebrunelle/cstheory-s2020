@@ -37,9 +37,9 @@ lectures:
     - Counting
 
     - Infinities
-    - Logic and Bits
+    - Boolean Circuits
 
-    - Circuits
+    - Boolean Programs
     - Syntactic Sugar
 
     - Complexity
@@ -82,6 +82,9 @@ reading:
         - "TCS Chapter 1"
     Counting:
         - "TCS Chapter 2"
+    
+    Boolean Circuits:
+        - "TCS Chapter 3"
     
 assignments:
     ".groups":
