@@ -128,6 +128,16 @@ This numerical calculation is to be considered a **guideline** on your score in 
 
 Deadlines for all assignments and dates for all examinations are available on the [schedule page](schedule.html). Please note that these dates may change in order to adjust for course pacing.
 
+If you feel that extenuating circumstances justify late submission for any assignment, please request a deadline extension. You can do that on the same page where you would submit an assignment.
+
+## Regrades
+
+We acknowledge that professors and TAs are people, and people make mistakes. For this reason, you are able to request regrades on assignments within 1 week of your grade being returned.
+
+For **exercises** and **exams**, please only submit a regrade request if you believe the rubric was misapplied to your submission. In your request, identify specifically what in your submission demonstrates the misapplication.
+
+The goal of **quizzes** is to help you to form a better conceptual understanding of course materials, and therefore we consider them primarily as an opportunity to identify and correct misconceptions. For this reason, you may submit one regrade request per quiz to revise your answers.
+
 # Miscellanea
 
 ## Pledge
