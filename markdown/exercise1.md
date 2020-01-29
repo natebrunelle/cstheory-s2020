@@ -54,4 +54,6 @@ Before you begin on this assignment, download either [binary_strings.py](/files/
 
 Follow the instructions in the program you downloaded (follow them line-by-line in python, follow the numbers in order in Java). Submit the completed binary_strings file. Your code will receive full credit provided you followed the instructions and, when run (with asserts enabled), the printed output has exclusively encouraging messages (and has no errors).
 
+If you are stuck on one of the asserts, comment out that assert statement to skip it.
+
 
