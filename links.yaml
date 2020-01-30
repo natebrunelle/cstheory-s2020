@@ -19,8 +19,16 @@
 2020-01-23:
     slides(pdf): files/slides/infinity.pdf
     slides(pptx): files/slides/infinity.pptx
+    slides(post): files/slides/infinity_written.pdf
     video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8864af3a-9fae-4615-8b71-ab4b0151da65
 
 2020-01-28:
     slides(pdf): files/slides/boolean_circuits.pdf
     slides(pptx): files/slides/boolean_circuits.pptx
+    slides(post): files/slides/boolean_circuits_written.pdf
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=38e2cc52-6647-4f9c-a724-ab50015202fb
+
+2020-01-30:
+    slides(pdf): files/slides/nand_circ_language.pdf
+    slides(pptx): files/slides/nand_circ_language.pptx
+
