@@ -137,6 +137,7 @@ assignments:
         weight: 1
         files: 'exercise1_1.pdf'
         due: 2020-01-30 15:30:00
+        late-policy: [0.75,0.75,0.75,0.75,0.75]
     
     exercise1_2:
         group: exercise
@@ -144,6 +145,7 @@ assignments:
         weight: 1
         files: 'exercise1_2.pdf'
         due: 2020-01-30 15:30:00
+        late-policy: [0.75,0.75,0.75,0.75,0.75]
         
     exercise1_3:
         group: exercise
@@ -151,6 +153,7 @@ assignments:
         weight: 1
         files: 'exercise1_3.pdf'
         due: 2020-01-30 15:30:00
+        late-policy: [0.75,0.75,0.75,0.75,0.75]
     
     exercise1_4:
         group: exercise
@@ -158,6 +161,7 @@ assignments:
         weight: 1
         files: 'exercise1_4.pdf'
         due: 2020-02-04 15:30:00
+        late-policy: [0.75,0.75,0.75]
     
     exercise1_5:
         group: exercise
@@ -165,6 +169,7 @@ assignments:
         weight: 1
         files: ['binary_strings.py', 'binary_strings.java']
         due: 2020-02-04 15:30:00
+        late-policy: [0.75,0.75,0.75]
         
     quiz01:
         group: quiz
