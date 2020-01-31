@@ -130,6 +130,8 @@ Deadlines for all assignments and dates for all examinations are available on th
 
 If you feel that extenuating circumstances justify late submission for any assignment, please request a deadline extension. You can do that on the same page where you would submit an assignment.
 
+You may submit any assignment within 48 hours after the deadline with a grade penalty of 25%.
+
 ## Regrades
 
 We acknowledge that professors and TAs are people, and people make mistakes. For this reason, you are able to request regrades on assignments within 1 week of your grade being returned.
