@@ -170,6 +170,46 @@ assignments:
         due: 2020-02-04 15:30:00
         late-policy: [0.75,0.75,0.75]
         
+    exercise2_1:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise2.html'
+        weight: 1
+        files: ['straightline.py', 'straightline.java']
+        due: 2020-02-06 15:30:00
+        late-policy: [0.75,0.75]
+    
+    exercise2_2:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise2.html'
+        weight: 1
+        files: 'exercise2_2.pdf'
+        due: 2020-02-11 15:30:00
+        late-policy: [0.75,0.75]
+        
+    exercise2_3:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise2.html'
+        weight: 1
+        files: 'exercise2_3.pdf'
+        due: 2020-02-11 15:30:00
+        late-policy: [0.75,0.75]    
+    
+    exercise2_4:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise2.html'
+        weight: 1
+        files: 'exercise2_4.pdf'
+        due: 2020-02-11 15:30:00
+        late-policy: [0.75,0.75]    
+    
+    exercise2_5:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise2.html'
+        weight: 1
+        files: 'exercise2_5.pdf'
+        due: 2020-02-11 15:30:00
+        late-policy: [0.75,0.75]        
+        
     quiz01:
         group: quiz
         due: 2020-01-28 15:30:00
