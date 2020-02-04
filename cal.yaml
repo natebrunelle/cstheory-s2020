@@ -85,6 +85,12 @@ reading:
     
     Boolean Circuits:
         - "TCS Chapter 3"
+        
+    Boolean Programs:
+        - "TCS Chapter 3"
+    
+    Syntactic Sugar
+        - "TCS Chapter 4"
     
 assignments:
     ".groups":
