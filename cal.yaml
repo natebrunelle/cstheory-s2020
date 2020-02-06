@@ -42,8 +42,8 @@ lectures:
     - Boolean Programs
     - Syntactic Sugar
 
-    - Complexity
     - Evaluation
+    - Complexity
     - Cost and Counting
 
     - Review
@@ -91,6 +91,9 @@ reading:
     
     Syntactic Sugar:
         - "TCS Chapter 4"
+    
+    Universality:
+        - "TCS Chapter 5"
     
 assignments:
     ".groups":
