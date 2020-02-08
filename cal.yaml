@@ -233,5 +233,11 @@ assignments:
         weight: 1
         files: [quiz02.txt, quiz02.pdf, quiz02.jpg, quiz02.png]
     
+    quiz03:
+        group: quiz
+        due: 2020-02-13 15:30:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/quiz03.html'
+        weight: 1
+        files: [quiz03.txt, quiz03.pdf, quiz03.jpg, quiz03.png]
         
 
