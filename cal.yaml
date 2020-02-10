@@ -217,7 +217,55 @@ assignments:
         weight: 1
         files: 'exercise2_5.pdf'
         due: 2020-02-11 15:30:00
-        late-policy: [0.75,0.75]        
+        late-policy: [0.75,0.75]
+
+    exercise3_1:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise3.html'
+        weight: 1
+        files: [eval.py, eval.java]
+        due: 2020-02-13 15:30:00
+        late-policy: [0.75,0.75] 
+        
+    exercise3_2:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise3.html'
+        weight: 1
+        files: 'exercise3_2.pdf'
+        due: 2020-02-13 15:30:00
+        late-policy: [0.75,0.75]  
+        
+    exercise3_3:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise3.html'
+        weight: 1
+        files: 'exercise3_3.pdf'
+        due: 2020-02-13 15:30:00
+        late-policy: [0.75,0.75]  
+    
+    exercise3_4:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise3.html'
+        weight: 1
+        files: 'exercise3_4.pdf'
+        due: 2020-02-18 15:30:00
+        late-policy: [0.75,0.75]  
+    
+    exercise3_5:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise3.html'
+        weight: 1
+        files: 'exercise3_5.pdf'
+        due: 2020-02-18 15:30:00
+        late-policy: [0.75,0.75]         
+    
+    exercise3_6:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise3.html'
+        weight: 1
+        files: 'exercise3_6.pdf'
+        due: 2020-02-18 15:30:00
+        late-policy: [0.75,0.75]  
         
     quiz01:
         group: quiz
