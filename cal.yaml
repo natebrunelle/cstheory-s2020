@@ -43,8 +43,8 @@ lectures:
     - Syntactic Sugar
 
     - Universality
+    - Evaluation
     - Complexity
-    - Cost and Counting
 
     - Review
 
@@ -93,6 +93,12 @@ reading:
         - "TCS Chapter 4"
     
     Universality:
+        - "TCS Chapter 5"
+    
+    Evaluation:
+        - "TCS Chapter 5"
+    
+    Complexity:
         - "TCS Chapter 5"
     
 assignments:
