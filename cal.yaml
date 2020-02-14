@@ -244,8 +244,7 @@ assignments:
     exercise3_3:
         group: exercise
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise3.html'
-        weight: 1
-        files: 'exercise3_3.pdf'
+        weight: 0
         due: 2020-02-18 15:30:00
         late-policy: [0.75,0.75]  
     
