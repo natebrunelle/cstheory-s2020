@@ -60,7 +60,7 @@
 2020-02-18:
     Exam1 Practice: files/practice_exam1.pdf
     slides(pdf): files/slides/review_exam1.pdf
-    slides(pptx): files/slides/review_exam1.pdf 
+    slides(pptx): files/slides/review_exam1.pptx 
     video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=18f43a0a-4858-4501-9546-ab650151a4d5
 
 2020-02-20:
@@ -68,3 +68,7 @@
     review pt2: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8de8af15-bfae-469d-aae3-ab6700032ad8
     review pt3: files/exam1_review_notes/audio.mp3
     various student notes: files/exam1_review_notes
+
+2020-02-25:
+    slides(pdf): files/slides/automata.pdf
+    slides(pptx): files/slides/automata.pptx

@@ -49,17 +49,17 @@ lectures:
     - Review
 
     
-    - Size Hierarchy
-    - Machines
+    - Automata
+    - Pumping and Non-determinism
 
-    - Computability
-    - Universality and Uncomputability
-
-    - Reductions
-    - Rice's Theorem
-
-
+    - Regular Expressions
     - Turing Machines
+
+    - Turing Universality and uncomputability
+    - Reductions and Rice's Theorem
+
+
+    - Complexity Classes
 
     - Polynomial Time Reductions
     - Review
@@ -100,6 +100,9 @@ reading:
     
     Complexity:
         - "TCS Chapter 5"
+    
+    Automata:
+        - "TCS Chapter 9"
     
 assignments:
     ".groups":
