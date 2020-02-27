@@ -50,9 +50,9 @@ lectures:
 
     
     - Automata
-    - Pumping and Non-determinism
+    - Regular Expressions and Closure
 
-    - Regular Expressions
+    - Non-determinism
     - Turing Machines
 
     - Turing Universality and uncomputability
@@ -102,6 +102,9 @@ reading:
         - "TCS Chapter 5"
     
     Automata:
+        - "TCS Chapter 9"
+    
+    Regular Expressions and Closure
         - "TCS Chapter 9"
     
 assignments:
