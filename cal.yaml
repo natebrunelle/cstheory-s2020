@@ -315,6 +315,13 @@ assignments:
         files: 'exercise3_6.pdf'
         due: 2020-02-18 23:59:00
         late-policy: [0.75,0.75]  
+    
+    exercise4_1:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise4.html'
+        weight: 1
+        files: ['several_dfas.py', 'SeveralDFAs.java']
+        due: 2020-03-03 23:00:00
         
     quiz01:
         group: quiz
