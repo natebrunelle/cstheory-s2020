@@ -16,6 +16,8 @@ As an aside, these finite automata may seem to be the least "real" of the models
 - Formal software verification using [Linear Temporal Logic](https://www.cs.rice.edu/~vardi/papers/ijcai13.pdf) 
 - Psuedo-random number generation [shameless plug](https://patents.google.com/patent/US9977652)
 
+This assignment will also help you to get acquainted with closure and with regular expressions. As an aside, here is a regular-expressions-motivated reason that we prefer the way we represent natural numbers be onto: [Regexes for Roman Numberals](https://www.youtube.com/watch?v=M3x5Z3iIoSU&fbclid=IwAR0DZeaS_P5GyEBUkNUNJotDExLelFOBFCx5NQSS2nORjfnfng6_B-XwTo8).
+
 # Exercise 3-1: DFA Programming Problems
 
 The programming problems for this assignment will guide you through implementing the EVAL function discussed in class. Will will be building up the subroutines we will need. Use the psuedocode presented in class or in the textbook to guide you through it.
@@ -77,10 +79,24 @@ The image below shows an example of invoking the function with the string "aaaa"
 
 
 
-# Exercises 3-2 NFA Programming Problems
+# Exercises 3-2 through 3-5 Written problems.
 
-TBD
+Answer each of the problems contained in [this pdf](/files/exercises/exercise4.pdf) with an accompanying proof.
 
-# Exercise 3-3 Written problems
+To begin, download [exercise4.zip](/files/exercises/exercise4.zip) and upload as a new project in overleaf. Within that zip you will see 6 tex files. the `exercise4.tex` file contains the code which generates the pdf. You will provide your answers in the `exercise4-2.tex`, `exercise4-3.tex`, `exercise4-4.tex`, and `exercise4-5.tex` files. 
 
-TBD
+First, change `\submitter{TODO: your name}` in `exercise4.tex` to contain your name and UVA email id (e.g. `\submitter{Grace Hopper (gmh1a)}`)
+
+Next, cite all your sources in `\collaborators{TODO: replace ...}` according to the [course policy](https://www.cs.virginia.edu/~njb2b/cstheory/s2020/syllabus.html#no-plagiarism-nor-anything-like-it)
+
+At this point, fill in all of your solutions in the proper tex file. When you rebuild the pdf, your solutions should appear as you write them.
+
+
+## Deliverable
+
+You will need to submit a separate pdf for each of the exercises 4-2, 4-3, 4-4, and 4-5. We do this for a few reasons: we can release individual problems' grades as they're graded rather than waiting for the whole problem set to be graded, we can adjust deadlines for individual problems if necessary, if you need extra time on one problem then you can submit just that one late instead of receiving a late penalty on all problems, etc.  We have made it easy for you to get these separate pdfs, however.
+
+At the very top of `exercise4.tex` there is a line which reads `\usepackage{uvatoc}`. That line tells LaTeX include everything in the pdf. To include only one problem, comment that line out and uncomment (one at a time) `\usepackage[response2]{uvatoc}`, `\usepackage[response3]{uvatoc}`, `\usepackage[response4]{uvatoc}`, `\usepackage[response5]{uvatoc}` and `\usepackage[response6]{uvatoc}` to build a pdf with only exercise 4-2, 4-3, 4-4, and 4-5 respectively.
+
+Rename the pdf files for the appropriate exercise, and submit to the [assignments page](https://kytos.cs.virginia.edu/cstheory).
+
