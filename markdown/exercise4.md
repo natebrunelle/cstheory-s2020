@@ -2,7 +2,6 @@
 title: Exercise 4 Automata Tune
 ...
 
-<blockquote style="background-color:#fbb; font-size:150%">This assignment so far is only partially released. The remaining problems will be chosen depending on how far we get in lecture on Feb 27.</blockquote>
 
 # Introduction
 
