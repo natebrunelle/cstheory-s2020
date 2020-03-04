@@ -325,7 +325,7 @@ assignments:
         weight: 1
         files: ['several_dfas.py', 'SeveralDFAs.java']
         due: 2020-03-04 23:59:00
-        late-policy: [0.75,0.75]  
+        late-policy: [1,1,1,1]  
         
     exercise4_2:
         group: exercise
@@ -333,7 +333,7 @@ assignments:
         weight: 1
         files: ['exercise4_2.pdf']
         due: 2020-03-06 23:59:00
-        late-policy: [0.75,0.75]  
+        late-policy: [1,1,1,1]    
         
     exercise4_3:
         group: exercise
@@ -341,7 +341,7 @@ assignments:
         weight: 1
         files: ['exercise4_3.pdf']
         due: 2020-03-06 23:59:00
-        late-policy: [0.75,0.75]  
+        late-policy: [1,1,1,1]    
         
     exercise4_4:
         group: exercise
@@ -349,7 +349,7 @@ assignments:
         weight: 1
         files: ['exercise4_4.pdf']
         due: 2020-03-06 23:59:00
-        late-policy: [0.75,0.75]  
+        late-policy: [1,1,1,1]  
         
     exercise4_5:
         group: exercise
@@ -357,7 +357,7 @@ assignments:
         weight: 1
         files: ['exercise4_5.pdf']
         due: 2020-03-06 23:59:00
-        late-policy: [0.75,0.75]  
+        late-policy: [1,1,1,1]    
         
     quiz01:
         group: quiz
