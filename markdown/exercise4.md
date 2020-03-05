@@ -17,7 +17,7 @@ As an aside, these finite automata may seem to be the least "real" of the models
 
 This assignment will also help you to get acquainted with closure and with regular expressions. As an aside, here is a regular-expressions-motivated reason that we prefer the way we represent natural numbers be onto: [Regexes for Roman Numberals](https://www.youtube.com/watch?v=M3x5Z3iIoSU&fbclid=IwAR0DZeaS_P5GyEBUkNUNJotDExLelFOBFCx5NQSS2nORjfnfng6_B-XwTo8).
 
-# Exercise 3-1: DFA Programming Problems
+# Exercise 4-1: DFA Programming Problems
 
 The programming problems for this assignment will guide you through implementing the EVAL function discussed in class. Will will be building up the subroutines we will need. Use the psuedocode presented in class or in the textbook to guide you through it.
 
@@ -78,7 +78,7 @@ The image below shows an example of invoking the function with the string "aaaa"
 
 
 
-# Exercises 3-2 through 3-5 Written problems.
+# Exercises 4-2 through 4-5 Written problems.
 
 Answer each of the problems contained in [this pdf](/files/exercises/exercise4.pdf) with an accompanying proof.
 
