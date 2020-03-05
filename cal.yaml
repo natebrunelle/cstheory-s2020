@@ -53,6 +53,8 @@ lectures:
     - Regular Expressions and Closure
 
     - Non-determinism
+    - FSA Equals Regex
+    
     - Turing Machines
 
     - Turing Universality and uncomputability
@@ -68,7 +70,6 @@ lectures:
     - NP-Completeness
     - More NP-Completeness
     
-    - Cryptography
     - Conclusion
 
 reading: 
