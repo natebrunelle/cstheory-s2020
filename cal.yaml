@@ -324,7 +324,7 @@ assignments:
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise4.html'
         weight: 1
         files: ['several_dfas.py', 'SeveralDFAs.java']
-        due: 2020-03-04 23:59:00
+        due: 2020-03-08 23:59:00
         late-policy: [1,1,1,1]
         
     exercise4_2:
