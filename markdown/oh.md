@@ -7,11 +7,11 @@ During our move to online, we will be conducting office hours via [Zoom](https:/
 We will have scheduled office hours times. If you have questions outside of office hours, please use the [course piazza](https://piazza.com/class/k5e7rb8cjk23ml).
 
 
-*Professor offices hours* will be held in Nate Brunelle's [zoom meeting room](https://virginia.zoom.us/j/2191769718). Simply join and hang out during office hours!
+**Professor offices hours** will be held in Nate Brunelle's [zoom meeting room](https://virginia.zoom.us/j/2191769718). Simply join and hang out during office hours!
 
 
 
-*TA office hours* will be conducted using the [office hours queue](https://kytos.cs.virginia.edu/ohq/?c=cs3102). To get help, add yourself to the queue, putting a link to your zoom personal meeting room. A TA will join your meeting room when it's your turn. 
+**TA office hours** will be conducted using the [office hours queue](https://kytos.cs.virginia.edu/ohq/?c=cs3102). To get help, add yourself to the queue, putting a link to your zoom personal meeting room. A TA will join your meeting room when it's your turn. 
 
 
 
