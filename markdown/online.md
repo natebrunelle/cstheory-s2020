@@ -25,4 +25,4 @@ TA office hours will be held differently. There is a new [Office Hours queue](ht
 
 # Exams: 
 
-Midterm 2 has been moved to April 7. This is after the reevaluation of the in-person hiatus. If we are regathering in Charlottesville on April 5, we will conduct the midterm as planned. Otherwise, you will be notified of the plan.
+TBD
