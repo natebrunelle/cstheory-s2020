@@ -358,7 +358,21 @@ assignments:
         weight: 1
         files: ['exercise4_5.pdf']
         due: 2020-03-06 23:59:00
-        late-policy: [1,1,1,1]    
+        late-policy: [1,1,1,1]  
+    
+    exercise5_1:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise5.html'
+        weight: 1
+        files: ['exercise5.py', 'exercise5.java']
+        due: 2020-03-31 23:59:00
+        
+    exercise5_2:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise5.html'
+        weight: 1
+        files: ['exercise5_2.pdf']
+        due: 2020-03-31 23:59:00
         
     quiz01:
         group: quiz
