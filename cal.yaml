@@ -364,7 +364,7 @@ assignments:
         group: exercise
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise5.html'
         weight: 1
-        files: ['exercise5.py', 'exercise5.java']
+        files: ['exercise5.py', 'Exercise5.java']
         due: 2020-03-31 23:59:00
         
     exercise5_2:
