@@ -368,6 +368,7 @@ assignments:
         weight: 1
         files: ['exercise5.py', 'Exercise5.java']
         due: 2020-03-31 23:59:00
+        late-policy: [0.75,0.75]
         
     exercise5_2:
         group: exercise
@@ -375,6 +376,7 @@ assignments:
         weight: 1
         files: ['exercise5_2.pdf']
         due: 2020-03-31 23:59:00
+        late-policy: [0.75,0.75]
         
     quiz01:
         group: quiz
