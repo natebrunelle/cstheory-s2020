@@ -9,7 +9,6 @@ Special Dates:
     start: 2020-03-07
     end: 2020-03-18
   Exam_1: 2020-02-20
-  Exam_2: 2020-04-07
   Exam_3: 2020-05-04
 
 meta:
@@ -62,18 +61,19 @@ lectures:
     - Church Turing Thesis
 
     - Turing Universality and uncomputability
-    - Reductions and Rice's Theorem
+    - Reductions 
 
 
-    - Complexity Classes
+    - Rice's Theorem and Complexity Classes
 
     - Polynomial Time Reductions
-    - Review
 
     - NP-Completeness
     - More NP-Completeness
     
-    - Conclusion
+    - Approximation
+    
+    -Conclusion
 
 reading: 
 
