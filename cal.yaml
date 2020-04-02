@@ -379,6 +379,46 @@ assignments:
         due: 2020-03-31 23:59:00
         late-policy: [0.75,0.75]
         
+    exercise6_1:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise6.html'
+        weight: 1
+        files: ['exercise6_1.pdf']
+        due: 2020-04-10 23:59:00
+        late-policy: [0.75,0.75]
+
+    exercise6_2:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise6.html'
+        weight: 1
+        files: ['exercise6_2.pdf']
+        due: 2020-04-10 23:59:00
+        late-policy: [0.75,0.75]
+    
+    exercise6_3:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise6.html'
+        weight: 1
+        files: ['exercise6_3.pdf']
+        due: 2020-04-10 23:59:00
+        late-policy: [0.75,0.75]
+        
+    exercise6_4:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise6.html'
+        weight: 1
+        files: ['exercise6_4.pdf']
+        due: 2020-04-10 23:59:00
+        late-policy: [0.75,0.75]
+        
+    exercise6_5:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise6.html'
+        weight: 1
+        files: ['exercise6_5.pdf']
+        due: 2020-04-10 23:59:00
+        late-policy: [0.75,0.75]
+        
     quiz01:
         group: quiz
         due: 2020-01-28 15:30:00
