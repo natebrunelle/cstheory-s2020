@@ -58,6 +58,8 @@ lectures:
     - Going online and Summary
     
     - Turing Machines
+    
+    - Church Turing Thesis
 
     - Turing Universality and uncomputability
     - Reductions and Rice's Theorem
@@ -67,7 +69,6 @@ lectures:
 
     - Polynomial Time Reductions
     - Review
-    - Omniscience
 
     - NP-Completeness
     - More NP-Completeness
