@@ -25,4 +25,4 @@ TA office hours will be held differently. There is a new [Office Hours queue](ht
 
 # Exams: 
 
-TBD
+Exam 2 and Exam 3 are now optional for all students. If you opt out of an exam, the associated points will be re-distributed proportionally across all other assignments (exercises, quizzes, exams you haven't opted out of). If you opt into an exam, it will be administered orally. To take the exam, register using [this form](https://forms.gle/eoDcrasuQR5x6qRG6). If you do not register, I will assume you have opted out.
