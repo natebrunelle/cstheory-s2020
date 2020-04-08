@@ -169,7 +169,7 @@ assignments:
     Exam_2:
         group: exam
         weight: 12
-        due: 2020-04-07 15:30:00
+        due: 2020-04-17 15:30:00
 
     Exam_3:
         group: exam
