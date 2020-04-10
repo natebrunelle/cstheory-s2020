@@ -384,7 +384,7 @@ assignments:
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise6.html'
         weight: 1
         files: ['exercise6_1.pdf']
-        due: 2020-04-10 23:59:00
+        due: 2020-04-12 23:59:00
         late-policy: [0.75,0.75]
 
     exercise6_2:
@@ -392,7 +392,7 @@ assignments:
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise6.html'
         weight: 1
         files: ['exercise6_2.pdf']
-        due: 2020-04-10 23:59:00
+        due: 2020-04-12 23:59:00
         late-policy: [0.75,0.75]
     
     exercise6_3:
@@ -400,7 +400,7 @@ assignments:
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise6.html'
         weight: 1
         files: ['exercise6_3.pdf']
-        due: 2020-04-10 23:59:00
+        due: 2020-04-12 23:59:00
         late-policy: [0.75,0.75]
         
     exercise6_4:
@@ -408,7 +408,7 @@ assignments:
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise6.html'
         weight: 1
         files: ['exercise6_4.pdf']
-        due: 2020-04-10 23:59:00
+        due: 2020-04-12 23:59:00
         late-policy: [0.75,0.75]
         
     exercise6_5:
@@ -416,7 +416,31 @@ assignments:
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise6.html'
         weight: 1
         files: ['exercise6_5.pdf']
-        due: 2020-04-10 23:59:00
+        due: 2020-04-12 23:59:00
+        late-policy: [0.75,0.75]
+        
+    exercise7_1:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise6.html'
+        weight: 1
+        files: ['exercise7_1.pdf']
+        due: 2020-04-17 23:59:00
+        late-policy: [0.75,0.75]
+        
+    exercise7_2:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise6.html'
+        weight: 1
+        files: ['exercise7_2.pdf']
+        due: 2020-04-17 23:59:00
+        late-policy: [0.75,0.75]
+    
+    exercise7_3:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise6.html'
+        weight: 1
+        files: ['exercise7_3.pdf']
+        due: 2020-04-17 23:59:00
         late-policy: [0.75,0.75]
         
     quiz01:
