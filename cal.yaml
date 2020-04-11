@@ -421,7 +421,7 @@ assignments:
         
     exercise7_1:
         group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise6.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise7.html'
         weight: 1
         files: ['exercise7_1.pdf']
         due: 2020-04-17 23:59:00
@@ -429,7 +429,7 @@ assignments:
         
     exercise7_2:
         group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise6.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise7.html'
         weight: 1
         files: ['exercise7_2.pdf']
         due: 2020-04-17 23:59:00
@@ -437,7 +437,7 @@ assignments:
     
     exercise7_3:
         group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise6.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise7.html'
         weight: 1
         files: ['exercise7_3.pdf']
         due: 2020-04-17 23:59:00
