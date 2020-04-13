@@ -485,4 +485,10 @@ assignments:
         weight: 1
         files: [quiz06.txt, quiz06.pdf, quiz06.jpg, quiz06.png]
         
+    quiz07:
+        group: quiz
+        due: 2020-04-06 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/quiz07.html'
+        weight: 0
+        
 
