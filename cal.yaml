@@ -487,7 +487,7 @@ assignments:
         
     quiz07:
         group: quiz
-        due: 2020-04-06 23:59:00
+        due: 2020-04-16 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/quiz07.html'
         weight: 0
         
