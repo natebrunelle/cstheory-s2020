@@ -442,6 +442,38 @@ assignments:
         files: ['exercise7_3.pdf']
         due: 2020-04-21 23:59:00
         late-policy: [0.75,0.75]
+
+    exercise8_1:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise8.html'
+        weight: 1
+        files: ['exercise8_1.pdf']
+        due: 2020-04-28 23:59:00
+        late-policy: [0.75,0.75]
+        
+    exercise8_2:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise8.html'
+        weight: 1
+        files: ['exercise8_2.pdf']
+        due: 2020-04-28 23:59:00
+        late-policy: [0.75,0.75]
+    
+    exercise8_3:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise8.html'
+        weight: 1
+        files: ['exercise8_3.pdf']
+        due: 2020-04-28 23:59:00
+        late-policy: [0.75,0.75]
+        
+    exercise8_4:
+        group: exercise
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise8.html'
+        weight: 1
+        files: ['exercise8_4.pdf']
+        due: 2020-04-28 23:59:00
+        late-policy: [0.75,0.75]
         
     quiz01:
         group: quiz
