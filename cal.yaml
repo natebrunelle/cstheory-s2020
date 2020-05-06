@@ -9,7 +9,6 @@ Special Dates:
     start: 2020-03-07
     end: 2020-03-18
   Exam_1: 2020-02-20
-  Exam_3: 2020-05-04
 
 meta:
   timezone: America/New_York
@@ -118,7 +117,7 @@ assignments:
         quiz:
             portion: "14"
         exam:
-            portion: "40"
+            portion: "12"
             
     Exam_1:
         group: exam
@@ -168,12 +167,12 @@ assignments:
     
     Exam_2:
         group: exam
-        weight: 12
+        weight: 0
         due: 2020-04-17 15:30:00
 
     Exam_3:
         group: exam
-        weight: 16
+        weight: 0
         due: 2020-05-04 09:00:00
             
     exercise0_1:
