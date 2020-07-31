@@ -119,6 +119,7 @@ def raw2cal(data, links=None):
                                 ans[-1]['reading'] = tmp[:]
                     ent['sidx'] += 1
                 # handle separate links file
+                print('doing links')
                 if links and d in links:
                     for f in links[d].get('files',[]):
                         n = os.path.basename(f)
@@ -205,6 +206,7 @@ def raw2cal(data, links=None):
 
 def cal2html(cal):
     """Uses divs only, with no week-level divs"""
+    print('doing cal2html')
     ans = ['<div id="schedule" class="calendar">']
     ldat = None
     for week in cal:

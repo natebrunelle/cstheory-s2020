@@ -1,24 +1,15 @@
 Special Dates:
-  Courses begin: 2020-01-13
-  Courses end: 2020-04-28
-  Add deadline: 2020-01-27
-  Drop deadline: 2020-02-24
-  Withdraw deadline: 2020-03-16
-  MLK break: 2020-01-20
-  Spring recess:
-    start: 2020-03-07
-    end: 2020-03-18
-  Exam_1: 2020-02-20
+  Courses begin: 2020-08-25
+  Courses end: 2020-11-24
+  Add deadline: 2020-09-08
+  Drop deadline: 2020-10-13
+  Withdraw deadline: 2020-10-27
 
 meta:
   timezone: America/New_York
   name: CSTheory
   lecture exam: true
   home: https://www.cs.virginia.edu/~njb2b/cstheory/s2020/
-  final:
-    start: 2020-05-04 09:00:00
-    duration: 180
-    room: Ruffner G008
 
 sections:
   CS3102:
@@ -30,85 +21,54 @@ sections:
 
 
 lectures:
-    - welcome
-    - Simplifying
-    - Counting
+    - Course Introduction
+    - Defining definitions
+    - What can be represented by bits
 
-    - Infinities
-    - Boolean Circuits
+    - What cannot be represented by bits
+    - defining Computation
 
-    - Boolean Programs
+    - Defining Boolean Circuits
     - Syntactic Sugar
 
-    - Universality
-    - Evaluation
     - Complexity
-
+    - Evaluation
     - Review
 
+    - Cost and Counting
+
     
-    - Automata
-    - Regular Expressions and Closure
+    - Size Hierarchy
+    - Machines
 
-    - Non-determinism
-    - FSA Equals Regex
+    - Computability
+    - Universality and Uncomputability
     
-    - Going online and Summary
+    - Reductions
     
-    - Turing Machines
+    - Rice's Theorem
     
-    - Church Turing Thesis
+    - Review
 
-    - Turing Universality and uncomputability
-    - Reductions 
+    - Turing Machine Running Time
+    - Polynomial-Time Reducitons
 
 
-    - Rice's Theorem and Complexity Classes
-
-    - Polynomial Time Reductions
+    - Is Omniscience Helpful?
 
     - NP-Completeness
+
     - More NP-Completeness
-    
-    - Approximation
+    - More NP-Completeness
     
     - Conclusion
 
 reading: 
 
-    welcome: 
+    Course Introduction: 
       - "TCS Chapter 0"
       - lnk: https://medium.com/@jeremyjkun/habits-of-highly-mathematical-people-b719df12d15e
         txt: six habits
-        
-    Simplifying:
-        - "TCS Chapter 1"
-    Counting:
-        - "TCS Chapter 2"
-    
-    Boolean Circuits:
-        - "TCS Chapter 3"
-        
-    Boolean Programs:
-        - "TCS Chapter 3"
-    
-    Syntactic Sugar:
-        - "TCS Chapter 4"
-    
-    Universality:
-        - "TCS Chapter 5"
-    
-    Evaluation:
-        - "TCS Chapter 5"
-    
-    Complexity:
-        - "TCS Chapter 5"
-    
-    Automata:
-        - "TCS Chapter 9"
-    
-    Regular Expressions and Closure:
-        - "TCS Chapter 9"
     
 assignments:
     ".groups":
@@ -118,414 +78,4 @@ assignments:
             portion: "15"
         exam:
             portion: "12"
-            
-    Exam_1:
-        group: exam
-        weight: 12
-        due: 2020-02-20 15:30:00
-
-    exam1p1:
-        weight: 5
-        due: 2020-02-19 15:30:00
-        hide: true
     
-    exam1p2:
-        weight: 10
-        due: 2020-02-19 15:30:00
-        hide: true
-    
-    exam1p3:
-        weight: 20
-        due: 2020-02-19 15:30:00
-        hide: true
-    
-    exam1p4:
-        weight: 10
-        due: 2020-02-19 15:30:00
-        hide: true
-    
-    exam1p5:
-        weight: 10
-        due: 2020-02-19 15:30:00
-        hide: true
-        
-    exam1p6:
-        weight: 10
-        due: 2020-02-19 15:30:00
-        hide: true
-        
-    exam1p7:
-        weight: 10
-        due: 2020-02-19 15:30:00
-        hide: true
-        
-    exam1p8:
-        weight: 10
-        due: 2020-02-19 15:30:00
-        hide: true
-
-    
-    Exam_2:
-        group: exam
-        weight: 0
-        due: 2020-04-17 15:30:00
-
-    Exam_3:
-        group: exam
-        weight: 0
-        due: 2020-05-04 09:00:00
-            
-    exercise0_1:
-        group: exercise
-        due: 2020-01-16 15:30:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise0.html'
-        weight: 1
-        
-    exercise0_2:
-        group: exercise
-        due: 2020-01-21 15:30:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise0.html'
-        weight: 1
-        files: 'exercise0_2.pdf'
-        
-    exercise0_3:
-        group: exercise
-        due: 2020-02-03 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise0.html'
-        weight: 1
-        files: ['mset.java', 'mset.py']
-        
-    exercise1_1:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise1.html'
-        weight: 1
-        files: 'exercise1_1.pdf'
-        due: 2020-01-30 15:30:00
-        late-policy: [0.75,0.75,0.75,0.75,0.75]
-    
-    exercise1_2:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise1.html'
-        weight: 1
-        files: 'exercise1_2.pdf'
-        due: 2020-01-30 15:30:00
-        late-policy: [0.75,0.75,0.75,0.75,0.75]
-        
-    exercise1_3:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise1.html'
-        weight: 1
-        files: 'exercise1_3.pdf'
-        due: 2020-01-30 15:30:00
-        late-policy: [0.75,0.75,0.75,0.75,0.75]
-    
-    exercise1_4:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise1.html'
-        weight: 1
-        files: 'exercise1_4.pdf'
-        due: 2020-02-04 15:30:00
-        late-policy: [0.75,0.75,0.75]
-    
-    exercise1_5:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise1.html'
-        weight: 1
-        files: ['binary_strings.py', 'binary_strings.java']
-        due: 2020-02-04 15:30:00
-        late-policy: [0.75,0.75,0.75]
-        
-    exercise2_1:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise2.html'
-        weight: 1
-        files: ['straightline.py', 'straightline.java']
-        due: 2020-02-06 15:30:00
-        late-policy: [0.75,0.75]
-    
-    exercise2_2:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise2.html'
-        weight: 1
-        files: 'exercise2_2.pdf'
-        due: 2020-02-11 15:30:00
-        late-policy: [0.75,0.75]
-        
-    exercise2_3:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise2.html'
-        weight: 1
-        files: 'exercise2_3.pdf'
-        due: 2020-02-11 15:30:00
-        late-policy: [0.75,0.75]    
-    
-    exercise2_4:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise2.html'
-        weight: 1
-        files: 'exercise2_4.pdf'
-        due: 2020-02-11 15:30:00
-        late-policy: [0.75,0.75]    
-    
-    exercise2_5:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise2.html'
-        weight: 1
-        files: 'exercise2_5.pdf'
-        due: 2020-02-11 15:30:00
-        late-policy: [0.75,0.75]
-
-    exercise3_1:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise3.html'
-        weight: 1
-        files: [eval.py, eval.java]
-        due: 2020-02-13 15:30:00
-        late-policy: [0.75,0.75] 
-        
-    exercise3_2:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise3.html'
-        weight: 1
-        files: 'exercise3_2.pdf'
-        due: 2020-02-18 23:59:00
-        late-policy: [0.75,0.75]  
-        
-    exercise3_3:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise3.html'
-        weight: 0
-        due: 2020-02-18 23:59:00
-        late-policy: [0.75,0.75]  
-    
-    exercise3_4:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise3.html'
-        weight: 1
-        files: 'exercise3_4.pdf'
-        due: 2020-02-18 23:59:00
-        late-policy: [0.75,0.75]  
-    
-    exercise3_5:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise3.html'
-        weight: 1
-        files: 'exercise3_5.pdf'
-        due: 2020-02-18 23:59:00
-        late-policy: [0.75,0.75]         
-    
-    exercise3_6:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise3.html'
-        weight: 1
-        files: 'exercise3_6.pdf'
-        due: 2020-02-18 23:59:00
-        late-policy: [0.75,0.75]  
-    
-    exercise4_1:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise4.html'
-        weight: 1
-        files: ['several_dfas.py', 'SeveralDFAs.java']
-        due: 2020-03-04 23:59:00
-        late-policy: [1,1,1,1]
-        
-    exercise4_2:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise4.html'
-        weight: 1
-        files: ['exercise4_2.pdf']
-        due: 2020-03-06 23:59:00
-        late-policy: [1,1,1,1]
-        
-    exercise4_3:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise4.html'
-        weight: 1
-        files: ['exercise4_3.pdf']
-        due: 2020-03-06 23:59:00
-        late-policy: [1,1,1,1]
-        
-    exercise4_4:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise4.html'
-        weight: 1
-        files: ['exercise4_4.pdf']
-        due: 2020-03-06 23:59:00
-        late-policy: [1,1,1,1]  
-        
-    exercise4_5:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise4.html'
-        weight: 1
-        files: ['exercise4_5.pdf']
-        due: 2020-03-06 23:59:00
-        late-policy: [1,1,1,1]  
-    
-    exercise5_1:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise5.html'
-        weight: 1
-        files: ['exercise5.py', 'Exercise5.java']
-        due: 2020-03-31 23:59:00
-        late-policy: [0.75,0.75]
-        
-    exercise5_2:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise5.html'
-        weight: 1
-        files: ['exercise5_2.pdf']
-        due: 2020-03-31 23:59:00
-        late-policy: [0.75,0.75]
-        
-    exercise6_1:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise6.html'
-        weight: 1
-        files: ['exercise6_1.pdf']
-        due: 2020-04-12 23:59:00
-        late-policy: [0.75,0.75]
-
-    exercise6_2:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise6.html'
-        weight: 1
-        files: ['exercise6_2.pdf']
-        due: 2020-04-12 23:59:00
-        late-policy: [0.75,0.75]
-    
-    exercise6_3:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise6.html'
-        weight: 1
-        files: ['exercise6_3.pdf']
-        due: 2020-04-12 23:59:00
-        late-policy: [0.75,0.75]
-        
-    exercise6_4:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise6.html'
-        weight: 1
-        files: ['exercise6_4.pdf']
-        due: 2020-04-12 23:59:00
-        late-policy: [0.75,0.75]
-        
-    exercise6_5:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise6.html'
-        weight: 1
-        files: ['exercise6_5.pdf']
-        due: 2020-04-12 23:59:00
-        late-policy: [0.75,0.75]
-        
-    exercise7_1:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise7.html'
-        weight: 1
-        files: ['exercise7_1.pdf']
-        due: 2020-04-21 23:59:00
-        late-policy: [0.75,0.75]
-        
-    exercise7_2:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise7.html'
-        weight: 1
-        files: ['exercise7_2.pdf']
-        due: 2020-04-21 23:59:00
-        late-policy: [0.75,0.75]
-    
-    exercise7_3:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise7.html'
-        weight: 1
-        files: ['exercise7_3.pdf']
-        due: 2020-04-21 23:59:00
-        late-policy: [0.75,0.75]
-
-    exercise8_1:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise8.html'
-        weight: 1
-        files: ['exercise8_1.pdf']
-        due: 2020-04-28 23:59:00
-        late-policy: [1,1]
-        
-    exercise8_2:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise8.html'
-        weight: 1
-        files: ['exercise8_2.pdf']
-        due: 2020-04-28 23:59:00
-        late-policy: [1,1]
-    
-    exercise8_3:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise8.html'
-        weight: 1
-        files: ['exercise8_3.pdf']
-        due: 2020-04-28 23:59:00
-        late-policy: [1,1]
-        
-    exercise8_4:
-        group: exercise
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/exercise8.html'
-        weight: 1
-        files: ['exercise8_4.pdf']
-        due: 2020-04-28 23:59:00
-        late-policy: [1,1]
-        
-    quiz01:
-        group: quiz
-        due: 2020-01-28 15:30:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/quiz01.html'
-        weight: 1
-        files: [quiz01.txt, quiz01.pdf, quiz01.jpg, quiz01.png]
-    
-    quiz02:
-        group: quiz
-        due: 2020-02-04 15:30:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/quiz02.html'
-        weight: 1
-        files: [quiz02.txt, quiz02.pdf, quiz02.jpg, quiz02.png]
-    
-    quiz03:
-        group: quiz
-        due: 2020-02-13 15:30:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/quiz03.html'
-        weight: 1
-        files: [quiz03.txt, quiz03.pdf, quiz03.jpg, quiz03.png]
-        
-    quiz04:
-        group: quiz
-        due: 2020-03-03 15:30:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/quiz04.html'
-        weight: 1
-        files: [quiz04.txt, quiz04.pdf, quiz04.jpg, quiz04.png]
-    
-    quiz05:
-        group: quiz
-        due: 2020-03-26 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/quiz05.html'
-        weight: 1
-        files: [quiz05.txt, quiz05.pdf, quiz05.jpg, quiz05.png]
-    
-    quiz06:
-        group: quiz
-        due: 2020-04-06 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/quiz06.html'
-        weight: 1
-        files: [quiz06.txt, quiz06.pdf, quiz06.jpg, quiz06.png]
-        
-    quiz07:
-        group: quiz
-        due: 2020-04-16 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/quiz07.html'
-        weight: 0
-        
-    quiz08:
-        group: quiz
-        due: 2020-04-26 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2020/quiz08.html'
-        weight: 1
-        files: [quiz08.txt, quiz08.pdf, quiz08.jpg, quiz08.png]
-
