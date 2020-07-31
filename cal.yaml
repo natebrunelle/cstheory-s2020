@@ -9,7 +9,11 @@ meta:
   timezone: America/New_York
   name: CSTheory
   lecture exam: true
-  home: https://www.cs.virginia.edu/~njb2b/cstheory/s2020/
+  home: https://www.cs.virginia.edu/~njb2b/cstheory/f2020/
+  final:
+    start: 2020-12-07 14:00:00
+    duration: 180
+    room: NA
 
 sections:
   CS3102:
