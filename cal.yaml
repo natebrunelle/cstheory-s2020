@@ -69,6 +69,7 @@ assignments:
         due: 2020-08-10 13:35:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
         weight: 1
+        files: 'sample.txt'
             
     Week 1 Cohort Callout:
         group: Cohort Callout
