@@ -59,10 +59,20 @@ reading:
     
 assignments:
     ".groups":
-        exercise:
-            portion: "45"
-        quiz:
-            portion: "15"
-        exam:
-            portion: "12"
-    
+        cohort:
+            portion: "80"
+        writeup:
+            portion: "20"
+            
+    Week 1 Cohort Callout:
+        group: cohort
+        due: 2020-09-08 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
+        weight: 1
+
+    Week 1 Writeup:
+        group: writeup
+        due: 2020-09-08 23:59:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
+        weight: 1
+        files: 'week1.pdf'
