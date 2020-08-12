@@ -63,6 +63,8 @@ assignments:
             portion: "50"
         writeup:
             portion: "50"
+        sample:
+            portion: "1"
     
     Sample:
         group: Cohort Callout
