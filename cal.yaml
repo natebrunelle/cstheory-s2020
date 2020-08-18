@@ -59,7 +59,7 @@ reading:
     
 assignments:
     ".groups":
-        Cohort Callout:
+        cohort:
             portion: "50"
         writeup:
             portion: "50"
@@ -73,8 +73,8 @@ assignments:
         weight: 1
         files: 'sample.txt'
             
-    Week 1 Cohort Callout:
-        group: Cohort Callout
+    Week 1 Cohort:
+        group: cohort
         due: 2020-09-08 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
         weight: 1
@@ -86,4 +86,157 @@ assignments:
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
         weight: 1
         files: 'week1.pdf'
+        
+    Week 2 Cohort:
+        group: cohort
+        due: 2020-09-15 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
+        weight: 1
         no-extension: true
+
+    Week 2 Writeup:
+        group: writeup
+        due: 2020-09-15 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
+        weight: 1
+        files: 'week1.pdf'
+
+    Week 3 Cohort:
+        group: cohort
+        due: 2020-09-22 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
+        weight: 1
+        no-extension: true
+
+    Week 3 Writeup:
+        group: writeup
+        due: 2020-09-22 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
+        weight: 1
+        files: 'week1.pdf'
+    
+    Week 4 Cohort:
+        group: cohort
+        due: 2020-09-29 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
+        weight: 1
+        no-extension: true
+
+    Week 4 Writeup:
+        group: writeup
+        due: 2020-09-29 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
+        weight: 1
+        files: 'week1.pdf'
+        
+    Week 5 Cohort:
+        group: cohort
+        due: 2020-10-06 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
+        weight: 1
+        no-extension: true
+
+    Week 5 Writeup:
+        group: writeup
+        due: 2020-10-06 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
+        weight: 1
+        files: 'week1.pdf'
+        
+    Week 6 Cohort:
+        group: cohort
+        due: 2020-10-13 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
+        weight: 1
+        no-extension: true
+
+    Week 6 Writeup:
+        group: writeup
+        due: 2020-10-13 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
+        weight: 1
+        files: 'week1.pdf'
+        
+    Week 7 Cohort:
+        group: cohort
+        due: 2020-10-20 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
+        weight: 1
+        no-extension: true
+
+    Week 7 Writeup:
+        group: writeup
+        due: 2020-10-20 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
+        weight: 1
+        files: 'week1.pdf'
+    
+    Week 8 Cohort:
+        group: cohort
+        due: 2020-10-27 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
+        weight: 1
+        no-extension: true
+
+    Week 8 Writeup:
+        group: writeup
+        due: 2020-10-27 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
+        weight: 1
+        files: 'week1.pdf'
+    
+    Week 9 Cohort:
+        group: cohort
+        due: 2020-11-03 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
+        weight: 1
+        no-extension: true
+
+    Week 9 Writeup:
+        group: writeup
+        due: 2020-11-03 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
+        weight: 1
+        files: 'week1.pdf'
+    
+    Week 10 Cohort:
+        group: cohort
+        due: 2020-11-11 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
+        weight: 1
+        no-extension: true
+
+    Week 10 Writeup:
+        group: writeup
+        due: 2020-11-11 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
+        weight: 1
+        files: 'week1.pdf'
+        
+    Week 11 Cohort:
+        group: cohort
+        due: 2020-11-18 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
+        weight: 1
+        no-extension: true
+
+    Week 11 Writeup:
+        group: writeup
+        due: 2020-11-18 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
+        weight: 1
+        files: 'week1.pdf'
+        
+    Week 12 Cohort:
+        group: cohort
+        due: 2020-11-25 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
+        weight: 1
+        no-extension: true
+
+    Week 11 Writeup:
+        group: writeup
+        due: 2020-11-25 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
+        weight: 1
+        files: 'week1.pdf'
