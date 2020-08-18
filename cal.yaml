@@ -78,6 +78,7 @@ assignments:
         due: 2020-09-08 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
         weight: 1
+        no-extension: true
 
     Week 1 Writeup:
         group: writeup
