@@ -86,3 +86,4 @@ assignments:
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/su20/littles.html'
         weight: 1
         files: 'week1.pdf'
+        no-extension: true
