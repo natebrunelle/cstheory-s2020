@@ -71,7 +71,7 @@ assignments:
         due: 2020-08-10 13:35:59
         writeup: 'uvatoc.github.io/week1/'
         weight: 1
-        files: 'sample.txt'
+        files: 'sample.pdf'
             
     Week1cohort:
         group: cohort
