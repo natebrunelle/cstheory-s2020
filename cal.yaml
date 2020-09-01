@@ -80,7 +80,7 @@ assignments:
         weight: 1
         no-extension: true
 
-    Week 1 Writeup:
+    Week1writeup:
         group: writeup
         due: 2020-09-08 23:59:59
         writeup: 'uvatoc.github.io/week1/'
