@@ -75,7 +75,7 @@ assignments:
             
     Week1cohort:
         group: cohort
-        due: 2020-09-08 23:59:59
+        due: 2020-08-31 23:59:59
         writeup: 'uvatoc.github.io/week1/'
         weight: 1
         no-extension: true
