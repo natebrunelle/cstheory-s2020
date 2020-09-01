@@ -69,49 +69,49 @@ assignments:
     Sample:
         group: sample
         due: 2020-08-10 13:35:59
-        writeup: 'uvatoc.github.io/week1/'
+        writeup: 'https://uvatoc.github.io/week1/'
         weight: 1
         files: 'sample.pdf'
             
     Week1cohort:
         group: cohort
         due: 2020-08-31 23:59:59
-        writeup: 'uvatoc.github.io/week1/'
+        writeup: 'https://uvatoc.github.io/week1/'
         weight: 1
         no-extension: true
 
     Week1writeup:
         group: writeup
         due: 2020-09-08 23:59:59
-        writeup: 'uvatoc.github.io/week1/'
+        writeup: 'https://uvatoc.github.io/week1/'
         weight: 1
         files: 'week1.pdf'
         
     Week2cohort:
         group: cohort
         due: 2020-09-15 23:59:59
-        writeup: 'uvatoc.github.io/week2/'
+        writeup: 'https://uvatoc.github.io/week2/'
         weight: 1
         no-extension: true
 
     Week 2 Writeup:
         group: writeup
         due: 2020-09-15 23:59:59
-        writeup: 'uvatoc.github.io/week2/'
+        writeup: 'https://uvatoc.github.io/week2/'
         weight: 1
         files: 'week1.pdf'
 
     Week3cohort:
         group: cohort
         due: 2020-09-22 23:59:59
-        writeup: 'uvatoc.github.io/week3/'
+        writeup: 'https://uvatoc.github.io/week3/'
         weight: 1
         no-extension: true
 
     Week 3 Writeup:
         group: writeup
         due: 2020-09-22 23:59:59
-        writeup: 'uvatoc.github.io/week3/'
+        writeup: 'https://uvatoc.github.io/week3/'
         weight: 1
         files: 'week1.pdf'
     
