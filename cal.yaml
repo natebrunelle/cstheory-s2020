@@ -9,7 +9,7 @@ meta:
   timezone: America/New_York
   name: CSTheory
   lecture exam: true
-  home: https://www.cs.virginia.edu/~njb2b/cstheory/f2020/
+  home: uvatoc.github.io
   final:
     start: 2020-12-07 14:00:00
     duration: 180
@@ -63,15 +63,6 @@ assignments:
             portion: "50"
         writeup:
             portion: "50"
-        sample:
-            portion: "100"
-    
-    Sample:
-        group: sample
-        due: 2020-08-31 23:59:59
-        writeup: 'https://uvatoc.github.io/week1/'
-        weight: 1
-        files: 'sample.pdf'
             
     Week1cohort:
         group: cohort
