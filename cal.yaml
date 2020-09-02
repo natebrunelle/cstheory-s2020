@@ -73,14 +73,14 @@ assignments:
 
     Week1writeup:
         group: writeup
-        due: 2020-09-08 23:59:59
+        due: 2020-09-02 23:59:59
         writeup: 'https://uvatoc.github.io/week1/'
         weight: 1
         files: 'week1.pdf'
         
     Week2cohort:
         group: cohort
-        due: 2020-09-15 23:59:59
+        due: 2020-09-09 23:59:59
         writeup: 'https://uvatoc.github.io/week2/'
         weight: 1
         no-extension: true
