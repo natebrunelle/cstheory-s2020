@@ -85,7 +85,7 @@ assignments:
         weight: 1
         no-extension: true
 
-    Week 2 Writeup:
+    Week2writeup:
         group: writeup
         due: 2020-09-15 23:59:59
         writeup: 'https://uvatoc.github.io/week2/'
@@ -99,7 +99,7 @@ assignments:
         weight: 1
         no-extension: true
 
-    Week 3 Writeup:
+    Week3writeup:
         group: writeup
         due: 2020-09-22 23:59:59
         writeup: 'https://uvatoc.github.io/week3/'
@@ -109,125 +109,125 @@ assignments:
     Week4cohort:
         group: cohort
         due: 2020-09-29 23:59:59
-        writeup: 'uvatoc.github.io/week4/'
+        writeup: 'https://uvatoc.github.io/week4/'
         weight: 1
         no-extension: true
 
-    Week 4 Writeup:
+    Week4writeup:
         group: writeup
         due: 2020-09-29 23:59:59
-        writeup: 'uvatoc.github.io/week4/'
+        writeup: 'https://uvatoc.github.io/week4/'
         weight: 1
         files: 'week1.pdf'
         
     Week5cohort:
         group: cohort
         due: 2020-10-06 23:59:59
-        writeup: 'uvatoc.github.io/week5/'
+        writeup: 'https://uvatoc.github.io/week5/'
         weight: 1
         no-extension: true
 
-    Week 5 Writeup:
+    Week5writeup:
         group: writeup
         due: 2020-10-06 23:59:59
-        writeup: 'uvatoc.github.io/week5/'
+        writeup: 'https://uvatoc.github.io/week5/'
         weight: 1
         files: 'week1.pdf'
         
     Week6cohort:
         group: cohort
         due: 2020-10-13 23:59:59
-        writeup: 'uvatoc.github.io/week6/'
+        writeup: 'https://uvatoc.github.io/week6/'
         weight: 1
         no-extension: true
 
-    Week 6 Writeup:
+    Week6writeup:
         group: writeup
         due: 2020-10-13 23:59:59
-        writeup: 'uvatoc.github.io/week6/'
+        writeup: 'https://uvatoc.github.io/week6/'
         weight: 1
         files: 'week1.pdf'
         
     Week7cohort:
         group: cohort
         due: 2020-10-20 23:59:59
-        writeup: 'uvatoc.github.io/week7/'
+        writeup: 'https://uvatoc.github.io/week7/'
         weight: 1
         no-extension: true
 
-    Week 7 Writeup:
+    Week7writeup:
         group: writeup
         due: 2020-10-20 23:59:59
-        writeup: 'uvatoc.github.io/week7/'
+        writeup: 'https://uvatoc.github.io/week7/'
         weight: 1
         files: 'week1.pdf'
     
     Week8cohort:
         group: cohort
         due: 2020-10-27 23:59:59
-        writeup: 'uvatoc.github.io/week8/'
+        writeup: 'https://uvatoc.github.io/week8/'
         weight: 1
         no-extension: true
 
-    Week 8 Writeup:
+    Week8writeup:
         group: writeup
         due: 2020-10-27 23:59:59
-        writeup: 'uvatoc.github.io/week8/'
+        writeup: 'https://uvatoc.github.io/week8/'
         weight: 1
         files: 'week1.pdf'
     
     Week9cohort:
         group: cohort
         due: 2020-11-03 23:59:59
-        writeup: 'uvatoc.github.io/week9/'
+        writeup: 'https://uvatoc.github.io/week9/'
         weight: 1
         no-extension: true
 
-    Week 9 Writeup:
+    Week9writeup:
         group: writeup
         due: 2020-11-03 23:59:59
-        writeup: 'uvatoc.github.io/week9/'
+        writeup: 'https://uvatoc.github.io/week9/'
         weight: 1
         files: 'week1.pdf'
     
     Week10cohort:
         group: cohort
         due: 2020-11-11 23:59:59
-        writeup: 'uvatoc.github.io/week10/'
+        writeup: 'https://uvatoc.github.io/week10/'
         weight: 1
         no-extension: true
 
-    Week 10 Writeup:
+    Week10writeup:
         group: writeup
         due: 2020-11-11 23:59:59
-        writeup: 'uvatoc.github.io/week10/'
+        writeup: 'https://uvatoc.github.io/week10/'
         weight: 1
         files: 'week1.pdf'
         
     Week11cohort:
         group: cohort
         due: 2020-11-18 23:59:59
-        writeup: 'uvatoc.github.io/week11/'
+        writeup: 'https://uvatoc.github.io/week11/'
         weight: 1
         no-extension: true
 
-    Week 11 Writeup:
+    Week11writeup:
         group: writeup
         due: 2020-11-18 23:59:59
-        writeup: 'uvatoc.github.io/week11/'
+        writeup: 'https://uvatoc.github.io/week11/'
         weight: 1
         files: 'week1.pdf'
         
     Week12cohort:
         group: cohort
         due: 2020-11-25 23:59:59
-        writeup: 'uvatoc.github.io/week12/'
+        writeup: 'https://uvatoc.github.io/week12/'
         weight: 1
         no-extension: true
 
-    Week 12 Writeup:
+    Week12writeup:
         group: writeup
         due: 2020-11-25 23:59:59
-        writeup: 'uvatoc.github.io/week12/'
+        writeup: 'https://uvatoc.github.io/week12/'
         weight: 1
         files: 'week1.pdf'
