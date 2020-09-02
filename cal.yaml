@@ -9,7 +9,7 @@ meta:
   timezone: America/New_York
   name: CSTheory
   lecture exam: true
-  home: uvatoc.github.io
+  home: https://uvatoc.github.io
   final:
     start: 2020-12-07 14:00:00
     duration: 180
