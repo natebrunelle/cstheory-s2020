@@ -106,6 +106,10 @@ assignments:
         weight: 1
         files: 'week3.pdf'
     
+    Week3eval:
+        due: 2020-09-26
+        weight: 0
+    
     Week4cohort:
         group: cohort
         due: 2020-09-21 23:59:59
