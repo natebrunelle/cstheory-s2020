@@ -64,6 +64,13 @@ assignments:
         writeup:
             portion: "50"
             
+    cohortBonus:
+        group: cohort
+        due: 2020-08-20 23:59:59
+        no-extension: true
+        no-exemption: true
+        weight: 1
+            
     Week1cohort:
         group: cohort
         due: 2020-08-31 23:59:59
@@ -109,7 +116,6 @@ assignments:
     Week3eval:
         due: 2020-09-26 23:59:59
         weight: 0
-        files: 'summary.txt'
     
     Week4cohort:
         group: cohort
