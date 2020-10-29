@@ -117,6 +117,10 @@ assignments:
         due: 2020-09-26 23:59:59
         weight: 0
     
+    peerEval2:
+        due: 2020-10-28 23:59:59
+        weight: 0
+    
     Week4cohort:
         group: cohort
         due: 2020-09-21 23:59:59
