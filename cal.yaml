@@ -221,7 +221,7 @@ assignments:
         
     Week11cohort:
         group: cohort
-        due: 2020-11-11 23:59:59
+        due: 2020-11-10 23:59:59
         writeup: 'https://uvatoc.github.io/week11/'
         weight: 1
         no-extension: true
@@ -235,7 +235,7 @@ assignments:
         
     Week12cohort:
         group: cohort
-        due: 2020-11-18 23:59:59
+        due: 2020-11-17 23:59:59
         writeup: 'https://uvatoc.github.io/week12/'
         weight: 1
         no-extension: true
