@@ -246,3 +246,4 @@ assignments:
         writeup: 'https://uvatoc.github.io/week12/'
         weight: 1
         files: 'week12.pdf'
+        hide: true
