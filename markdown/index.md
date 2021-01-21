@@ -4,41 +4,68 @@ title: Theory of Computation
 
 <div style="display:table; font-size:200%; margin: 1em auto; padding:1ex; box-shadow: 0 1px 10px rgba(0,0,0,.1); border: thin solid #eee; border-radius:1ex; background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);">[Join Lecture (Tues/Thurs at 3:30pm)](https://virginia.zoom.us/j/134834401)</div>
 
-# Course Overview 
 
-The goal of this course is to understand the fundamental limits on what can be
-efficiently computed in our universe and other possible (or imaginary) universes. These limits reveal
-deep and mysterious properties about information, communication, and computing, as well as practical
-issues about how to solve problems.
+# Course Description
 
-Your experience will provide an understanding of:
-
-- Formal definitions of computing and computers
-- What "problems" can and cannot be computed according to those definitions (*computability*)
-- Formal definitons of computational efficiency
-- What "problems" can and cannot be computed efficiently according to those definitions (*complexity*)
-- How theoretical formalisms inspire and are inspired by the practice of computer science.
+  The goal of this course is to understand the
+  fundamental limits on what can be efficiently computed in our
+  universe and other possible (or imaginary) universes. These limits
+  reveal deep and mysterious properties about information,
+  communication, and computing, as well as practical issues about how
+  to solve problems.
 
 
-## Learning Outcomes
+Two fundamental questions about any problem are:
+ 
+ 1. _Can it be solved using a machine of a certain type?_ (computability)
+ 2. _How much does it cost to solve it?_ (complexity)
+ 
+We explore these questions by developing abstract models of computing
+machines and reasoning about what they can and cannot compute
+efficiently.  We will also look at some applications in cryptography
+that take advantage of problems being hard to solve, and what can be
+done when a problem cannot be solved or is too expensive to solve.
 
-At the conclusion of this course, a successful student will be able to:
+# Course Objectives
 
-- Write convincing arguments using formal definitions and mathematical reasoning.
-- Reason about the differences between finite and infinite models of computation and what they can and cannot compute.
-- Express intuitively and formally what makes some problems too expensive to solve, and what can be done in practice when an unsolvable or intractable problem is encountered.
+Students who complete the course will:
+
+- Improve their [mathematical thinking skill and
+  habits](https://medium.com/@jeremyjkun/habits-of-highly-mathematical-people-b719df12d15e),
+  including thinking precisely about definitions, stating assumptions
+  carefully, critically reading arguments, and being able to write
+  convincingly.
+
+- Be able to understand both finite and infinite formal models of computation and to reason about what they can and cannot compute.
+- Understand both intuitively and formally what makes some problems too expensive to solve, and what can be done in practice when an unsolvable or intractable problem is encountered.
 - Reason formally about the cost of computation, and be able to prove useful bounds on the costs of solving problems, including showing that certain problems are intractable.
+- Learn about some interesting aspects of theoretical computer science, including cryptography and machine learning.
 
 
 ## Eligibility
 
-You should take this course if and only if
+**Official Prerequisites:** CS 2102 and CS 2110 (or comparable
+  courses) with grades of at least a C- (if taken for a grade) or CR (if taken using the COVID Credit/No Credit option). (We will waive this
+  prerequisite for students who convince us that they satisfy the
+  expected background below.)
+  
+**Expected Background:** We expect students entering cs3102 to be
+  comfortable using proof techniques including proof-by-contradiction,
+  using quantifiers, and induction; reasoning about finite and
+  infinite sets; and understanding recursive definitions and problem
+  solving.
+  
+**Programming:** We also expect students to be able to read and write short
+programs. We will use the Python programming language for some
+assignments in the class. It is not necessary to have previous
+experience with Python, but you should have enough programming
+experience to be able to pick up what you need to read and write short
+Python programs on your own. If you do not satisfy the prerequisites,
+you should meet with the instructor to discuss whether you
+should take the class. 
 
-1. You have credit (or passed the placement test) for  CS 2110
-1. You have credit for CS 2102
 
-
-### Background
+### Background References
 
 This course will assume knowledge of several topics from discrete math (CS2102 at UVA), and object-oriented Java programming (taught in CS2110 at UVA).
 
