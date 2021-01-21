@@ -49,23 +49,8 @@ Students who complete the course will:
   prerequisite for students who convince us that they satisfy the
   expected background below.)
   
-**Expected Background:** We expect students entering cs3102 to be
-  comfortable using proof techniques including proof-by-contradiction,
-  using quantifiers, and induction; reasoning about finite and
-  infinite sets; and understanding recursive definitions and problem
-  solving.
-  
-**Programming:** We also expect students to be able to read and write short
-programs. We will use the Python programming language for some
-assignments in the class. It is not necessary to have previous
-experience with Python, but you should have enough programming
-experience to be able to pick up what you need to read and write short
-Python programs on your own. If you do not satisfy the prerequisites,
-you should meet with the instructor to discuss whether you
-should take the class. 
 
-
-### Background References
+## Background
 
 This course will assume knowledge of several topics from discrete math (CS2102 at UVA), and object-oriented Java programming (taught in CS2110 at UVA).
 
