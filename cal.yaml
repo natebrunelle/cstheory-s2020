@@ -23,36 +23,15 @@ sections:
   CS3102:
     type: lecture
     room: Ruffner G008
-    days: [Tuesday, Thursday]
+    days: [Monday, Tuesday, Wednesda, Thursday, Friday]
     start: 15:30:00
     duration: 75
 
 
 lectures:
+    - No Class
     - Course Introduction
-    - Defining definitions
-    - What can be represented by bits
-    - What cannot be represented by bits
-    - defining Computation
-    - Defining Boolean Circuits
-    - Syntactic Sugar
-    - Complexity
-    - Evaluation
-    - Review
-    - Cost and Counting
-    - Size Hierarchy
-    - Machines
-    - Computability
-    - Universality and Uncomputability
-    - Reductions
-    - Rice's Theorem
-    - Review
-    - Turing Machine Running Time
-    - Polynomial-Time Reducitons
-    - Is Omniscience Helpful?
-    - NP-Completeness
-    - More NP-Completeness
-    - Conclusion
+    - Week 1
 
 reading: 
 
