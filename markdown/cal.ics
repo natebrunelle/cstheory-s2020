@@ -6,325 +6,317 @@ NAME:cstheory-s2021
 BEGIN:VEVENT
 SUMMARY:Courses begin
 DESCRIPTION:
-DTSTART:20200201
-DTEND:20200202
-DTSTAMP:20210121T220405Z
-UID::20200201-Courses begin@cstheory-s2021.cs.virginia.edu
+DTSTART:20210201
+DTEND:20210202
+DTSTAMP:20210122T201220Z
+UID::20210201-Courses begin@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS3102 -- Course Introduction
-DESCRIPTION:TCS Chapter 0\nsix habits <https//medium.com/@jeremyjkun/habits-of-highly-mathematical-people-b719df12d15e>\nslides(pdf) <https//uvatoc.github.iofiles/slides/sugar.pdf>\nslides(pptx) <https//uvatoc.github.iofiles/slides/sugar.pptx>\nslides(post) <https//uvatoc.github.iofiles/slides/sugar_written.pdf>\nvideo <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=23f3bf59-d10f-447e-83e8-ab570151e733>
+DESCRIPTION:TCS Chapter 0\nsix habits <https//medium.com/@jeremyjkun/habits-of-highly-mathematical-people-b719df12d15e>
 LOCATION:Ruffner G008
-DTSTART;TZID=America/New_York:20200204T153000
-DTEND;TZID=America/New_York:20200204T164500
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20200204T153000-CS3102 -- Course Introduction@cstheory-s2021.cs.virginia.edu
+DTSTART;TZID=America/New_York:20210202T153000
+DTEND;TZID=America/New_York:20210202T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210202T153000-CS3102 -- Course Introduction@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS3102 -- Defining definitions
-DESCRIPTION:slides(pdf) <https//uvatoc.github.iofiles/slides/universality.pdf>\nslides(pptx) <https//uvatoc.github.iofiles/slides/universality.pptx>\nslides(post) <https//uvatoc.github.iofiles/slides/universality_written.pdf>\nvideo <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=09d785d3-29eb-45a5-9cfb-ab590151f099>
+DESCRIPTION:
 LOCATION:Ruffner G008
-DTSTART;TZID=America/New_York:20200206T153000
-DTEND;TZID=America/New_York:20200206T164500
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20200206T153000-CS3102 -- Defining definitions@cstheory-s2021.cs.virginia.edu
+DTSTART;TZID=America/New_York:20210204T153000
+DTEND;TZID=America/New_York:20210204T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210204T153000-CS3102 -- Defining definitions@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS3102 -- What can be represented by bits
-DESCRIPTION:slides(pdf) <https//uvatoc.github.iofiles/slides/complexity.pdf>\nslides(pptx) <https//uvatoc.github.iofiles/slides/complexity.pptx>\nslides(post) <https//uvatoc.github.iofiles/slides/complexity_written.pdf>\nvideo <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cd4c8fde-c3db-4dcf-8f51-ab5e01527773>
+DESCRIPTION:
 LOCATION:Ruffner G008
-DTSTART;TZID=America/New_York:20200211T153000
-DTEND;TZID=America/New_York:20200211T164500
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20200211T153000-CS3102 -- What can be represented by bits@cstheory-s2021.cs.virginia.edu
+DTSTART;TZID=America/New_York:20210209T153000
+DTEND;TZID=America/New_York:20210209T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210209T153000-CS3102 -- What can be represented by bits@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS3102 -- What cannot be represented by bits
-DESCRIPTION:slides(pdf) <https//uvatoc.github.iofiles/slides/big-oh.pdf>\nslides(pptx) <https//uvatoc.github.iofiles/slides/big-oh.pdf>\nslides(post) <https//uvatoc.github.iofiles/slides/big-oh_written.pdf>\nvideo <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bac56a89-3c1e-42f8-ac16-ab600151fdf6>
+DESCRIPTION:
 LOCATION:Ruffner G008
-DTSTART;TZID=America/New_York:20200213T153000
-DTEND;TZID=America/New_York:20200213T164500
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20200213T153000-CS3102 -- What cannot be represented by bits@cstheory-s2021.cs.virginia.edu
+DTSTART;TZID=America/New_York:20210211T153000
+DTEND;TZID=America/New_York:20210211T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210211T153000-CS3102 -- What cannot be represented by bits@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Add deadline
 DESCRIPTION:
-DTSTART:20200216
-DTEND:20200217
-DTSTAMP:20210121T220405Z
-UID::20200216-Add deadline@cstheory-s2021.cs.virginia.edu
+DTSTART:20210216
+DTEND:20210217
+DTSTAMP:20210122T201220Z
+UID::20210216-Add deadline@cstheory-s2021.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS3102 -- defining Computation
+DESCRIPTION:
+LOCATION:Ruffner G008
+DTSTART;TZID=America/New_York:20210216T153000
+DTEND;TZID=America/New_York:20210216T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210216T153000-CS3102 -- defining Computation@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Break Day 1
 DESCRIPTION:
-DTSTART:20200217
-DTEND:20200218
-DTSTAMP:20210121T220405Z
-UID::20200217-Break Day 1@cstheory-s2021.cs.virginia.edu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CS3102 -- defining Computation
-DESCRIPTION:Exam1 Practice <https//uvatoc.github.iofiles/practice_exam1.pdf>\nslides(pdf) <https//uvatoc.github.iofiles/slides/review_exam1.pdf>\nslides(pptx) <https//uvatoc.github.iofiles/slides/review_exam1.pptx>\nslides(post) <https//uvatoc.github.iofiles/slides/review_exam1_written.pdf>\nvideo <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=18f43a0a-4858-4501-9546-ab650151a4d5>
-LOCATION:Ruffner G008
-DTSTART;TZID=America/New_York:20200218T153000
-DTEND;TZID=America/New_York:20200218T164500
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20200218T153000-CS3102 -- defining Computation@cstheory-s2021.cs.virginia.edu
+DTSTART:20210217
+DTEND:20210218
+DTSTAMP:20210122T201220Z
+UID::20210217-Break Day 1@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS3102 -- Defining Boolean Circuits
-DESCRIPTION:review pt1 <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=950af2da-f63a-4062-8c0a-ab6601849fc8>\nreview pt2 <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8de8af15-bfae-469d-aae3-ab6700032ad8>\nreview pt3 <https//uvatoc.github.iofiles/exam1_review_notes/audio.mp3>\nvarious student notes <https//uvatoc.github.iofiles/exam1_review_notes>
+DESCRIPTION:
 LOCATION:Ruffner G008
-DTSTART;TZID=America/New_York:20200220T153000
-DTEND;TZID=America/New_York:20200220T164500
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20200220T153000-CS3102 -- Defining Boolean Circuits@cstheory-s2021.cs.virginia.edu
+DTSTART;TZID=America/New_York:20210218T153000
+DTEND;TZID=America/New_York:20210218T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210218T153000-CS3102 -- Defining Boolean Circuits@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS3102 -- Syntactic Sugar
-DESCRIPTION:slides(pdf) <https//uvatoc.github.iofiles/slides/automata.pdf>\nslides(pptx) <https//uvatoc.github.iofiles/slides/automata.pptx>\nslides(post) <https//uvatoc.github.iofiles/slides/automata_written.pdf>\nvideo <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=432abfa8-cdd8-4587-b2b7-ab6c0151eeb2>
+DESCRIPTION:
 LOCATION:Ruffner G008
-DTSTART;TZID=America/New_York:20200225T153000
-DTEND;TZID=America/New_York:20200225T164500
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20200225T153000-CS3102 -- Syntactic Sugar@cstheory-s2021.cs.virginia.edu
+DTSTART;TZID=America/New_York:20210223T153000
+DTEND;TZID=America/New_York:20210223T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210223T153000-CS3102 -- Syntactic Sugar@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS3102 -- Complexity
-DESCRIPTION:slides(pdf) <https//uvatoc.github.iofiles/slides/regex.pdf>\nslides(pptx) <https//uvatoc.github.iofiles/slides/regex.pptx>\nslides(post) <https//uvatoc.github.iofiles/slides/regex_written.pdf>\nvideo <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=34e95fad-c0b8-4c9f-adcf-ab6e0151e00c>
+DESCRIPTION:
 LOCATION:Ruffner G008
-DTSTART;TZID=America/New_York:20200227T153000
-DTEND;TZID=America/New_York:20200227T164500
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20200227T153000-CS3102 -- Complexity@cstheory-s2021.cs.virginia.edu
+DTSTART;TZID=America/New_York:20210225T153000
+DTEND;TZID=America/New_York:20210225T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210225T153000-CS3102 -- Complexity@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS3102 -- Evaluation
-DESCRIPTION:slides(pdf) <https//uvatoc.github.iofiles/slides/non-determinism.pdf>\nslides(pptx) <https//uvatoc.github.iofiles/slides/non-determinism.pptx>\nslides(post) <https//uvatoc.github.iofiles/slides/non-determinism_written.pdf>\nvideo <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0f798579-372f-45ca-bef6-ab730151cf45>
+DESCRIPTION:
 LOCATION:Ruffner G008
-DTSTART;TZID=America/New_York:20200303T153000
-DTEND;TZID=America/New_York:20200303T164500
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20200303T153000-CS3102 -- Evaluation@cstheory-s2021.cs.virginia.edu
+DTSTART;TZID=America/New_York:20210302T153000
+DTEND;TZID=America/New_York:20210302T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210302T153000-CS3102 -- Evaluation@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS3102 -- Review
-DESCRIPTION:slides(pdf) <https//uvatoc.github.iofiles/slides/fsa_equals_regex.pdf>\nslides(pptx) <https//uvatoc.github.iofiles/slides/fsa_equals_regex.pptx>\nvideo <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65c2b08e-1ce7-4e25-a257-ab75015297b1>
+DESCRIPTION:
 LOCATION:Ruffner G008
-DTSTART;TZID=America/New_York:20200305T153000
-DTEND;TZID=America/New_York:20200305T164500
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20200305T153000-CS3102 -- Review@cstheory-s2021.cs.virginia.edu
+DTSTART;TZID=America/New_York:20210304T153000
+DTEND;TZID=America/New_York:20210304T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210304T153000-CS3102 -- Review@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Break Day 2
 DESCRIPTION:
-DTSTART:20200309
-DTEND:20200310
-DTSTAMP:20210121T220405Z
-UID::20200309-Break Day 2@cstheory-s2021.cs.virginia.edu
+DTSTART:20210309
+DTEND:20210310
+DTSTAMP:20210122T201220Z
+UID::20210309-Break Day 2@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS3102 -- Cost and Counting
 DESCRIPTION:
 LOCATION:Ruffner G008
-DTSTART;TZID=America/New_York:20200310T153000
-DTEND;TZID=America/New_York:20200310T164500
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20200310T153000-CS3102 -- Cost and Counting@cstheory-s2021.cs.virginia.edu
+DTSTART;TZID=America/New_York:20210309T153000
+DTEND;TZID=America/New_York:20210309T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210309T153000-CS3102 -- Cost and Counting@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS3102 -- Size Hierarchy
 DESCRIPTION:
 LOCATION:Ruffner G008
-DTSTART;TZID=America/New_York:20200312T153000
-DTEND;TZID=America/New_York:20200312T164500
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20200312T153000-CS3102 -- Size Hierarchy@cstheory-s2021.cs.virginia.edu
+DTSTART;TZID=America/New_York:20210311T153000
+DTEND;TZID=America/New_York:20210311T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210311T153000-CS3102 -- Size Hierarchy@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS3102 -- Machines
 DESCRIPTION:
 LOCATION:Ruffner G008
-DTSTART;TZID=America/New_York:20200317T153000
-DTEND;TZID=America/New_York:20200317T164500
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20200317T153000-CS3102 -- Machines@cstheory-s2021.cs.virginia.edu
+DTSTART;TZID=America/New_York:20210316T153000
+DTEND;TZID=America/New_York:20210316T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210316T153000-CS3102 -- Machines@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS3102 -- Computability
-DESCRIPTION:slides(pdf) <https//uvatoc.github.iofiles/slides/going_online.pdf>\nslides(pptx) <https//uvatoc.github.iofiles/slides/going_online.pptx>\nvideo <https//virginia.zoom.us/rec/share/6sZYFLPCyEVOW5HM4x37Zb89ALTVX6a803Ac_KEPyEvxUfXMbKLINDx8hFodMjXy>
+DESCRIPTION:
 LOCATION:Ruffner G008
-DTSTART;TZID=America/New_York:20200319T153000
-DTEND;TZID=America/New_York:20200319T164500
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20200319T153000-CS3102 -- Computability@cstheory-s2021.cs.virginia.edu
+DTSTART;TZID=America/New_York:20210318T153000
+DTEND;TZID=America/New_York:20210318T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210318T153000-CS3102 -- Computability@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop deadline
 DESCRIPTION:
-DTSTART:20200323
-DTEND:20200324
-DTSTAMP:20210121T220405Z
-UID::20200323-Drop deadline@cstheory-s2021.cs.virginia.edu
+DTSTART:20210323
+DTEND:20210324
+DTSTAMP:20210122T201220Z
+UID::20210323-Drop deadline@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS3102 -- Universality and Uncomputability
-DESCRIPTION:slides(pdf) <https//uvatoc.github.iofiles/slides/turing_machines.pdf>\nslides(pptx) <https//uvatoc.github.iofiles/slides/turing_machines.pptx>\nvideo <https//virginia.zoom.us/rec/share/ou9uCoDR1FNOZNbR7lGGAqd-DLbIeaa8gyVL_KFby0_0lRyWviuuxNyUrSAHWVzk>
+DESCRIPTION:
 LOCATION:Ruffner G008
-DTSTART;TZID=America/New_York:20200324T153000
-DTEND;TZID=America/New_York:20200324T164500
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20200324T153000-CS3102 -- Universality and Uncomputability@cstheory-s2021.cs.virginia.edu
+DTSTART;TZID=America/New_York:20210323T153000
+DTEND;TZID=America/New_York:20210323T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210323T153000-CS3102 -- Universality and Uncomputability@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS3102 -- Reductions
-DESCRIPTION:slides(pdf) <https//uvatoc.github.iofiles/slides/church-turing-thesis.pdf>\nslides(pptx) <https//uvatoc.github.iofiles/slides/church-turing-thesis.pptx>\nvideo <https//virginia.zoom.us/rec/share/3-tWA53hy2JJQ5Hj8hmcB68eMLjOX6a80CBM-_EImR05c7InPcf_VbtUZF_jImw5>
+DESCRIPTION:
 LOCATION:Ruffner G008
-DTSTART;TZID=America/New_York:20200326T153000
-DTEND;TZID=America/New_York:20200326T164500
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20200326T153000-CS3102 -- Reductions@cstheory-s2021.cs.virginia.edu
+DTSTART;TZID=America/New_York:20210325T153000
+DTEND;TZID=America/New_York:20210325T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210325T153000-CS3102 -- Reductions@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Break Day 3
 DESCRIPTION:
-DTSTART:20200329
-DTEND:20200330
-DTSTAMP:20210121T220405Z
-UID::20200329-Break Day 3@cstheory-s2021.cs.virginia.edu
+DTSTART:20210329
+DTEND:20210330
+DTSTAMP:20210122T201220Z
+UID::20210329-Break Day 3@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS3102 -- Rice's Theorem
-DESCRIPTION:slides(pptx) <https//uvatoc.github.iofiles/slides/uncomputability.pptx>\nslides(pdf) <https//uvatoc.github.iofiles/slides/uncomputability.pdf>\nvideo <https//virginia.zoom.us/rec/share/5_N3P4jw_UlIaafDw33Pe5ItNLvZeaa8gXQW_aFbn0y4T4CPKmveU8vItech6ayI>
+DESCRIPTION:
 LOCATION:Ruffner G008
-DTSTART;TZID=America/New_York:20200331T153000
-DTEND;TZID=America/New_York:20200331T164500
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20200331T153000-CS3102 -- Rice's Theorem@cstheory-s2021.cs.virginia.edu
+DTSTART;TZID=America/New_York:20210330T153000
+DTEND;TZID=America/New_York:20210330T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210330T153000-CS3102 -- Rice's Theorem@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS3102 -- Review
-DESCRIPTION:slides(pptx) <https//uvatoc.github.iofiles/slides/reductions.pptx>\nslides(pdf) <https//uvatoc.github.iofiles/slides/reductions.pdf>\nvideo <https//virginia.zoom.us/rec/share/xP1nJe766DJLBYHOtUHjZKElIbjEX6a81nAZrKALxEsKO9hrtsQTlF1s_8vNvKvR>
+DESCRIPTION:
 LOCATION:Ruffner G008
-DTSTART;TZID=America/New_York:20200402T153000
-DTEND;TZID=America/New_York:20200402T164500
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20200402T153000-CS3102 -- Review@cstheory-s2021.cs.virginia.edu
+DTSTART;TZID=America/New_York:20210401T153000
+DTEND;TZID=America/New_York:20210401T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210401T153000-CS3102 -- Review@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS3102 -- Turing Machine Running Time
-DESCRIPTION:slides(pptx) <https//uvatoc.github.iofiles/slides/rices_theorem.pptx>\nslides(pdf) <https//uvatoc.github.iofiles/slides/rices_theorem.pdf>\nvideo <https//virginia.zoom.us/rec/share/ypZKAYjr-mlIUrPSzl_mSKUcA7z0aaa8gCkaqfoMzEeRdf00g5w_anwqBwTjd7Oo>
+DESCRIPTION:
 LOCATION:Ruffner G008
-DTSTART;TZID=America/New_York:20200407T153000
-DTEND;TZID=America/New_York:20200407T164500
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20200407T153000-CS3102 -- Turing Machine Running Time@cstheory-s2021.cs.virginia.edu
+DTSTART;TZID=America/New_York:20210406T153000
+DTEND;TZID=America/New_York:20210406T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210406T153000-CS3102 -- Turing Machine Running Time@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS3102 -- Polynomial-Time Reducitons
-DESCRIPTION:slides(pptx) <https//uvatoc.github.iofiles/slides/computing_cost.pptx>\nslides(pdf) <https//uvatoc.github.iofiles/slides/computing_cost.pdf>\nvideo <https//virginia.zoom.us/rec/share/wtZVI6rSy0FOEqfMth6YZ4IeIY3UT6a81Xce-fAPoUI1TVESrSPH__DQkWedtw>
+DESCRIPTION:
 LOCATION:Ruffner G008
-DTSTART;TZID=America/New_York:20200409T153000
-DTEND;TZID=America/New_York:20200409T164500
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20200409T153000-CS3102 -- Polynomial-Time Reducitons@cstheory-s2021.cs.virginia.edu
+DTSTART;TZID=America/New_York:20210408T153000
+DTEND;TZID=America/New_York:20210408T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210408T153000-CS3102 -- Polynomial-Time Reducitons@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS3102 -- Is Omniscience Helpful?
-DESCRIPTION:slides(pptx) <https//uvatoc.github.iofiles/slides/tm_complexity.pptx>\nslides(pdf) <https//uvatoc.github.iofiles/slides/tm_complexity.pdf>\nvideo <https//virginia.zoom.us/rec/share/wcxLDbr3tXxIR4HH9kf-Vak5Qb71T6a803AeqfQLzEf-KhS5jCAPRs2tseJT2Qld>
+DESCRIPTION:
 LOCATION:Ruffner G008
-DTSTART;TZID=America/New_York:20200414T153000
-DTEND;TZID=America/New_York:20200414T164500
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20200414T153000-CS3102 -- Is Omniscience Helpful?@cstheory-s2021.cs.virginia.edu
+DTSTART;TZID=America/New_York:20210413T153000
+DTEND;TZID=America/New_York:20210413T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210413T153000-CS3102 -- Is Omniscience Helpful?@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Break Day 4
 DESCRIPTION:
-DTSTART:20200415
-DTEND:20200416
-DTSTAMP:20210121T220405Z
-UID::20200415-Break Day 4@cstheory-s2021.cs.virginia.edu
+DTSTART:20210415
+DTEND:20210416
+DTSTAMP:20210122T201220Z
+UID::20210415-Break Day 4@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS3102 -- NP-Completeness
-DESCRIPTION:slides(pptx) <https//uvatoc.github.iofiles/slides/tractability.pptx>\nslides(pdf) <https//uvatoc.github.iofiles/slides/tractability.pdf>\nvideo <https//virginia.zoom.us/rec/share/3d53NbiqsX1OSZXc6Fr4cJQgM6i7X6a8hiQb__sLyUfgayXNZN5EP8x-2HD_KvHe>
+DESCRIPTION:
 LOCATION:Ruffner G008
-DTSTART;TZID=America/New_York:20200416T153000
-DTEND;TZID=America/New_York:20200416T164500
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20200416T153000-CS3102 -- NP-Completeness@cstheory-s2021.cs.virginia.edu
+DTSTART;TZID=America/New_York:20210415T153000
+DTEND;TZID=America/New_York:20210415T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210415T153000-CS3102 -- NP-Completeness@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS3102 -- More NP-Completeness
 DESCRIPTION:
 LOCATION:Ruffner G008
-DTSTART;TZID=America/New_York:20200421T153000
-DTEND;TZID=America/New_York:20200421T164500
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20200421T153000-CS3102 -- More NP-Completeness@cstheory-s2021.cs.virginia.edu
+DTSTART;TZID=America/New_York:20210420T153000
+DTEND;TZID=America/New_York:20210420T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210420T153000-CS3102 -- More NP-Completeness@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS3102 -- Conclusion
-DESCRIPTION:slides(pptx) <https//uvatoc.github.iofiles/slides/pvsnp.pptx>\nslides(pdf) <https//uvatoc.github.iofiles/slides/pvsnp.pdf>\nvideo1 <https//virginia.zoom.us/rec/share/oshYdur90UhIcJ3dzl3RBowPQKvseaa81ykXq_UOykyy48U02G5MjP_-i43AINN4>\nvideo2 <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cee6fb00-64fa-47db-beac-aba6017ea313>
+DESCRIPTION:
 LOCATION:Ruffner G008
-DTSTART;TZID=America/New_York:20200423T153000
-DTEND;TZID=America/New_York:20200423T164500
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20200423T153000-CS3102 -- Conclusion@cstheory-s2021.cs.virginia.edu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CS3102 -- lecture
-DESCRIPTION:slides(pptx) <https//uvatoc.github.iofiles/slides/finale.pptx>\nslides(pdf) <https//uvatoc.github.iofiles/slides/finale.pdf>\nACM code of ethics <https//www.acm.org/code-of-ethics>
-LOCATION:Ruffner G008
-DTSTART;TZID=America/New_York:20200428T153000
-DTEND;TZID=America/New_York:20200428T164500
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20200428T153000-CS3102 -- lecture@cstheory-s2021.cs.virginia.edu
+DTSTART;TZID=America/New_York:20210422T153000
+DTEND;TZID=America/New_York:20210422T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210422T153000-CS3102 -- Conclusion@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS3102 -- lecture
 DESCRIPTION:
 LOCATION:Ruffner G008
-DTSTART;TZID=America/New_York:20200430T153000
-DTEND;TZID=America/New_York:20200430T164500
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20200430T153000-CS3102 -- lecture@cstheory-s2021.cs.virginia.edu
+DTSTART;TZID=America/New_York:20210427T153000
+DTEND;TZID=America/New_York:20210427T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210427T153000-CS3102 -- lecture@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS3102 -- lecture
 DESCRIPTION:
 LOCATION:Ruffner G008
-DTSTART;TZID=America/New_York:20200505T153000
-DTEND;TZID=America/New_York:20200505T164500
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20200505T153000-CS3102 -- lecture@cstheory-s2021.cs.virginia.edu
+DTSTART;TZID=America/New_York:20210429T153000
+DTEND;TZID=America/New_York:20210429T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210429T153000-CS3102 -- lecture@cstheory-s2021.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS3102 -- lecture
+DESCRIPTION:
+LOCATION:Ruffner G008
+DTSTART;TZID=America/New_York:20210504T153000
+DTEND;TZID=America/New_York:20210504T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210504T153000-CS3102 -- lecture@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Courses end
 DESCRIPTION:
-DTSTART:20200506
-DTEND:20200507
-DTSTAMP:20210121T220405Z
-UID::20200506-Courses end@cstheory-s2021.cs.virginia.edu
+DTSTART:20210506
+DTEND:20210507
+DTSTAMP:20210122T201220Z
+UID::20210506-Courses end@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Withdraw deadline
+SUMMARY:CS3102 -- lecture
 DESCRIPTION:
-DTSTART:20200513
-DTEND:20200514
-DTSTAMP:20210121T220405Z
-UID::20200513-Withdraw deadline@cstheory-s2021.cs.virginia.edu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Final Exam
-DESCRIPTION:
-LOCATION:NA
-DTSTART;TZID=America/New_York:20201207T140000
-DTEND;TZID=America/New_York:20201207T170000
-DTSTAMP:20210121T220405Z
-UID:;TZID=America/New_York:20201207T140000-Final Exam@cstheory-s2021.cs.virginia.edu
+LOCATION:Ruffner G008
+DTSTART;TZID=America/New_York:20210506T153000
+DTEND;TZID=America/New_York:20210506T164500
+DTSTAMP:20210122T201220Z
+UID:;TZID=America/New_York:20210506T153000-CS3102 -- lecture@cstheory-s2021.cs.virginia.edu
 END:VEVENT
 END:VCALENDAR
