@@ -65,6 +65,15 @@ In particular, we assume knowledge of (with recommended resources for review):
 
 For each of the CS2102 topics, you can view last [semester's lectures](http://www.cs.virginia.edu/luther/DMT1/F2019/schedule.html) for more information
 
+# Structure
+
+- Cohorts
+- Cohort Coach
+- Preparatory Meetings
+- Assessed Meetings
+- Weekly Guides
+- Writeups
+
 
 
 
