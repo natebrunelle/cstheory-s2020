@@ -104,16 +104,15 @@ all students at the university deserve to be trusted.
 
 To get the most out of this course, we expect all students to abide by the following:
 
-- **Try it yourself first**: We believe it is important for students to
+- **Try it yourself first** We believe it is important for students to
 learn by thinking about problems on their own, so it is expected that
 each student studies the provided materials and attempts to solve the
 problems on their own, before discussing the problems with others (including cohortmates
 at the cohort meeting).
-- **Discuss with other students:** You are welcome to also discuss problems with
+- **Discuss with other students in the course** You are welcome to also discuss problems with
 students and others who are not in your cohort, and to share what you
 learn from them with your cohortmates. Do not discuss problems with 
-any students who are not officially associated with the course (e.g.
-former students or computer-science saavy family members).
+any students who are not officially associated with the course (i.e. only discuss with current students and members of the course staff).
 - **Don't Copy Solutions** Many problems in this course will be selected from problems used in
 previous courses, as well as well known problems. The goal of these
 problems is to lead students to develop understanding of the
