@@ -56,68 +56,55 @@ Each week, Students will be expected to do the following:
 
 - **Before their first cohort meeting**: Watch provided instructional videos, read provided instructional text, attempt weekly problem sets, attend office hours to improve understanding when necessary
 - **During their first cohort meeting**: Discuss (potentially incomplete or incorrect) solutions with the cohort. Collaborate and converge on the best answer you can muster for each problem.
-- **Between your cohort meetings**: Review solutions from the first weekly cohort meeting to ensure you understand them. Seek clarification from your cohort-mates or office hours when necessary. Refine solutions if necessary.
-- **During your second cohort meeting**: Do your best to provide solutions when called-upon by the TA. The TA will ask each student to attempt at least one problem, and may ask follow-up or clarification questions to more accurately assess understanding.
-- **After your second cohort meeting**: Complete and submit your problem writeup.
+- **Between their cohort meetings**: Review solutions from the first weekly cohort meeting to ensure you understand them. Seek clarification from your cohort-mates or office hours when necessary. Refine solutions if necessary.
+- **During their second cohort meeting**: Do your best to provide solutions when called-upon by the TA. The TA will ask each student to attempt at least one problem, and may ask follow-up or clarification questions to more accurately assess understanding.
+- **After their second cohort meeting**: Complete and submit your problem writeup.
 
-
-Your grade will be determined by 3 components (in order of weight):
-
-- **Assessed Cohort meetings**: TAs will provide a score after each assessed cohort meeting to reflect how well you understood content from that week.
-- **Writeups**: In order to ensure you are able to communicate ideas in writing, each week you will be asked to write up one problem.
-- **Community**: At the end of the semester there will be a qualitative assessment of how effectively your cohort operated as an educational sub-community, and how well you contributed to the cohort. This will be derived from evaluations submitted by your peers and by your Cohort Coach (TA).
 
 **Exams**: There will be no traditional exams in this course
 
 # Grading
 
-In February 2019 the CS faculty approved [a definition](http://ugrads.cs.virginia.edu/grading-guidelines.html) of what we believe grades mean.
-It is my intent to approximate that definition in this course.
-As a brief summary,
 
-Letter  Student demonstrated                Recommendation re future courses[^future]
-------  ---------------------------         ------------------------------------
-A       mastery of all topics               likely to do well
-B       competence in significant topics    able to do well with some review
-C       sufficient competence               likely to be challenging
-D       minimal competence                  unlikely to succeed
-F       less than minimal competence        retake this course first
+We hope that you can spend your energy focusing on what you are learning, instead of
+worrying about your grade. That said, we understand students are often
+stressed about grading and understandably want to know where they
+stand in a class without having to rely just on the judgment of the
+course staff.  We aim to grade in a way that is useful (provides
+students with accurate measure of how well they understood what they
+should), motivating (encourages the behaviors we prefer, including
+hard but not obsessive work), fair (assigned higher grades to more
+deserving students), robust (arbitrary small perturbations do not have
+a material impact on someone's grade), and low stress (for both
+students and the course staff).
 
-[^future]:
-    While there are no regularly-offerred UVA undergraduate courses which list cs3102 as a prerequisite, this recommendation will be mostly relative to a hypothetical follow-on course.
 
-We will consider the grade assigned by the following point-based breakdown to be a **guideline** for the grade earned according to the definitions above.
+To this end, your grade will be determined by 3 components (in order of weight):
 
-Task                        Weight  Comments
--------------------------  -------- ----------------------------------------------
-Quizzes                     15%     We aim to have one quiz each week
-Exercises                   45%     Excercises will be due frequently throughout the semester. Not all exercises will necessarily carry the same weight.
-Exams                       40%     (12% each midterm, 16% final) Per College policy, "Unexcused absence from a final examination results in an automatic grade of F in the course."
-Professionalism Penalty    0--100%  Excessive missed classes, rude behavior toward instructor or classmates, unauthorized homework assistance, contacting TAs when they are not on the clock, etc., can be held against a student when final grades are calculated.
+- **Assessed Cohort Meetings**: TAs will provide a score after each assessed cohort meeting to reflect how well you understood content from that week.
+- **Writeups**: In order to ensure you are able to communicate ideas in writing, each week you will be asked to write up one problem (as assigned during your Assessed Cohort Meeting).
+- **Community**: At the end of the semester there will be a qualitative assessment of how effectively your cohort operated as an educational sub-community, and how well you contributed to the cohort. This will be derived from evaluations submitted by your peers and by your Cohort Coach (TA).
 
-The exact weights of assignments is subject to change as we further refine the assignments we will give.
 
-Your final letter grade will then be assigned as follows:
+Students will be assigned a grade based on their performance at the
+cohort meeting on this scale:
 
-You get  if you score  GPA value
--------- ------------- ---------
-A+       near the top  4.0
-A        ≥ 93%         4.0
-A−       ≥ 90%         3.7
-B+       ≥ 86%         3.3
-B        ≥ 83%         3.0
-B−       ≥ 80%         2.7
-C+       ≥ 76%         2.3
-C        ≥ 73%         2.0
-C−       ≥ 70%         1.7
-D+       ≥ 66%         1.3
-D        ≥ 63%         1.0
-D−       ≥ 60%         0.7
-F        otherwise     0.0
+<table class="grades">
+  <thead>
+    <tr>
+      <th width="20%" style="text-align:center;">Grade</th>
+      <th width="50%">Meaning</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+    <tr><td style="text-align:center;">3</td><td>Able to present on the selected problem well and to demonstrate good understanding of key concepts.</td></tr>
+<tr><td style="text-align:center;">2</td><td>Able to demonstrate some understanding of key concepts and preparation effort, but not able to make progress on the selected problem.</td></tr>
+<tr><td style="text-align:center;">1</td><td>Showed some understanding of the concepts needed to solve the selected problem, but not well prepared or able to make steps towards a reasonable solution.</td></tr>
+<tr><td style="text-align:center;">0</td><td>Not able to contribute to the cohort meeting.</td></tr>
+</tbody>
+</table>
 
-**Rounding:** By default, grades will not be rounded in this course.
-
-This numerical calculation is to be considered a **guideline** on your score in the course. Final letter grades may take other factors into account so that your grade is the most accurate reflection of your understanding of course materials. I expect that qualitative adjustments will only result in a student's grade increasing (though in extreme circumstances I reserve the right to decrease grades).
 
 ## Deadlines
 
@@ -126,14 +113,6 @@ Deadlines for all assignments and dates for all examinations are available on th
 If you feel that extenuating circumstances justify late submission for any assignment, please request a deadline extension. You can do that on the same page where you would submit an assignment.
 
 You may submit any assignment within 48 hours after the deadline with a grade penalty of 25%.
-
-## Regrades
-
-We acknowledge that professors and TAs are people, and people make mistakes. For this reason, you are able to request regrades on assignments within 1 week of your grade being returned.
-
-For **exercises** and **exams**, please only submit a regrade request if you believe the rubric was misapplied to your submission. In your request, identify specifically what in your submission demonstrates the misapplication.
-
-The goal of **quizzes** is to help you to form a better conceptual understanding of course materials, and therefore we consider them primarily as an opportunity to identify and correct misconceptions. For this reason, you may submit one regrade request per quiz to revise your answers.
 
 # Miscellanea
 
