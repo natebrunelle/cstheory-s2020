@@ -16,16 +16,14 @@ Lecture attendance is optional, but strongly encouraged. In the event you are un
 |        | Instructor | TAs |
 |--------|------------|-----|
 | Name | Nathan Brunelle | TBA |
-| Location | Rice 209 | TBA |
-| Office Hours | MW 3:30pm-5:30pm | TBA |
+| Location | [Zoom](TODO) | TBA |
+| Office Hours | TBA | TBA |
 | Phone | 243-3845 | (none) |
-| Email | <a href="mailto:njb2b@virginia.edu?subject=DMT1">njb2b@virginia.edu</a> | use [Piazza](https://piazza.com/virginia/spring2020/20spcs3102/home) |
+| Email | <a href="mailto:njb2b@virginia.edu?subject=DMT1">njb2b@virginia.edu</a> | use [Discord](TODO) |
 
-For communication about course content, [Piazza](https://piazza.com/virginia/spring2020/20spcs3102/home) is preferred to email.
-For communication about personal circumstances, email or in-person visits are preferred.
-If you email, include either "theory" or "3102" in the subject line to prevent your email from skipping my inbox and never getting read.
+For all course-related communications, [Discord](TODO) is preferred to email.
 
-Our TAs are students too, with duties and work outside of their TAing. Please do not ask them to act as your TA except at the scheduled on-the-clock times they have listed as their office hours. They are also kind people; please don't put them in the position of having to say no or (worse) being nice to you at the expense of their own schooling.
+Our TAs are students too, with duties and work outside of their TAing. Please do not ask them for help on course content outside of the scheduled on-the-clock times they have listed as their office hours. They are also kind people; please don't put them in the position of having to say no or (worse) being nice to you at the expense of their own schooling.
 
 
 ## Readings
@@ -49,30 +47,28 @@ This textbook is still in development, and Nathan Brunelle is in frequent commun
 
 ## Lectures
 
-I do my best to make lectures as valuable, engaging, and enlightening as possible for all
-students. For a schedule of lecture topics, please see the [course webpage](schedule.html).
-Although we believe nearly all students will benefit from attending all classes, we also respect that as
-mature (ideally) college students, you are entrusted to figure out how best to learn and
-make use of your time here. Hence, I will not assess attendance or impose any penalties for missing
-class (other than the scheduled in-class exams, which you will find it difficult to pass if you do not attend
-class those days!). 
-I will make a best effort to post all lecture materials (recordings, slides documents, etc.) on the course
-webpage, including video recordings of lectures. Be advised that there are occasional technical difficulties which sometimes cause the recordings to fail, and even when they do succeed these recordings are not an adequate substitute for
-attending class in person.
 
+Due to Covid-19, we will only have one in-person lecture this semester, which will occur on February 2 (i.e. the first day of class). For the remainder of the semester, we will be providing recorded videos. These will be some mix of footage from previously recorded lectures, original content, and relevant (and sometimes irrelevant) third party content.
 
 
 ## Tasks {#tasks}
 
-You will be expected to read instructional material and either understand it or ask questions to clarify what you found confusing. We strongly recommend forming study groups that meet at least weekly all semester long to discuss readings, as even if they appear simple at first they will often contain nuances that will only emerge with conversions.
+Each week, Students will be expected to do the following:
 
-You will be asked to perform three kinds of evaluations:
+- **Before their first cohort meeting**: Watch provided instructional videos, read provided instructional text, attempt weekly problem sets, attend office hours to improve understanding when necessary
+- **During their first cohort meeting**: Discuss (potentially incomplete or incorrect) solutions with the cohort. Collaborate and converge on the best answer you can muster for each problem.
+- **Between your cohort meetings**: Review solutions from the first weekly cohort meeting to ensure you understand them. Seek clarification from your cohort-mates or office hours when necessary. Refine solutions if necessary.
+- **During your second cohort meeting**: Do your best to provide solutions when called-upon by the TA. The TA will ask each student to attempt at least one problem, and may ask follow-up or clarification questions to more accurately assess understanding.
+- **After your second cohort meeting**: Complete and submit your problem writeup.
 
-- **Quizzes**: open-resource assessments of your understanding of broad course topics. These are intended to verify that you develop and maintain an intuitive understanding of the course concepts. These must be completed independently.
-- **Exercises**: problems for you to solve. These may be programming assignments or formal mathematical arguments. These are to provide opportunities for you to develop working familiarity with course concepts. You are encouraged to work on these with a small work group of up to 3 people (yourself plus 2).
-- **Exams**: closed-book in-class exams. These are meant to evaluate your overall understanding of the course materials. You must complete these on your own.
 
+Your grade will be determined by 3 components (in order of weight):
 
+- **Assessed Cohort meetings**: TAs will provide a score after each assessed cohort meeting to reflect how well you understood content from that week.
+- **Writeups**: In order to ensure you are able to communicate ideas in writing, each week you will be asked to write up one problem.
+- **Community**: At the end of the semester there will be a qualitative assessment of how effectively your cohort operated as an educational sub-community, and how well you contributed to the cohort. This will be derived from evaluations submitted by your peers and by your Cohort Coach (TA).
+
+**Exams**: There will be no traditional exams in this course
 
 # Grading
 
