@@ -6,10 +6,9 @@ title: Syllabus
 
 ## Meetings
 
-We will meet Tuesday and Thursday 3:30–4:45PM, in Ruffner Hall G008.
+We will meet as a whole class just once during the semester. This will occur on the first day of class: Tuesday February 2, 3:30pm on [Zoom](TODO).
 
-Lecture attendance is optional, but strongly encouraged. In the event you are unable to attend a lecture, recordings of lectures are provided on the [schedule page](schedule.html).
-
+For the remainder of the semester, you will be expected to meet twice weekly with your cohorts at the times designated when your cohort is assigned.
 
 ## Contact
 
