@@ -65,25 +65,7 @@ Each week, Students will be expected to do the following:
 
 # Grading
 
-
-We hope that you can spend your energy focusing on what you are learning, instead of
-worrying about your grade. That said, we understand students are often
-stressed about grading and understandably want to know where they
-stand in a class without having to rely just on the judgment of the
-course staff.  We aim to grade in a way that is useful (provides
-students with accurate measure of how well they understood what they
-should), motivating (encourages the behaviors we prefer, including
-hard but not obsessive work), fair (assigned higher grades to more
-deserving students), robust (arbitrary small perturbations do not have
-a material impact on someone's grade), and low stress (for both
-students and the course staff).
-
-
-To this end, your grade will be determined by 3 components (in order of weight):
-
-- [**Assessed Cohort Meetings**](structure.html#assessed): TAs will provide a score after each assessed cohort meeting to reflect how well you understood content from that week.
-- [**Writeups**](structure.html#writeups): In order to ensure you are able to communicate ideas in writing, each week you will be asked to write up one problem (as assigned during your Assessed Cohort Meeting).
-- [**Community**](structure.html#community): At the end of the semester there will be a qualitative assessment of how effectively your cohort operated as an educational sub-community, and how well you contributed to the cohort. This will be derived from evaluations submitted by your peers and by your Cohort Coach (TA).
+For details on grading, see: [Grading information](structure.html#grading).
 
 ## Absences and Deadlines
 
