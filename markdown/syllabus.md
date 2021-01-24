@@ -112,7 +112,7 @@ at the cohort meeting).
 - **Discuss with other students in the course**: You are welcome to also discuss problems with
 students and others who are not in your cohort, and to share what you
 learn from them with your cohortmates. Do not discuss problems with 
-any students who are not officially associated with the course (i.e. only discuss with current students and members of the course staff).
+any students who are not officially associated with the course (e.g. former CS3102 students or students attending other universities).
 - **Don't copy solutions**: Many problems in this course will be selected from problems used in
 previous courses, as well as well known problems. The goal of these
 problems is to lead students to develop understanding of the
