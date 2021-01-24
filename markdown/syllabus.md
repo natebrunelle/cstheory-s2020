@@ -85,34 +85,113 @@ To this end, your grade will be determined by 3 components (in order of weight):
 - **Writeups**: In order to ensure you are able to communicate ideas in writing, each week you will be asked to write up one problem (as assigned during your Assessed Cohort Meeting).
 - **Community**: At the end of the semester there will be a qualitative assessment of how effectively your cohort operated as an educational sub-community, and how well you contributed to the cohort. This will be derived from evaluations submitted by your peers and by your Cohort Coach (TA).
 
+## Assessed Cohort Meetings
+
+The main assessment will be based on students
+performance in the weekly cohort meetings.  Each student will be
+evaluated based on how well they are able to present problems at these
+meetings. It is not necessary or expected that students can solve
+every problem or have a complete solution, and the cohort meetings are
+meant more for learning than assessment, but it is expected that every
+student in the cohort is prepared to discuss every problem in the
+assigned problem set.
 
 Students will be assigned a grade based on their performance at the
-cohort meeting on this scale:
+cohort meeting on this scale (fractional grades are possible):
 
-<table class="grades">
-  <thead>
-    <tr>
-      <th width="20%" style="text-align:center;">Grade</th>
-      <th width="50%">Meaning</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-    <tr><td style="text-align:center;">3</td><td>Able to present on the selected problem well and to demonstrate good understanding of key concepts.</td></tr>
-<tr><td style="text-align:center;">2</td><td>Able to demonstrate some understanding of key concepts and preparation effort, but not able to make progress on the selected problem.</td></tr>
-<tr><td style="text-align:center;">1</td><td>Showed some understanding of the concepts needed to solve the selected problem, but not well prepared or able to make steps towards a reasonable solution.</td></tr>
-<tr><td style="text-align:center;">0</td><td>Not able to contribute to the cohort meeting.</td></tr>
-</tbody>
-</table>
+Grade Meaning
+----- -------
+3     Able to present on the selected problem well and to demonstrate good understanding of key concepts.
+2     Able to demonstrate some understanding of key concepts and preparation effort, but not able to make progress on the selected problem.
+1     Showed some understanding of the concepts needed to solve the selected problem, but not well prepared or able to make steps towards a reasonable solution.
+0     Not able to contribute to the cohort meeting.
+
+### Absenses
+
+We will make allowances for cases where a student is not able to make
+a scheduled cohort meeting due to extenuating circumstances and
+provide a way for students to request an exemption due to a valid
+reason for being unable to make a cohort meeting. Otherwise, a student
+who misses a cohort meeting received 0 cohort assessment points for
+that week. We consider medical issues, personal trauma, legal
+obligations, family responsibilities, and other justifiable conflicts
+to be valid reasons for missing cohort meetings, and students who are
+not able to make a scheduled cohort meeting for such reasons will not
+be disadvantaged as a result. In cases where a student has to miss
+more than two cohort meetings during the semester, we will provide an
+alternate assessment through an individual video meeting.
+
+When possible, the exemption request should be submitted 48 hours before the assessed cohort meeting.
+
+## Writeups
+
+Each week your cohort coach will assign a problem from the weekly problem set to writeup. Each student will writeup this problem individually. You may reference notes your and your cohort-mates compiled prior to the assessed cohort meeting, but you may not collaborate on the writeup after the assessed meeting has occurred.
+
+Students will be assigned a grade based on the quality of their writeup according to this scale (fractional grades are possible:
+
+Grade Meaning
+----- -------
+2     Writeup correctly solves the problem with a clearly-presented description.
+1.5   Writeup is nearly complete, but may have minor misconceptions.
+1     Writeup is correct except for major misconceptions.
+0.5   Writeup conveys some understanding of relevant concepts, but little progress is made towards a complete solution.
+0     Writeup has little similarity to a complete and correct solution.
 
 
-## Deadlines
+## Individual Grades
 
-Deadlines for all assignments and dates for all examinations are available on the [schedule page](schedule.html). Please note that these dates may change in order to adjust for course pacing.
+We will have 12 assessed cohort meetings during the semester (with 60
+total points available for full credit, and some opportunities for
+bonus points). The individual grade for students will be based on this
+scale:
 
-If you feel that extenuating circumstances justify late submission for any assignment, please request a deadline extension. You can do that on the same page where you would submit an assignment.
+Individual Grade Cohort+Writeup Points
+---------------- ---------------------
+A                48
+B                40
+C                32
 
-You may submit any assignment within 48 hours after the deadline with a grade penalty of 25%.
+With the exception of cases of academic dishonesty or inappropriate
+behavior, we guarantee that you will at least receive the minimum
+letter grade given in the table (possibly modified by a <b>-</b> based
+on the community grading described below), but you may be assigned a
+higher grade based on your overall performance and showing improvement
+over the course of the semester.
+
+In cases where a student's grade is not clear based on their cohort
+assessments, we will provide option for students to request an oral
+final exam to be scheduled with one of the instructors during the exam
+period.
+
+## Community Grades
+
+In addition to the individual cohort assessment
+  grades, each cohort will receive a community grade based on how well
+  the cohort does as a group.
+
+Two main factors will contribute to a cohort's community grade:
+
+- Overall performance of the cohort during assessed cohort
+  meetings. Doing well on this depends on all members of the cohort
+  being prepared to present problems well. This will be determined
+  based on the sum of the individual cohort assessments, the weekly
+  individual minimum individual cohort assessment, and the trend of
+  these values over the semester.
+
+- The quality of the cohort's written problem submissions. The cohort
+  will submit the problem write-up as a group, and everyone in the
+  cohort receives the same grade.
+
+The community grade typically will impact individual final grades by
+either a <b>+</b> or a <b>-</b> added to the individual letter grade
+(resulting from the individual grading above).
+
+In most cases, the community grade will apply equally to all members
+of the cohort. In unusual cases where it is clear that one member of a
+cohort is not contributing, or there are reasons why a cohort is not
+succeeding that are beyond the responsiblity of individual students in
+that cohort, appropriate adjustments will be made. 
+
 
 # Miscellanea
 
