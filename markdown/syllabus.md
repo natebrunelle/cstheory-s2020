@@ -82,8 +82,8 @@ students and the course staff).
 To this end, your grade will be determined by 3 components (in order of weight):
 
 - [**Assessed Cohort Meetings**](structure.html#assessed): TAs will provide a score after each assessed cohort meeting to reflect how well you understood content from that week.
-- **Writeups**: In order to ensure you are able to communicate ideas in writing, each week you will be asked to write up one problem (as assigned during your Assessed Cohort Meeting).
-- **Community**: At the end of the semester there will be a qualitative assessment of how effectively your cohort operated as an educational sub-community, and how well you contributed to the cohort. This will be derived from evaluations submitted by your peers and by your Cohort Coach (TA).
+- [**Writeups**](structure.html#writeups): In order to ensure you are able to communicate ideas in writing, each week you will be asked to write up one problem (as assigned during your Assessed Cohort Meeting).
+- [**Community**](structure.html#community): At the end of the semester there will be a qualitative assessment of how effectively your cohort operated as an educational sub-community, and how well you contributed to the cohort. This will be derived from evaluations submitted by your peers and by your Cohort Coach (TA).
 
 ## Absences and Deadlines
 
