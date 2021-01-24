@@ -88,17 +88,15 @@ To this end, your grade will be determined by 3 components (in order of weight):
 ## Absences and Deadlines
 
 We will make allowances for cases where a student is not able to make
-a scheduled cohort meeting or submit a writeup due to extenuating circumstances and
-provide a way for students to request exemptions/extensions. Otherwise, a student
-who misses a cohort meeting or fails to submit a writeup on time will received 0 points for
-that component of that week. We consider medical issues, personal trauma, legal
+a scheduled cohort meeting or writeup deadline. We consider medical issues, personal trauma, legal
 obligations, family responsibilities, and other justifiable conflicts
-to be valid excuses. In cases where a student has to miss
+to be valid excuses.
+
+In the case that you are unable to make an assessed cohort meeting, please submit an exemption request for both the cohort assessment and the writeup in the kytos submission site. In the case you are unable to submit a writeup on time, please submit an extension request for the writeup. When possible, requests should be submitted 48 hours before the assessed cohort meeting.
+
+In cases where a student has to miss
 more than two cohort meetings during the semester, we will provide an
 alternate assessment through an individual video meeting.
-
-When possible, the exemption request should be submitted 48 hours before the assessed cohort meeting.
-
 
 # Course Conduct
 
