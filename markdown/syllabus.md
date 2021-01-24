@@ -109,8 +109,7 @@ learn by thinking about problems on their own, so it is expected that
 each student studies the provided materials and attempts to solve the
 problems on their own, before discussing the problems with others (including cohortmates
 at the cohort meeting).
-- **Discuss with other students in the course**: You are welcome to also discuss problems with
-students and others who are not in your cohort, and to share what you
+- **Discuss with other students in the course**: You are welcome to also discuss problems with any students currently enrolled in the class (including students who are and are not in your cohort) and to share what you
 learn from them with your cohortmates. Do not discuss problems with 
 any students who are not officially associated with the course (e.g. former CS3102 students or students attending other universities).
 - **Don't copy solutions**: Many problems in this course will be selected from problems used in
