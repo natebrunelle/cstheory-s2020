@@ -193,7 +193,7 @@ succeeding that are beyond the responsiblity of individual students in
 that cohort, appropriate adjustments will be made. 
 
 
-# Miscellanea
+# Course Conduct
 
 ## Pledge
 
@@ -246,9 +246,9 @@ If I believe you have acted dishonestly, I will communicate this fact to you and
 If you have information I lack, please share that with me; I may thereafter change my belief and/or proposed penalty.
 
 
-## Personal accommodations
+# Personal accommodations
 
-### Special Circumstances
+## Special Circumstances
 
 The University of Virginia strives to provide accessibility to all students. If you
 require an accommodation to fully access this course, please contact the Student Disability Access Center
@@ -257,7 +257,7 @@ to learn more about their services, you may contact the SDAC at the number above
 For this course, we ask that students with special circumstances let us know as soon as possible, preferably
 during the **first week of class**.
 
-### Religious observances
+## Religious observances
 
  It is the University’s long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely
 held religious beliefs or observances conflict with academic requirements. Students who wish to request academic accommodation for a religious observance should submit their request in writing to
@@ -266,7 +266,7 @@ academic accommodations for religious observance or religious beliefs,contact th
 or 434-924-3200. Accommodations do not relieve you of the responsibility for completion of any part of
 the coursework missed as the result of a religious observance.
 
-### Safe Environment
+## Safe Environment
 
 The University of Virginia is dedicated to providing a safe and equitable learning
 environment for all students. To that end, it is vital that you know two values that I and the University
@@ -287,7 +287,7 @@ community. If you would rather keep this information confidential, there are [Co
 situation would be for you or your friend to remain silent when there are so many here willing and able
 to help.
 
-### Life
+## Life
 
 Bad things happen.
 People forget things and make mistakes.
