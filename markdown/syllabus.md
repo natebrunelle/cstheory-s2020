@@ -128,7 +128,7 @@ If I believe you have acted dishonestly, I will communicate this fact to you and
 If you have information I lack, please share that with me; I may thereafter change my belief and/or proposed penalty.
 
 
-# Personal accommodations
+# Personal Accommodations
 
 ## Special Circumstances
 
@@ -139,7 +139,7 @@ to learn more about their services, you may contact the SDAC at the number above
 For this course, we ask that students with special circumstances let us know as soon as possible, preferably
 during the **first week of class**.
 
-## Religious observances
+## Religious Observances
 
  It is the University’s long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely
 held religious beliefs or observances conflict with academic requirements. Students who wish to request academic accommodation for a religious observance should submit their request in writing to
