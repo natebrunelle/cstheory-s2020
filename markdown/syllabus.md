@@ -104,16 +104,16 @@ all students at the university deserve to be trusted.
 
 To get the most out of this course, we expect all students to abide by the following:
 
-- **Try it yourself first** We believe it is important for students to
+- **Try it yourself first**: We believe it is important for students to
 learn by thinking about problems on their own, so it is expected that
 each student studies the provided materials and attempts to solve the
 problems on their own, before discussing the problems with others (including cohortmates
 at the cohort meeting).
-- **Discuss with other students in the course** You are welcome to also discuss problems with
+- **Discuss with other students in the course**: You are welcome to also discuss problems with
 students and others who are not in your cohort, and to share what you
 learn from them with your cohortmates. Do not discuss problems with 
 any students who are not officially associated with the course (i.e. only discuss with current students and members of the course staff).
-- **Don't Copy Solutions** Many problems in this course will be selected from problems used in
+- **Don't copy solutions**: Many problems in this course will be selected from problems used in
 previous courses, as well as well known problems. The goal of these
 problems is to lead students to develop understanding of the
 underlying concepts by working through the problems themselves and in
@@ -123,8 +123,8 @@ clear in the assessed cohort meetings if you do not understand a
 problem as deeply as you would if you solved in yourself). Other than
 using solutions to the specific problems you are given, students are
 encouraged to use any other resources they find helpful.
-- **Do writeups independently** You may not collaborate with your cohort members while working on the writeups. You're welcome to reference or copy content from the textbook, officially-provided course materials, and notes compiled prior to your assessed cohort meetings. You may not consult the internet or communicate with your cohort members regarding your writeup between the assessed cohort meeting and when you submit your writeup.
-- **Read the policy on each assignment** A collaboration policy will be described on each assignment
+- **Do writeups independently**: You may not collaborate with your cohort members while working on the writeups. You're welcome to reference or copy content from the textbook, officially-provided course materials, and notes compiled prior to your assessed cohort meetings. You may not consult the internet or communicate with your cohort members regarding your writeup between the assessed cohort meeting and when you submit your writeup.
+- **Read the policy on each assignment**: A collaboration policy will be described on each assignment
   document, and may be different for different assignments. We aim to make the language describing the policy as clear
   and unambiguous as possible, but if anything is ever unclear about
   the stated policy for an assignment, please clarify with the course
