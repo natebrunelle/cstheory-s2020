@@ -106,7 +106,7 @@ Grade Meaning
 1     Showed some understanding of the concepts needed to solve the selected problem, but not well prepared or able to make steps towards a reasonable solution.
 0     Not able to contribute to the cohort meeting.
 
-### Absenses
+### Absences
 
 We will make allowances for cases where a student is not able to make
 a scheduled cohort meeting due to extenuating circumstances and
