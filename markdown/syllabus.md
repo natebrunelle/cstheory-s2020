@@ -113,7 +113,7 @@ at the cohort meeting).
 learn from them with your cohortmates. Do not discuss problems with 
 any students who are not officially associated with the course (e.g. former CS3102 students or students attending other universities).
 - **Don't copy solutions**: Many problems in this course will be selected from problems used in
-previous courses, as well as well known problems. The goal of these
+previous courses, as well as well-known problems. The goal of these
 problems is to lead students to develop understanding of the
 underlying concepts by working through the problems themselves and in
 discussions with others, and this goal would be defeated if you
