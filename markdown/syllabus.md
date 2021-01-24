@@ -6,9 +6,9 @@ title: Syllabus
 
 ## Meetings
 
-We will meet as a whole class just once during the semester. This will occur on the first day of class: Tuesday February 2, 3:30pm on [Zoom](TODO).
+We will meet as a whole class just once during the semester. This will occur on the first day of class: Tuesday February 2, 3:30pm on [Zoom](TODO).  For the remainder of the semester, instruction will be provided via pre=recorded videos. These will be some mix of footage from previously semesters' lectures, original content, and relevant (and sometimes irrelevant) third party content.
 
-For the remainder of the semester, you will be expected to meet twice weekly with your cohorts at the times designated when your cohort is assigned.
+Beginning during the second week of class, you will be expected to meet twice weekly with your cohorts at the times designated when your cohort is assigned.
 
 ## Contact
 
@@ -43,11 +43,6 @@ on-paper reading, we will provide links on the course website to PDF files for r
 In addition to the course textbook, some readings will be assigned from other (freely available) sources.
 
 This textbook is still in development, and Nathan Brunelle is in frequent communication with the author on improvements. If you find any errors in the textbook, feel free to submit an issue in the [book github](https://github.com/boazbk/tcs/issues). Doing so will earn extra credit (with factual errors being worth more than typographical errors).
-
-## Lectures
-
-
-Due to Covid-19, we will only have one in-person lecture this semester, which will occur on February 2 (i.e. the first day of class). For the remainder of the semester, we will be providing recorded videos. These will be some mix of footage from previously recorded lectures, original content, and relevant (and sometimes irrelevant) third party content.
 
 
 ## Tasks {#tasks}
