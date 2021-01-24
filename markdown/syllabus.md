@@ -14,7 +14,7 @@ Beginning during the second week of class, you will be expected to meet twice we
 
 |        | Instructor | TAs |
 |--------|------------|-----|
-| Name | Nathan Brunelle | [Course Staff](TODO) |
+| Name | Nathan Brunelle | [Bios](TODO) |
 | Location | [Zoom](TODO) | Discord |
 | Office Hours | TBA | `#OH` |
 | Phone | 243-3845 | (none) |
