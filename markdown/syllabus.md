@@ -75,6 +75,21 @@ In cases where a student has to miss
 more than two cohort meetings during the semester, we will provide an
 alternate assessment through an individual video meeting.
 
+## Bonus Points
+
+We hope students will go beyond the provided
+assignments and do other things to contribute to the class as well as
+beyond. We provide some concrete opportunities for this in the form of
+_Challenge Problems_, but also will award bonus points for relevant
+and creative activities that students invent on their own. We also
+offer bounty bonuses for contributions to the course textbook: having
+a Pull Request accepted by the author is worth something (even if it
+is just a simple typo fix) is worth one or more bonus individual grade points, and becoming the [#2 contributor (by "Additions")
+to the book
+repository](https://github.com/boazbk/tcs/graphs/contributors?from=2017-07-23&to=2020-08-08&type=a)
+is worth an automatic A in the class.
+
+
 # Course Conduct
 
 ## Pledge
