@@ -92,36 +92,46 @@ Let our TAs be students when they are not on the clock as TAs.
 
 Lack of professionalism has an overall detrimental impact on our community of learning, and therefore egregiously unprofessional behavior could incur arbitrary penalty to your grade.
 
-## Honesty
+## Collaboration
 
-I always hope everyone will behave honestly.
-I know we all are tempted to do what we ought not;
-if you do something you regret, the sooner you tell me the sooner (and more leniently) we can correct it.
+We believe strongly in the value of a community of trust, and expect
+all of the students in this class to contribute to strengthening and
+enhancing that community.
 
-### Plagiarism
+The course will be better for everyone if everyone can assume everyone
+else is trustworthy. The course staff starts with the assumption that
+all students at the university deserve to be trusted. 
 
-Do not engage in plagiarism (or anything like it). 
+To get the most out of this course, we expect all students to abide by the following:
 
-**Quizzes**: You must complete quizzes entirely on your own, do not discuss the contents of a quiz with anyone outside the course staff prior to its deadline. You may use only officially-provided or personally-created materials when completing at-home quizzes. This means you may only use:
+- **Try it yourself first**: We believe it is important for students to
+learn by thinking about problems on their own, so it is expected that
+each student studies the provided materials and attempts to solve the
+problems on their own, before discussing the problems with others (including cohortmates
+at the cohort meeting).
+- **Discuss with other students:** You are welcome to also discuss problems with
+students and others who are not in your cohort, and to share what you
+learn from them with your cohortmates. Do not discuss problems with 
+any students who are not officially associated with the course (i.e.
+current students or members of the course staff).
+- **Don't Copy Solutions** Many problems in this course will be selected from problems used in
+previous courses, as well as well known problems. The goal of these
+problems is to lead students to develop understanding of the
+underlying concepts by working through the problems themselves and in
+discussions with others, and this goal would be defeated if you
+instead use posted solutions to the problems (it will also probably be
+clear in the assessed cohort meetings if you do not understand a
+problem as deeply as you would if you solved in yourself). Other than
+using solutions to the specific problems you are given, students are
+encouraged to use any other resources they find helpful.
+- **Do writeups independently** You may not collaborate with your cohort members while working on the writeups. You're welcome to reference or copy content from the textbook, officially-provided course materials, and notes compiled prior to your assessed cohort meetings. You may not consult the internet or communicate with your cohort members regarding your writeup between the assessed cohort meeting and when you submit your writeup.
+- **Read the policy on each assignment** A collaboration policy will be described on each assignment
+  document, and may be different for different assignments. We aim to make the language describing the policy as clear
+  and unambiguous as possible, but if anything is ever unclear about
+  the stated policy for an assignment, please clarify with the course
+  staff.
 
-- The course textbook
-- Anything on the course webpage or linked to from the course webpage
-- Your personal notes (or those of a note-taker if you receive them as accommodation)
-- Lecture recordings
 
-**Exercises**: You may collaborate with up to 2 other people (i.e. a group of up to 3 total) when completing exercises. You may additionally use external materials with following restrictions:
-
-- Your write-ups must be done entirely independently. You may take notes while meeting with your collaborators, but we expect that the answers you submit be expressed in your own words. 
-- You must understand everything you submit. Do not submit anything you could not explain to a member of the course staff.
-- You **must** cite any and every source you consult beyond officially-provided materials (see list above). Included in your citation, you must identify which components of your submission came from each source (it will be understood that content with no citation is your own exclusive work). Your collaborators are considered to be sources, and so should be cited. An example citation might look like: "I collaborated with David Evans on the pdf style, I consulted \url{https://www.overleaf.com/learn/latex/Aligning\%20equations\%20with\%20amsmath} for help with the align environment, Robbie Hott helped me to debug the for loop on line 107 of my code."
-
-**Exams**: You are permitted a printed-out 1 page (front and back) reference sheet for the exam. You may put anything you would like on this reference sheet. You are not permitted to use any other resources on the exam. This means that the following non-exhaustive list of items is not permitted:
-
-- Laptops
-- Cell Phones
-- Neighbors
-- Textbooks
-- Smart watches
 
 
 ### Consequences of Dishonesty
