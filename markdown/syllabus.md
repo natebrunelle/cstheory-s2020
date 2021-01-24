@@ -98,7 +98,9 @@ I always hope everyone will behave honestly.
 I know we all are tempted to do what we ought not;
 if you do something you regret, the sooner you tell me the sooner (and more leniently) we can correct it.
 
-### No plagiarism (nor anything like it)
+### Plagiarism
+
+Do not engage in plagiarism (or anything like it). 
 
 **Quizzes**: You must complete quizzes entirely on your own, do not discuss the contents of a quiz with anyone outside the course staff prior to its deadline. You may use only officially-provided or personally-created materials when completing at-home quizzes. This means you may only use:
 
