@@ -10,13 +10,13 @@ We will meet as a whole class just once during the semester. This will occur on 
 
 Beginning during the second week of class, you will be expected to meet twice weekly with your cohorts at the times designated when your cohort is assigned.
 
-## Contact
+## Contact Information
 
 |        | Instructor | TAs |
 |--------|------------|-----|
-| Name | Nathan Brunelle | TBA |
-| Location | [Zoom](TODO) | TBA |
-| Office Hours | TBA | TBA |
+| Name | Nathan Brunelle | (Course Staff)[TODO] |
+| Location | [Zoom](TODO) | Discord |
+| Office Hours | TBA | `#OH` |
 | Phone | 243-3845 | (none) |
 | Email | <a href="mailto:njb2b@virginia.edu?subject=DMT1">njb2b@virginia.edu</a> | use [Discord](TODO) |
 
@@ -45,7 +45,7 @@ In addition to the course textbook, some readings will be assigned from other (f
 This textbook is still in development, and Nathan Brunelle is in frequent communication with the author on improvements. If you find any errors in the textbook, feel free to submit an issue in the [book github](https://github.com/boazbk/tcs/issues). Doing so will earn extra credit (with factual errors being worth more than typographical errors).
 
 
-## Tasks {#tasks}
+## Weekly Tasks {#tasks}
 
 Each week, Students will be expected to do the following:
 
@@ -56,11 +56,11 @@ Each week, Students will be expected to do the following:
 - **After their second cohort meeting**: Complete and submit your problem writeup.
 
 
-**Exams**: There will be no traditional exams in this course
-
 # Grading
 
 For details on grading, see: [Grading information](structure.html#grading).
+
+Note that we will have **no traditional exams** in this course.
 
 ## Absences and Deadlines
 
