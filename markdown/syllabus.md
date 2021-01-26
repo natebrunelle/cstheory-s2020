@@ -15,7 +15,7 @@ Beginning during the second week of class, you will be expected to meet twice we
 |        | Instructor | TAs |
 |--------|------------|-----|
 | Name | Nathan Brunelle | [Bios](/staff.html) |
-| Location | [Zoom](TODO) | `#OH` |
+| Location | [Zoom](TODO) | Discord `#OH` |
 | Office Hours | TBA | [OH](/oh.html) |
 | Phone | 243-3845 | (none) |
 | Email | <a href="mailto:njb2b@virginia.edu?subject=DMT1">njb2b@virginia.edu</a> | use [Discord](TODO) |
