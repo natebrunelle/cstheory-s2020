@@ -289,7 +289,7 @@ assignments:
         weight: 1
         no-extension: true
 
-    Week7writeup:
+    Week12writeup:
         group: writeup
         due: 2021-04-27 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week12.html/'
