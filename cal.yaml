@@ -130,7 +130,7 @@ assignments:
 
     Week1cohort:
         group: cohort
-        due: 2021-02-08 24:00:00
+        due: 2021-02-08 00:00:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week1.html/'
         weight: 1
         no-extension: true
@@ -144,7 +144,7 @@ assignments:
         
     Week2cohort:
         group: cohort
-        due: 2021-02-15 24:00:00
+        due: 2021-02-15 00:00:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week2.html/'
         weight: 1
         no-extension: true
@@ -158,7 +158,7 @@ assignments:
         
     Week3cohort:
         group: cohort
-        due: 2021-02-22 24:00:00
+        due: 2021-02-22 00:00:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week3.html/'
         weight: 1
         no-extension: true
@@ -172,7 +172,7 @@ assignments:
         
     Week4cohort:
         group: cohort
-        due: 2021-03-01 24:00:00
+        due: 2021-03-01 00:00:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week4.html/'
         weight: 1
         no-extension: true
@@ -186,7 +186,7 @@ assignments:
         
     Week5cohort:
         group: cohort
-        due: 2021-03-08 24:00:00
+        due: 2021-03-08 00:00:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week5.html/'
         weight: 1
         no-extension: true
@@ -200,7 +200,7 @@ assignments:
         
     Week6cohort:
         group: cohort
-        due: 2021-03-15 24:00:00
+        due: 2021-03-15 00:00:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week6.html/'
         weight: 1
         no-extension: true
@@ -214,7 +214,7 @@ assignments:
         
     Week7cohort:
         group: cohort
-        due: 2021-03-22 24:00:00
+        due: 2021-03-22 00:00:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week7.html/'
         weight: 1
         no-extension: true
@@ -228,7 +228,7 @@ assignments:
 
     Week8cohort:
         group: cohort
-        due: 2021-03-29 24:00:00
+        due: 2021-03-29 00:00:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week8.html/'
         weight: 1
         no-extension: true
@@ -242,7 +242,7 @@ assignments:
         
     Week9cohort:
         group: cohort
-        due: 2021-04-05 24:00:00
+        due: 2021-04-05 00:00:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week9.html/'
         weight: 1
         no-extension: true
@@ -256,7 +256,7 @@ assignments:
         
     Week10cohort:
         group: cohort
-        due: 2021-04-12 24:00:00
+        due: 2021-04-12 00:00:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week10.html/'
         weight: 1
         no-extension: true
@@ -270,7 +270,7 @@ assignments:
         
     Week11cohort:
         group: cohort
-        due: 2021-04-19 24:00:00
+        due: 2021-04-19 00:00:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week11.html/'
         weight: 1
         no-extension: true
@@ -284,7 +284,7 @@ assignments:
         
     Week12cohort:
         group: cohort
-        due: 2021-04-26 24:00:00
+        due: 2021-04-26 00:00:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week12.html/'
         weight: 1
         no-extension: true
