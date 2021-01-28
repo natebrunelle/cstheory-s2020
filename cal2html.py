@@ -119,7 +119,7 @@ def raw2cal(data, links=None):
                                 ans[-1]['reading'] = tmp[:]
                     ent['sidx'] += 1
                 # handle separate links file
-                print('doing links')
+                #print('doing links')
                 if links and d in links:
                     for f in links[d].get('files',[]):
                         n = os.path.basename(f)
@@ -172,25 +172,26 @@ def raw2cal(data, links=None):
                         })
 
         # handle assignments
-        for task,ent in data['assignments'].items():
-            if task[0] == '.': continue
-            if 'due' not in ent: continue
-            if ent['due'].date() != d: continue
-            group = ent.get('group', re.match('^[A-Za-z]*',task).group(0))
-            tmp = dict(data['assignments'].get('.groups',{}).get(group,{}))
-            tmp.update(ent)
-            ent = tmp
-            ans.append({
-                'title':ent.get('title', task),
-                'kind':'assignment',
-                'group':group,
-                'from':ent['due']-timedelta(0,900),
-                'to':ent['due'],
-                'slug':task,
-            })
-            if 'hide' in ent: ans[-1]['hide'] = ent['hide']
-            if 'link' in ent: ans[-1]['link'] = ent['link']
-        
+        if False:
+            for task,ent in data['assignments'].items():
+                if task[0] == '.': continue
+                if 'due' not in ent: continue
+                if ent['due'].date() != d: continue
+                group = ent.get('group', re.match('^[A-Za-z]*',task).group(0))
+                tmp = dict(data['assignments'].get('.groups',{}).get(group,{}))
+                tmp.update(ent)
+                ent = tmp
+                ans.append({
+                    'title':ent.get('title', task),
+                    'kind':'assignment',
+                    'group':group,
+                    'from':ent['due']-timedelta(0,900),
+                    'to':ent['due'],
+                    'slug':task,
+                })
+                if 'hide' in ent: ans[-1]['hide'] = ent['hide']
+                if 'link' in ent: ans[-1]['link'] = ent['link']
+            
         return ans
 
     ans = []
