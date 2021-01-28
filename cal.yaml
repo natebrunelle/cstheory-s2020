@@ -13,7 +13,7 @@ meta:
   timezone: America/New_York
   name: CSTheory
   lecture exam: true
-  home: https://uvatoc.github.io
+  home: https://www.cs.virginia.edu/~njb2b/cstheory/s2021
   final:
     start: 2020-12-07 14:00:00
     duration: 180
