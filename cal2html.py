@@ -172,25 +172,24 @@ def raw2cal(data, links=None):
                         })
 
         # handle assignments
-        if False:
-            for task,ent in data['assignments'].items():
-                if task[0] == '.': continue
-                if 'due' not in ent: continue
-                if ent['due'].date() != d: continue
-                group = ent.get('group', re.match('^[A-Za-z]*',task).group(0))
-                tmp = dict(data['assignments'].get('.groups',{}).get(group,{}))
-                tmp.update(ent)
-                ent = tmp
-                ans.append({
-                    'title':ent.get('title', task),
-                    'kind':'assignment',
-                    'group':group,
-                    'from':ent['due']-timedelta(0,900),
-                    'to':ent['due'],
-                    'slug':task,
-                })
-                if 'hide' in ent: ans[-1]['hide'] = ent['hide']
-                if 'link' in ent: ans[-1]['link'] = ent['link']
+        for task,ent in data['assignments'].items():
+            if task[0] == '.': continue
+            if 'due' not in ent: continue
+            if ent['due'].date() != d: continue
+            group = ent.get('group', re.match('^[A-Za-z]*',task).group(0))
+            tmp = dict(data['assignments'].get('.groups',{}).get(group,{}))
+            tmp.update(ent)
+            ent = tmp
+            ans.append({
+                'title':ent.get('title', task),
+                'kind':'assignment',
+                'group':group,
+                'from':ent['due']-timedelta(0,900),
+                'to':ent['due'],
+                'slug':task,
+            })
+            if 'hide' in ent: ans[-1]['hide'] = ent['hide']
+            if 'link' in ent: ans[-1]['link'] = ent['link']
             
         return ans
 
@@ -208,6 +207,7 @@ def raw2cal(data, links=None):
 def cal2html(cal):
     """Uses divs only, with no week-level divs"""
     print('doing cal2html')
+    print(cal[1][1])
     ans = ['<div id="schedule" class="calendar">']
     ldat = None
     for week in cal:
@@ -220,6 +220,7 @@ def cal2html(cal):
                 ans.append('<span class="date w{1}">{0}</span>'.format(day['date'].strftime('%d %b').strip('0'), day['date'].strftime('%w')))
                 ans.append('<div class="events">')
                 for e in day['events']:
+                    if e.get('kind') == 'assignment' : continue
                     if e.get('kind') == 'oh': continue
                     if e.get('hide'): continue
                     classes = [e[k] for k in ('section','kind','group') if k in e]
