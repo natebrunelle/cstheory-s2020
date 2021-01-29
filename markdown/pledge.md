@@ -9,7 +9,8 @@ title: CS3102 Course Pledge
 As a student at the University of Virginia, you are trusted to be honorable and expected to behave in ways that merit that trust. We take advantage of this trust to provide a better learning environment for everyone. In particular, students in cs3102 are expected to follow these rules throughout the course:
 
 - **I will not lie, cheat or steal.** If I am unsure whether something would be considered lying, cheating or stealing, I will ask before doing it.
-- **I will carefully read and follow the collaboration policy on each assignment.** I will not abuse resources in ways that would be clearly detrimental to my own learning or unfair to other students. Viewing solutions from previous cs3102 courses is not permitted, except when explicitly allowed.
+- **I will carefully read and follow the collaboration policies on each assignment.** In particular, I will follow the principles of *Try it yourself first*, *Discuss with other students in the course*, *Don't copy solutions*, *Do writeups independently*, and *Read the policy on each assignment* as described in the [course syllabus](/syllabus.html).
+
 
 ## Community Expectations
 
