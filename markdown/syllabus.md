@@ -15,12 +15,12 @@ Beginning during the second week of class, you will be expected to meet twice we
 |        | Instructor | TAs |
 |--------|------------|-----|
 | Name | Nathan Brunelle | [Bios](/staff.html) |
-| Location | [Zoom](TODO) | Discord `#OH` |
-| Office Hours | TBA | [OH](/oh.html) |
+| Location | Discord `#OH` | Discord `#OH` |
+| Office Hours | M-F 9:30am-10:30am | [OH](/oh.html) |
 | Phone | 243-3845 | (none) |
-| Email | <a href="mailto:njb2b@virginia.edu?subject=DMT1">njb2b@virginia.edu</a> | use [Discord](TODO) |
+| Email | <a href="mailto:njb2b@virginia.edu?subject=cs3102">njb2b@virginia.edu</a> | Discord |
 
-For all course-related communications, [Discord](TODO) is preferred to email.
+For all course-related communications, Discord is preferred to email.
 
 Our TAs are students too, with duties and work outside of their TAing. Please do not ask them for help on course content outside of the scheduled on-the-clock times they have listed as their office hours. They are also kind people; please don't put them in the position of having to say no or (worse) being nice to you at the expense of their own schooling.
 
