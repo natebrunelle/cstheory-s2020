@@ -95,7 +95,6 @@ summary { margin-left: -1em; }
 
 </style>
 
-While classes are online, lectures will be live-streamed via zoom. [Please join us!](https://virginia.zoom.us/j/134834401)
 
 <p>View as 
 <label><input type="radio" name="viewmode" onchange="viewmode(this)" checked value="calendar" id="viewmode=calendar"> calendar</label>
