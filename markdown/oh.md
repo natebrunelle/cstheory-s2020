@@ -2,7 +2,9 @@
 title: Office Hours
 ...
 
-During our move to online, we will be conducting office hours via [Discord](TODO), using the `#oh` channel. Sign-up instructions will be distributed via email.
+<blockquote style="background-color:#fbb; font-size:150%">TA Office Hours will be scheduled and posted here following the scheduling of cohort meetings</blockquote>
+
+We will conduct office hours via Discord, using the `#oh` channel. The invite link was sent out via email, and can be found on the course collab page. After accepting the invitation, our bot called `Turing` will send you a message. Respond to Turing with your computing id so that we can verify that you're enrolled in the course.
 
 We will have scheduled office hours times. If you have content questions outside of office hours, please use the discord channel associated with the relevant week (e.g. `#week3`).
 
