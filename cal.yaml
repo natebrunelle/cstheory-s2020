@@ -23,7 +23,7 @@ sections:
   CS3102:
     type: lecture
     room: Ruffner G008
-    days: [Sunday, Monday, Tuesday, Wednesda, Thursday, Friday]
+    days: [Sunday, Monday, Tuesday, Wednesday, Thursday, Friday]
     start: 15:30:00
     duration: 75
 
