@@ -183,6 +183,13 @@ assignments:
         weight: 1
         files: 'week3.pdf'
         
+    Week3eval:
+        group: cohort
+        due: 2021-02-28 00:00:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/peer_eval.html'
+        weight: 0
+        no-extension: true
+        
     Week4cohort:
         group: cohort
         due: 2021-03-01 00:00:00
