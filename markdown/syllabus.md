@@ -6,7 +6,7 @@ title: Syllabus
 
 ## Meetings
 
-We will meet as a whole class just once during the semester. This will occur on the first day of class: Tuesday February 2, 3:30pm on [Zoom](https://virginia.zoom.us/j/96370348427?pwd=clQzSEhWRHpnS2xYVGRQU3hHbU5Odz09).  For the remainder of the semester, instruction will be provided via pre=recorded videos. These will be some mix of footage from previously semesters' lectures, original content, and relevant (and sometimes irrelevant) third party content.
+We will meet as a whole class just once during the semester. This will occur on the first day of class: Tuesday February 2, 3:30pm on [Zoom](https://virginia.zoom.us/j/96370348427?pwd=clQzSEhWRHpnS2xYVGRQU3hHbU5Odz09).  For the remainder of the semester, instruction will be provided via pre-recorded videos. These will be some mix of footage from previously semesters' lectures, original content, and relevant (and sometimes irrelevant) third party content.
 
 Beginning during the second week of class, you will be expected to meet twice weekly with your cohorts at the times designated when your cohort is assigned.
 
