@@ -201,7 +201,7 @@ assignments:
         group: writeup
         due: 2021-03-02 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week4.html'
-        weight: 1
+        weight: 0.5
         files: 'week4.pdf'
         
     Week5cohort:
@@ -215,7 +215,7 @@ assignments:
         group: writeup
         due: 2021-03-09 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week5.html'
-        weight: 1
+        weight: 0.5
         files: 'week5.pdf'
         
     Week6cohort:
@@ -229,7 +229,7 @@ assignments:
         group: writeup
         due: 2021-03-16 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week6.html'
-        weight: 1
+        weight: 0.5
         files: 'week6.pdf'
         
     Week7cohort:
@@ -243,7 +243,7 @@ assignments:
         group: writeup
         due: 2021-03-23 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week7.html'
-        weight: 1
+        weight: 0.5
         files: 'week7.pdf'
 
     Week8cohort:
@@ -257,7 +257,7 @@ assignments:
         group: writeup
         due: 2021-03-30 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week8.html'
-        weight: 1
+        weight: 0.5
         files: 'week8.pdf'
         
     Week9cohort:
@@ -271,7 +271,7 @@ assignments:
         group: writeup
         due: 2021-04-06 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week9.html'
-        weight: 1
+        weight: 0.5
         files: 'week9.pdf'
         
     Week10cohort:
@@ -285,7 +285,7 @@ assignments:
         group: writeup
         due: 2021-04-13 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week10.html'
-        weight: 1
+        weight: 0.5
         files: 'week10.pdf'
         
     Week11cohort:
@@ -299,7 +299,7 @@ assignments:
         group: writeup
         due: 2021-04-20 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week11.html'
-        weight: 1
+        weight: 0.5
         files: 'week11.pdf'
         
     Week12cohort:
@@ -313,6 +313,6 @@ assignments:
         group: writeup
         due: 2021-04-27 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week12.html'
-        weight: 1
+        weight: 0.5
         files: 'week12.pdf'
 
