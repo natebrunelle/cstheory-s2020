@@ -316,10 +316,10 @@ assignments:
         weight: 1
         no-extension: true
 
-    Week12writeup:
-        group: writeup
-        due: 2021-04-27 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week12.html'
-        weight: 0.5
-        files: 'week12.pdf'
+    Week12eval:
+        group: cohort
+        due: 2021-05-07 00:00:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/peer_eval.html'
+        weight: 0
+        no-extension: true
 
