@@ -1,19 +1,16 @@
 Special Dates:
-  Courses begin: 2021-02-01
-  Courses end: 2021-05-06
-  Break Day 1: 2021-02-17
-  Break Day 2: 2021-03-09
-  Break Day 3: 2021-03-29
-  Break Day 4: 2021-04-15
+  Courses begin: 2021-06-21
+  Courses end: 2021-07-16
+  Break Day: 2021-07-05
   Add deadline: 2021-02-16
-  Drop deadline: 2021-03-23
-  Withdraw deadline: 2021-04-06
+  Midpoint: 2021-07-02
+  Withdraw deadline: 2021-07-09
 
 meta:
   timezone: America/New_York
   name: CSTheory
   lecture exam: true
-  home: https://www.cs.virginia.edu/~njb2b/cstheory/s2021
+  home: https://www.cs.virginia.edu/~njb2b/cstheory/su2021
   final:
     start: 2020-12-07 14:00:00
     duration: 180
@@ -23,107 +20,15 @@ sections:
   CS3102:
     type: lecture
     room: Ruffner G008
-    days: [Sunday, Monday, Tuesday, Wednesday, Thursday, Friday]
+    days: [Monday, Tuesday, Wednesday, Thursday, Friday]
     start: 15:30:00
     duration: 75
 
 
 lectures:
-    - No Class
     - Course Introduction
-    - No Assessments
-    - No Assessments
-    - No Assessments
-    
-    - No Assessments
-    - Week 1 Assessments
-    - Week 1 Assessments
-    - Week 1 Assessments
-    - Week 1 Assessments
-    - Week 1 Assessments
-    
-    - Week 1 Assessments
-    - Week 2 Assessments
-    - Week 2 Assessments
-    - No Assessments
-    - Week 2 Assessments
-    - Week 2 Assessments
-    
-    - Week 2 Assessments
-    - Week 3 Assessments
-    - Week 3 Assessments
-    - Week 2 Assessments
-    - Week 3 Assessments
-    - Week 3 Assessments
-    
-    - Week 3 Assessments
-    - Week 4 Assessments
-    - Week 4 Assessments
-    - Week 3 Assessments
-    - Week 4 Assessments
-    - Week 4 Assessments
-    
-    - Week 4 Assessments
-    - Week 5 Assessments
-    - No Assessments
-    - Week 4 Assessments
-    - Week 5 Assessments
-    - Week 5 Assessments
-    
-    - Week 5 Assessments
-    - Week 6 Assessments
-    - Week 5 Assessments
-    - Week 5 Assessments
-    - Week 6 Assessments
-    - Week 6 Assessments
-    
-    - Week 6 Assessments
-    - Week 7 Assessments
-    - Week 6 Assessments
-    - Week 6 Assessments
-    - Week 7 Assessments
-    - Week 7 Assessments
-    
-    - Week 7 Assessments
-    - No Assessments
-    - Week 7 Assessments
-    - Week 7 Assessments
-    - Week 8 Assessments
-    - Week 8 Assessments
-    
-    - Week 8 Assessments
-    - Week 8 Assessments
-    - Week 8 Assessments
-    - Week 8 Assessments
-    - Week 9 Assessments
-    - Week 9 Assessments
-
-    - Week 9 Assessments
-    - Week 9 Assessments
-    - Week 9 Assessments
-    - Week 9 Assessments
-    - No Assessments
-    - Week 10 Assessments
-    
-    - Week 10 Assessments
-    - Week 10 Assessments
-    - Week 10 Assessments
-    - Week 10 Assessments
-    - Week 10 Assessments
-    - Week 11 Assessments
-    
-    - Week 11 Assessments
-    - Week 11 Assessments
-    - Week 11 Assessments
-    - Week 11 Assessments
-    - Week 11 Assessments
-    - Week 12 Assessments
-
-    - Week 12 Assessments
-    - Week 12 Assessments
-    - Week 12 Assessments
-    - Week 12 Assessments
-    - Week 12 Assessments
+    - P Day
+    - A Day
     
 
 reading: 
@@ -143,183 +48,135 @@ assignments:
 
     Week1cohort:
         group: cohort
-        due: 2021-02-08 00:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week1.html'
+        due: 2021-06-23 13:00:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/week1.html'
         weight: 1
         no-extension: true
 
     Week1writeup:
         group: writeup
-        due: 2021-02-09 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week1.html'
-        weight: 0.4
+        due: 2021-06-23 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/week1.html'
+        weight: 0.5
         files: 'week1.pdf'
         
     Week2cohort:
         group: cohort
-        due: 2021-02-15 00:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week2.html'
+        due: 2021-06-25 13:00:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/week2.html'
         weight: 1
         no-extension: true
 
     Week2writeup:
         group: writeup
-        due: 2021-02-16 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week2.html'
-        weight: 0.4
+        due: 2021-06-25 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/week2.html'
+        weight: 0.5
         files: 'week2.pdf'
         
     Week3cohort:
         group: cohort
-        due: 2021-02-22 00:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week3.html'
+        due: 2021-06-29 13:00:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/week3.html'
         weight: 1
         no-extension: true
 
     Week3writeup:
         group: writeup
-        due: 2021-02-23 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week3.html'
+        due: 2021-06-29 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/week3.html'
         weight: 0.5
         files: 'week3.pdf'
         
-    Week3eval:
+    Week1eval:
         group: cohort
-        due: 2021-02-28 00:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/peer_eval.html'
+        due: 2021-06-28 00:00:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/peer_eval.html'
         weight: 0
         no-extension: true
         
     Week4cohort:
         group: cohort
-        due: 2021-03-01 00:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week4.html'
+        due: 2021-07-01 13:00:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/week4.html'
         weight: 1
         no-extension: true
 
     Week4writeup:
         group: writeup
-        due: 2021-03-02 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week4.html'
+        due: 2021-07-01 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week1.html'
         weight: 0.5
         files: 'week4.pdf'
         
     Week5cohort:
         group: cohort
-        due: 2021-03-08 00:00:00
+        due: 2021-07-06 00:00:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week5.html'
         weight: 1
         no-extension: true
 
     Week5writeup:
         group: writeup
-        due: 2021-03-09 23:59:59
+        due: 2021-07-06 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week5.html'
         weight: 0.5
         files: 'week5.pdf'
         
     Week6cohort:
         group: cohort
-        due: 2021-03-15 00:00:00
+        due: 2021-07-08 13:00:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week6.html'
         weight: 1
         no-extension: true
 
     Week6writeup:
         group: writeup
-        due: 2021-03-16 23:59:59
+        due: 2021-07-08 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week6.html'
         weight: 0.5
         files: 'week6.pdf'
         
-    Week7eval:
-        group: cohort
-        due: 2021-03-23 00:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/peer_eval.html'
-        weight: 0
-        no-extension: true
         
     Week7cohort:
         group: cohort
-        due: 2021-03-22 00:00:00
+        due: 2021-07-12 13:00:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week7.html'
         weight: 1
         no-extension: true
 
     Week7writeup:
         group: writeup
-        due: 2021-03-23 23:59:59
+        due: 2021-07-12 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week7.html'
         weight: 0.5
         files: 'week7.pdf'
 
     Week8cohort:
         group: cohort
-        due: 2021-03-29 00:00:00
+        due: 2021-07-14 13:00:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week8.html'
         weight: 1
         no-extension: true
 
     Week8writeup:
         group: writeup
-        due: 2021-03-30 23:59:59
+        due: 2021-07-14 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week8.html'
         weight: 0.5
         files: 'week8.pdf'
         
     Week9cohort:
         group: cohort
-        due: 2021-04-05 00:00:00
+        due: 2021-07-16 13:00:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week9.html'
         weight: 1
         no-extension: true
 
     Week9writeup:
         group: writeup
-        due: 2021-04-06 23:59:59
+        due: 2021-07-16 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week9.html'
         weight: 0.5
         files: 'week9.pdf'
-        
-    Week10cohort:
-        group: cohort
-        due: 2021-04-12 00:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week10.html'
-        weight: 1
-        no-extension: true
-
-    Week10writeup:
-        group: writeup
-        due: 2021-04-13 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week10.html'
-        weight: 0.5
-        files: 'week10.pdf'
-        
-    Week11cohort:
-        group: cohort
-        due: 2021-04-19 00:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week11.html'
-        weight: 1
-        no-extension: true
-
-    Week11writeup:
-        group: writeup
-        due: 2021-04-20 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week11.html'
-        weight: 0.5
-        files: 'week11.pdf'
-        
-    Week12cohort:
-        group: cohort
-        due: 2021-04-26 00:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week12.html'
-        weight: 1
-        no-extension: true
-
-    Week12eval:
-        group: cohort
-        due: 2021-05-07 00:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/peer_eval.html'
-        weight: 0
-        no-extension: true
 
