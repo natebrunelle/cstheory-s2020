@@ -62,137 +62,137 @@ assignments:
             portion: "1"
             
 
-    Week1cohort:
+    unit1cohort:
         group: cohort
         due: 2021-06-23 13:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/week1.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/unit1.html'
         weight: 1
         no-extension: true
 
-    Week1writeup:
+    unit1writeup:
         group: writeup
         due: 2021-06-23 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/week1.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/unit1.html'
         weight: 0.5
-        files: 'week1.pdf'
+        files: 'unit1.pdf'
         
-    Week2cohort:
+    unit2cohort:
         group: cohort
         due: 2021-06-25 13:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/week2.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/unit2.html'
         weight: 1
         no-extension: true
 
-    Week2writeup:
+    unit2writeup:
         group: writeup
         due: 2021-06-25 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/week2.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/unit2.html'
         weight: 0.5
-        files: 'week2.pdf'
+        files: 'unit2.pdf'
         
-    Week3cohort:
+    unit3cohort:
         group: cohort
         due: 2021-06-29 13:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/week3.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/unit3.html'
         weight: 1
         no-extension: true
 
-    Week3writeup:
+    unit3writeup:
         group: writeup
         due: 2021-06-29 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/week3.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/unit3.html'
         weight: 0.5
-        files: 'week3.pdf'
+        files: 'unit3.pdf'
         
-    Week1eval:
+    week1eval:
         group: cohort
         due: 2021-06-28 00:00:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/peer_eval.html'
         weight: 0
         no-extension: true
         
-    Week4cohort:
+    unit4cohort:
         group: cohort
         due: 2021-07-01 13:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/week4.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/unit4.html'
         weight: 1
         no-extension: true
 
-    Week4writeup:
+    unit4writeup:
         group: writeup
         due: 2021-07-01 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week1.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/unit1.html'
         weight: 0.5
-        files: 'week4.pdf'
+        files: 'unit4.pdf'
         
-    Week5cohort:
+    unit5cohort:
         group: cohort
         due: 2021-07-06 00:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week5.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/unit5.html'
         weight: 1
         no-extension: true
 
-    Week5writeup:
+    unit5writeup:
         group: writeup
         due: 2021-07-06 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week5.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/unit5.html'
         weight: 0.5
-        files: 'week5.pdf'
+        files: 'unit5.pdf'
         
-    Week6cohort:
+    unit6cohort:
         group: cohort
         due: 2021-07-08 13:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week6.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/unit6.html'
         weight: 1
         no-extension: true
 
-    Week6writeup:
+    unit6writeup:
         group: writeup
         due: 2021-07-08 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week6.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/unit6.html'
         weight: 0.5
-        files: 'week6.pdf'
+        files: 'unit6.pdf'
         
         
-    Week7cohort:
+    unit7cohort:
         group: cohort
         due: 2021-07-12 13:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week7.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/unit7.html'
         weight: 1
         no-extension: true
 
-    Week7writeup:
+    unit7writeup:
         group: writeup
         due: 2021-07-12 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week7.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/unit7.html'
         weight: 0.5
-        files: 'week7.pdf'
+        files: 'unit7.pdf'
 
-    Week8cohort:
+    unit8cohort:
         group: cohort
         due: 2021-07-14 13:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week8.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/unit8.html'
         weight: 1
         no-extension: true
 
-    Week8writeup:
+    unit8writeup:
         group: writeup
         due: 2021-07-14 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week8.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/unit8.html'
         weight: 0.5
-        files: 'week8.pdf'
+        files: 'unit8.pdf'
         
-    Week9cohort:
+    unit9cohort:
         group: cohort
         due: 2021-07-16 13:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week9.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/unit9.html'
         weight: 1
         no-extension: true
 
-    Week9writeup:
+    unit9writeup:
         group: writeup
         due: 2021-07-16 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week9.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/unit9.html'
         weight: 0.5
-        files: 'week9.pdf'
+        files: 'unit9.pdf'
 
