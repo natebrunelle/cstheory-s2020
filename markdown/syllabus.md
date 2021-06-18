@@ -6,7 +6,7 @@ title: Syllabus
 
 ## Meetings
 
-We will have just one instructional lecture during the semester. This will occur on the first day of class: Monday June 21, 10:30am on [Zoom](https://virginia.zoom.us/j/96370348427?pwd=clQzSEhWRHpnS2xYVGRQU3hHbU5Odz09).  For the remainder of the semester, instruction will be provided via pre-recorded videos and optional zoom problem-solving sessions. The asynchoronous instruction will be some mix of footage from previously semesters' lectures, original content, and relevant (and sometimes irrelevant) third party content.
+We will have just one instructional lecture during the semester. This will occur on the first day of class: Monday June 21, 10:30am on [Zoom](https://collab.its.virginia.edu).  For the remainder of the semester, instruction will be provided via pre-recorded videos and optional zoom problem-solving sessions. The asynchoronous instruction will be some mix of footage from previously semesters' lectures, original content, and relevant (and sometimes irrelevant) third party content.
 
 ## Contact Information
 
