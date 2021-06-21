@@ -2,7 +2,7 @@
 title: Theory of Computation
 ...
 
-#Course Onboarding Checklist:
+# Course Onboarding Checklist:
 
 1. Fill out the [course registration survey](https://docs.google.com/forms/d/e/1FAIpQLSfJAitJqWnDbxuipe_uLUowT3NnlEogTVsRRYc_zEwVj-7T1A/viewform?usp=sf_link)
 1. Join Discord (link in collab)
