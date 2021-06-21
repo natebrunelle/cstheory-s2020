@@ -2,6 +2,13 @@
 title: Theory of Computation
 ...
 
+#Course Onboarding Checklist:
+
+1. Fill out the [course registration survey](https://docs.google.com/forms/d/e/1FAIpQLSfJAitJqWnDbxuipe_uLUowT3NnlEogTVsRRYc_zEwVj-7T1A/viewform?usp=sf_link)
+1. Join Discord (link in collab)
+1. Get verified on discord by messaging your computing id to Turing
+1. Watch the [recording of the first lecture]() for information on course goals and structure
+1. Begin working on unit 1 by following the [unit 1 guide](unit1.hml)
 
 # Course Description
 
