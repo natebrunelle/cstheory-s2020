@@ -8,7 +8,7 @@ title: Theory of Computation
 1. Join Discord (link in collab)
 1. Get verified on discord by messaging your computing id to Turing
 1. Watch the [recording of the first lecture]() for information on course goals and structure
-1. Begin working on unit 1 by following the [unit 1 guide](unit1.hml)
+1. Begin working on unit 1 by following the [unit 1 guide](unit1.html)
 
 # Course Description
 
