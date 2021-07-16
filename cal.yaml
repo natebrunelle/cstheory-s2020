@@ -195,4 +195,10 @@ assignments:
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/unit9.html'
         weight: 0.5
         files: 'unit9.pdf'
-
+        
+    finaleval:
+        group: cohort
+        due: 2021-07-17 12:00:00
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/su2021/peer_eval.html'
+        weight: 0
+        no-extension: true
