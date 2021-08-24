@@ -135,7 +135,7 @@ assignments:
     week7review:
         group: writeup
         due: 2021-10-15 23:59:59
-        writeup: 'https://uvatoc.github.io/week7'4
+        writeup: 'https://uvatoc.github.io/week7'
         weight: 0
 
     week8cohort:
