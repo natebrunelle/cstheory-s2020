@@ -4,7 +4,7 @@ here="$(dirname "$(readlink -m "$0")")/"
 self="$(readlink -m "$0")"
 cd "$here"
 target="$(readlink -f "$here""/demo_site/")/"
-remote=njb2b@portal.cs.virginia.edu:public_html/cstheory/su2021
+remote=njb2b@portal.cs.virginia.edu:public_html/cstheory/f2021
 mkdir -p "$target"files
 
 if ls ~/.local/pandoc*/bin/pandoc
