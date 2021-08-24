@@ -203,7 +203,7 @@ assignments:
         writeup: 'https://uvatoc.github.io/week12'
         files: 'week12.pdf'
         
-    week13sythesis:
+    week13synthesis:
         group: writeup
         due: 2021-11-1 23:59:59
         writeup: 'https://uvatoc.github.io/week13'
