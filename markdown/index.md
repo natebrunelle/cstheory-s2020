@@ -2,8 +2,14 @@
 title: Theory of Computation
 ...
 
-<div style="display:table; font-size:200%; margin: 1em auto; padding:1ex; box-shadow: 0 1px 10px rgba(0,0,0,.1); border: thin solid #eee; border-radius:1ex; background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);">[I'm New To This Course](catch_me_up.html)</div>
+# Course Onboarding Checklist:
 
+1. Fill out the [course registration survey](https://docs.google.com/forms/d/e/1FAIpQLSfJAitJqWnDbxuipe_uLUowT3NnlEogTVsRRYc_zEwVj-7T1A/viewform?usp=sf_link)
+1. Join Discord (link in collab)
+1. Get verified on discord by messaging your computing id to Turing
+1. Watch the [recording of the first lecture](https://virginia.zoom.us/rec/share/Y4ld_gk-f8-H2nm3RO1022bE1lGL_ZQSLvEkuDlMmhNA_IcJlic1QagCSux4nC6x.Tr3fAuzikaj9TOeZ
+) for information on course goals and structure
+1. Begin working on unit 1 by following the [unit 1 guide](unit1.html)
 
 # Course Description
 

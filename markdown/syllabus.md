@@ -6,9 +6,7 @@ title: Syllabus
 
 ## Meetings
 
-We will meet as a whole class just once during the semester. This will occur on the first day of class: Tuesday February 2, 3:30pm on [Zoom](https://virginia.zoom.us/j/96370348427?pwd=clQzSEhWRHpnS2xYVGRQU3hHbU5Odz09).  For the remainder of the semester, instruction will be provided via pre-recorded videos. These will be some mix of footage from previously semesters' lectures, original content, and relevant (and sometimes irrelevant) third party content.
-
-Beginning during the second week of class, you will be expected to meet twice weekly with your cohorts at the times designated when your cohort is assigned.
+We will have just one instructional lecture during the semester. This will occur on the first day of class: Monday June 21, 10:30am on [Zoom](https://collab.its.virginia.edu).  For the remainder of the semester, instruction will be provided via pre-recorded videos and optional zoom problem-solving sessions. The asynchoronous instruction will be some mix of footage from previously semesters' lectures, original content, and relevant (and sometimes irrelevant) third party content.
 
 ## Contact Information
 
@@ -16,7 +14,7 @@ Beginning during the second week of class, you will be expected to meet twice we
 |--------|------------|-----|
 | Name | Nathan Brunelle | [Bios](/staff.html) |
 | Location | Discord `#OH` | Discord `#OH` |
-| Office Hours | M-F 9:30am-10:30am | [OH](/oh.html) |
+| Office Hours | M-F 9:00am-10:00am | [OH](/oh.html) |
 | Phone | 243-3845 | (none) |
 | Email | <a href="mailto:njb2b@virginia.edu?subject=cs3102">njb2b@virginia.edu</a> | Discord |
 
@@ -45,15 +43,15 @@ In addition to the course textbook, some readings will be assigned from other (f
 This textbook is still in development, and Nathan Brunelle is in frequent communication with the author on improvements. If you find any errors in the textbook, feel free to submit an issue in the [book github](https://github.com/boazbk/tcs/issues). Doing so will earn extra credit (with factual errors being worth more than typographical errors).
 
 
-## Weekly Tasks {#tasks}
+## Tasks {#tasks}
 
-Each week, Students will be expected to do the following:
+For each problem set, Students will be expected to do the following:
 
-- **Before their first cohort meeting**: Watch provided instructional videos, read provided instructional text, attempt weekly problem sets, attend office hours to improve understanding when necessary
-- **During their first cohort meeting**: Discuss (potentially incomplete or incorrect) solutions with the cohort. Collaborate and converge on the best answer you can muster for each problem.
+- **Before their prep cohort meeting**: Watch provided instructional videos, read provided instructional text, attempt weekly problem sets, attend office hours to improve understanding when necessary
+- **During their prep cohort meeting**: Discuss (potentially incomplete or incorrect) solutions with the cohort. Collaborate and converge on the best answer you can muster for each problem.
 - **Between their cohort meetings**: Review solutions from the first weekly cohort meeting to ensure you understand them. Seek clarification from your cohort-mates or office hours when necessary. Refine solutions if necessary.
-- **During their second cohort meeting**: Do your best to provide solutions when called-upon by the TA. The TA will ask each student to attempt at least one problem, and may ask follow-up or clarification questions to more accurately assess understanding.
-- **After their second cohort meeting**: Complete and submit your problem writeup.
+- **During their assessed cohort meeting**: Do your best to provide solutions when called-upon by the TA. The TA will ask each student to attempt at least one problem, and may ask follow-up or clarification questions to more accurately assess understanding.
+- **After their assessed cohort meeting**: Complete and submit your problem writeup.
 
 
 # Grading
@@ -72,7 +70,7 @@ to be valid excuses.
 In the case that you are unable to make an assessed cohort meeting, please submit an exemption request for both the cohort assessment and the writeup in the kytos submission site. In the case you are unable to submit a writeup on time, please submit an extension request for the writeup. When possible, requests should be submitted 48 hours before the assessed cohort meeting.
 
 In cases where a student has to miss
-more than two cohort meetings during the semester, we will provide an
+more than one cohort meeting during the semester, we will provide an
 alternate assessment through an individual video meeting.
 
 ## Bonus Points

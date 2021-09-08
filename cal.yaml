@@ -1,21 +1,24 @@
 Special Dates:
-  Courses begin: 2021-02-01
-  Courses end: 2021-05-06
-  Break Day 1: 2021-02-17
-  Break Day 2: 2021-03-09
-  Break Day 3: 2021-03-29
-  Break Day 4: 2021-04-15
-  Add deadline: 2021-02-16
-  Drop deadline: 2021-03-23
-  Withdraw deadline: 2021-04-06
+  Courses begin: 2021-08-24
+  Courses end: 2021-12-07
+  Add deadline: 2021-09-07
+  Drop deadline: 2021-10-14
+  Withdraw deadline: 2021-10-26
+  Fall break: 
+    start: 2021-10-09
+    end: 2021-10-12
+  Thanksgiving break:
+    start: 2021-11-24
+    end: 2021-11-28
+  Reading Day: 2021-12-08
 
 meta:
   timezone: America/New_York
   name: CSTheory
   lecture exam: true
-  home: https://www.cs.virginia.edu/~njb2b/cstheory/s2021
+  home: https://uvatoc.github.io
   final:
-    start: 2020-12-07 14:00:00
+    start: 2021-12-10 14:00:00
     duration: 180
     room: NA
 
@@ -23,107 +26,15 @@ sections:
   CS3102:
     type: lecture
     room: Ruffner G008
-    days: [Sunday, Monday, Tuesday, Wednesday, Thursday, Friday]
+    days: [Monday, Wednesday]
     start: 15:30:00
     duration: 75
 
 
 lectures:
-    - No Class
     - Course Introduction
-    - No Assessments
-    - No Assessments
-    - No Assessments
-    
-    - No Assessments
-    - Week 1 Assessments
-    - Week 1 Assessments
-    - Week 1 Assessments
-    - Week 1 Assessments
-    - Week 1 Assessments
-    
-    - Week 1 Assessments
-    - Week 2 Assessments
-    - Week 2 Assessments
-    - No Assessments
-    - Week 2 Assessments
-    - Week 2 Assessments
-    
-    - Week 2 Assessments
-    - Week 3 Assessments
-    - Week 3 Assessments
-    - Week 2 Assessments
-    - Week 3 Assessments
-    - Week 3 Assessments
-    
-    - Week 3 Assessments
-    - Week 4 Assessments
-    - Week 4 Assessments
-    - Week 3 Assessments
-    - Week 4 Assessments
-    - Week 4 Assessments
-    
-    - Week 4 Assessments
-    - Week 5 Assessments
-    - No Assessments
-    - Week 4 Assessments
-    - Week 5 Assessments
-    - Week 5 Assessments
-    
-    - Week 5 Assessments
-    - Week 6 Assessments
-    - Week 5 Assessments
-    - Week 5 Assessments
-    - Week 6 Assessments
-    - Week 6 Assessments
-    
-    - Week 6 Assessments
-    - Week 7 Assessments
-    - Week 6 Assessments
-    - Week 6 Assessments
-    - Week 7 Assessments
-    - Week 7 Assessments
-    
-    - Week 7 Assessments
-    - No Assessments
-    - Week 7 Assessments
-    - Week 7 Assessments
-    - Week 8 Assessments
-    - Week 8 Assessments
-    
-    - Week 8 Assessments
-    - Week 8 Assessments
-    - Week 8 Assessments
-    - Week 8 Assessments
-    - Week 9 Assessments
-    - Week 9 Assessments
+    - Prep Day, Unit 1
 
-    - Week 9 Assessments
-    - Week 9 Assessments
-    - Week 9 Assessments
-    - Week 9 Assessments
-    - No Assessments
-    - Week 10 Assessments
-    
-    - Week 10 Assessments
-    - Week 10 Assessments
-    - Week 10 Assessments
-    - Week 10 Assessments
-    - Week 10 Assessments
-    - Week 11 Assessments
-    
-    - Week 11 Assessments
-    - Week 11 Assessments
-    - Week 11 Assessments
-    - Week 11 Assessments
-    - Week 11 Assessments
-    - Week 12 Assessments
-
-    - Week 12 Assessments
-    - Week 12 Assessments
-    - Week 12 Assessments
-    - Week 12 Assessments
-    - Week 12 Assessments
     
 
 reading: 
@@ -139,187 +50,189 @@ assignments:
             portion: "1"
         writeup:
             portion: "1"
+        final:
+            portion: "1"
             
 
-    Week1cohort:
+    week1cohort:
         group: cohort
-        due: 2021-02-08 00:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week1.html'
+        due: 2021-08-30 17:00:00
+        writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         no-extension: true
 
-    Week1writeup:
+    week1writeup:
         group: writeup
-        due: 2021-02-09 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week1.html'
+        due: 2021-08-31 23:59:59
+        writeup: 'https://uvatoc.github.io/week1'
         weight: 0.5
         files: 'week1.pdf'
-        
-    Week2cohort:
+
+    week2cohort:
         group: cohort
-        due: 2021-02-15 00:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week2.html'
+        due: 2021-09-06 17:00:00
+        writeup: 'https://uvatoc.github.io/week2'
         weight: 1
         no-extension: true
 
-    Week2writeup:
+    week2writeup:
         group: writeup
-        due: 2021-02-16 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week2.html'
+        due: 2021-09-07 23:59:59
+        writeup: 'https://uvatoc.github.io/week2'
         weight: 0.5
         files: 'week2.pdf'
         
-    Week3cohort:
+    week3cohort:
         group: cohort
-        due: 2021-02-22 00:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week3.html'
+        due: 2021-09-12 17:00:00
+        writeup: 'https://uvatoc.github.io/week3'
         weight: 1
         no-extension: true
 
-    Week3writeup:
+    week3writeup:
         group: writeup
-        due: 2021-02-23 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week3.html'
-        weight: 0.5
+        due: 2021-09-13 23:59:59
+        writeup: 'https://uvatoc.github.io/week3'
         files: 'week3.pdf'
         
-    Week3eval:
+    week4cohort:
         group: cohort
-        due: 2021-02-28 00:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/peer_eval.html'
-        weight: 0
-        no-extension: true
-        
-    Week4cohort:
-        group: cohort
-        due: 2021-03-01 00:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week4.html'
+        due: 2021-09-19 17:00:00
+        writeup: 'https://uvatoc.github.io/week4'
         weight: 1
         no-extension: true
 
-    Week4writeup:
+    week4writeup:
         group: writeup
-        due: 2021-03-02 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week4.html'
-        weight: 0.5
+        due: 2021-09-20 23:59:59
+        writeup: 'https://uvatoc.github.io/week4'
         files: 'week4.pdf'
         
-    Week5cohort:
+    week5cohort:
         group: cohort
-        due: 2021-03-08 00:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week5.html'
+        due: 2021-09-26 17:00:00
+        writeup: 'https://uvatoc.github.io/week5'
         weight: 1
         no-extension: true
 
-    Week5writeup:
+    week5writeup:
         group: writeup
-        due: 2021-03-09 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week5.html'
-        weight: 0.5
+        due: 2021-09-27 23:59:59
+        writeup: 'https://uvatoc.github.io/week5'
         files: 'week5.pdf'
-        
-    Week6cohort:
+
+    week6cohort:
         group: cohort
-        due: 2021-03-15 00:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week6.html'
+        due: 2021-10-04 17:00:00
+        writeup: 'https://uvatoc.github.io/week6'
         weight: 1
         no-extension: true
 
-    Week6writeup:
+    week6writeup:
         group: writeup
-        due: 2021-03-16 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week6.html'
-        weight: 0.5
+        due: 2021-10-05 23:59:59
+        writeup: 'https://uvatoc.github.io/week6'
         files: 'week6.pdf'
-        
-    Week7eval:
-        group: cohort
-        due: 2021-03-23 00:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/peer_eval.html'
+
+    week7review:
+        group: writeup
+        due: 2021-10-15 23:59:59
+        writeup: 'https://uvatoc.github.io/week7'
         weight: 0
-        no-extension: true
-        
-    Week7cohort:
+
+    week8cohort:
         group: cohort
-        due: 2021-03-22 00:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week7.html'
+        due: 2021-10-18 17:00:00
+        writeup: 'https://uvatoc.github.io/week8'
         weight: 1
         no-extension: true
 
-    Week7writeup:
+    week8writeup:
         group: writeup
-        due: 2021-03-23 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week7.html'
-        weight: 0.5
-        files: 'week7.pdf'
-
-    Week8cohort:
-        group: cohort
-        due: 2021-03-29 00:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week8.html'
-        weight: 1
-        no-extension: true
-
-    Week8writeup:
-        group: writeup
-        due: 2021-03-30 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week8.html'
-        weight: 0.5
+        due: 2021-10-19 23:59:59
+        writeup: 'https://uvatoc.github.io/week8'
         files: 'week8.pdf'
         
-    Week9cohort:
+    week9cohort:
         group: cohort
-        due: 2021-04-05 00:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week9.html'
+        due: 2021-10-25 17:00:00
+        writeup: 'https://uvatoc.github.io/week9'
         weight: 1
         no-extension: true
 
-    Week9writeup:
+    week9writeup:
         group: writeup
-        due: 2021-04-06 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week9.html'
-        weight: 0.5
+        due: 2021-10-26 23:59:59
+        writeup: 'https://uvatoc.github.io/week9'
         files: 'week9.pdf'
         
-    Week10cohort:
+    week10cohort:
         group: cohort
-        due: 2021-04-12 00:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week10.html'
+        due: 2021-11-01 17:00:00
+        writeup: 'https://uvatoc.github.io/week10'
         weight: 1
         no-extension: true
 
-    Week10writeup:
+    week10writeup:
         group: writeup
-        due: 2021-04-13 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week10.html'
-        weight: 0.5
+        due: 2021-11-02 23:59:59
+        writeup: 'https://uvatoc.github.io/week10'
         files: 'week10.pdf'
         
-    Week11cohort:
+    week11cohort:
         group: cohort
-        due: 2021-04-19 00:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week11.html'
+        due: 2021-11-08 17:00:00
+        writeup: 'https://uvatoc.github.io/week11'
         weight: 1
         no-extension: true
 
-    Week11writeup:
+    week11writeup:
         group: writeup
-        due: 2021-04-20 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week11.html'
-        weight: 0.5
+        due: 2021-11-09 23:59:59
+        writeup: 'https://uvatoc.github.io/week11'
         files: 'week11.pdf'
         
-    Week12cohort:
+    week12cohort:
         group: cohort
-        due: 2021-04-26 00:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/week12.html'
+        due: 2021-11-15 17:00:00
+        writeup: 'https://uvatoc.github.io/week12'
         weight: 1
         no-extension: true
 
-    Week12eval:
-        group: cohort
-        due: 2021-05-07 00:00:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2021/peer_eval.html'
+    week12writeup:
+        group: writeup
+        due: 2021-11-16 23:59:59
+        writeup: 'https://uvatoc.github.io/week12'
+        files: 'week12.pdf'
+        
+    week13synthesis:
+        group: writeup
+        due: 2021-11-1 23:59:59
+        writeup: 'https://uvatoc.github.io/week13'
         weight: 0
+    
+    week14cohort:
+        group: cohort
+        due: 2021-11-29 17:00:00
+        writeup: 'https://uvatoc.github.io/week14'
+        weight: 1
         no-extension: true
 
+    week14writeup:
+        group: writeup
+        due: 2021-11-30 23:59:59
+        writeup: 'https://uvatoc.github.io/week14'
+        files: 'week12.pdf'
+    
+    week15review:
+        group: writeup
+        due: 2021-12-06 23:59:59
+        writeup: 'https://uvatoc.github.io/week15'
+        weight: 0
+        
+    final:
+        group: final
+        due: 2021-12-10 14:00:00
+        writeup: 'https://uvatoc.github.io/final'
+    
+    
