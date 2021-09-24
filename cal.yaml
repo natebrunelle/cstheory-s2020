@@ -65,6 +65,7 @@ assignments:
         group: writeup
         due: 2021-08-31 23:59:59
         writeup: 'https://uvatoc.github.io/week1'
+        weight: 0.5
         files: 'week1.pdf'
 
     week2cohort:
@@ -78,6 +79,7 @@ assignments:
         group: writeup
         due: 2021-09-07 23:59:59
         writeup: 'https://uvatoc.github.io/week2'
+        weight: 0.5
         files: 'week2.pdf'
         
     week3cohort:
@@ -91,6 +93,7 @@ assignments:
         group: writeup
         due: 2021-09-13 23:59:59
         writeup: 'https://uvatoc.github.io/week3'
+        weight: 0.5
         files: 'week3.pdf'
         
     week4cohort:
@@ -104,13 +107,15 @@ assignments:
         group: writeup
         due: 2021-09-20 23:59:59
         writeup: 'https://uvatoc.github.io/week4'
+        weight: 0.5
         files: 'week4.pdf'
         
     week4eval:
-        group: writeup
+        group: cohort
         due: 2021-09-20 23:59:59
         writeup: 'https://uvatoc.github.io/evals'
         weight: 0
+        no-extension: true
         
     week5cohort:
         group: cohort
@@ -123,6 +128,7 @@ assignments:
         group: writeup
         due: 2021-09-27 23:59:59
         writeup: 'https://uvatoc.github.io/week5'
+        weight: 0.5
         files: 'week5.pdf'
 
     week6cohort:
@@ -136,6 +142,7 @@ assignments:
         group: writeup
         due: 2021-10-05 23:59:59
         writeup: 'https://uvatoc.github.io/week6'
+        weight: 0.5
         files: 'week6.pdf'
 
     week7review:
@@ -155,6 +162,7 @@ assignments:
         group: writeup
         due: 2021-10-19 23:59:59
         writeup: 'https://uvatoc.github.io/week8'
+        weight: 0.5
         files: 'week8.pdf'
         
     week9cohort:
@@ -168,6 +176,7 @@ assignments:
         group: writeup
         due: 2021-10-26 23:59:59
         writeup: 'https://uvatoc.github.io/week9'
+        weight: 0.5
         files: 'week9.pdf'
         
     week10cohort:
@@ -181,6 +190,7 @@ assignments:
         group: writeup
         due: 2021-11-02 23:59:59
         writeup: 'https://uvatoc.github.io/week10'
+        weight: 0.5
         files: 'week10.pdf'
         
     week11cohort:
@@ -194,6 +204,7 @@ assignments:
         group: writeup
         due: 2021-11-09 23:59:59
         writeup: 'https://uvatoc.github.io/week11'
+        weight: 0.5
         files: 'week11.pdf'
         
     week12cohort:
@@ -207,6 +218,7 @@ assignments:
         group: writeup
         due: 2021-11-16 23:59:59
         writeup: 'https://uvatoc.github.io/week12'
+        weight: 0.5
         files: 'week12.pdf'
         
     week13synthesis:
@@ -226,6 +238,7 @@ assignments:
         group: writeup
         due: 2021-11-30 23:59:59
         writeup: 'https://uvatoc.github.io/week14'
+        weight: 0.5
         files: 'week12.pdf'
     
     week15review:
