@@ -106,6 +106,12 @@ assignments:
         writeup: 'https://uvatoc.github.io/week4'
         files: 'week4.pdf'
         
+    week4eval:
+        group: writeup
+        due: 2021-09-20 23:59:59
+        writeup: 'https://uvatoc.github.io/evals'
+        weight: 0
+        
     week5cohort:
         group: cohort
         due: 2021-09-26 17:00:00
