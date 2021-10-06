@@ -113,7 +113,7 @@ assignments:
     week4eval:
         group: cohort
         due: 2021-09-20 23:59:59
-        writeup: 'https://uvatoc.github.io/evals'
+        writeup: 'https:kytos.cs.virginia.edu/cstheory/feedback.php'
         weight: 0
         no-extension: true
         
@@ -147,9 +147,10 @@ assignments:
 
     week7review:
         group: writeup
-        due: 2021-10-15 23:59:59
-        writeup: 'https://uvatoc.github.io/week7'
+        due: 2021-10-13 14:59:59
+        writeup: 'https://uvatoc.github.io/midterm'
         weight: 0
+        files: 'midterm.pdf'
 
     week8cohort:
         group: cohort
