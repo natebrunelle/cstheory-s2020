@@ -221,12 +221,6 @@ assignments:
         writeup: 'https://uvatoc.github.io/week12'
         weight: 0.5
         files: 'week12.pdf'
-        
-    week13synthesis:
-        group: writeup
-        due: 2021-11-1 23:59:59
-        writeup: 'https://uvatoc.github.io/week13'
-        weight: 0
     
     week14cohort:
         group: cohort
