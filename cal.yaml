@@ -180,6 +180,13 @@ assignments:
         weight: 0.5
         files: 'week9.pdf'
         
+    week9eval:
+        group: cohort
+        due: 2021-10-27 23:59:59
+        writeup: 'https:kytos.cs.virginia.edu/cstheory/feedback.php'
+        weight: 0
+        no-extension: true
+        
     week10cohort:
         group: cohort
         due: 2021-11-01 17:00:00
