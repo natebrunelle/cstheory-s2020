@@ -236,22 +236,16 @@ assignments:
         weight: 1
         no-extension: true
 
-    week14writeup:
-        group: writeup
-        due: 2021-11-30 23:59:59
+    finaleval:
+        group: cohort
+        due: 2021-12-11 12:00:00
         writeup: 'https://uvatoc.github.io/week14'
-        weight: 0.5
-        files: 'week12.pdf'
-    
-    week15review:
-        group: writeup
-        due: 2021-12-06 23:59:59
-        writeup: 'https://uvatoc.github.io/week15'
         weight: 0
+        no-extension: true
         
     final:
         group: final
         due: 2021-12-10 14:00:00
-        writeup: 'https://uvatoc.github.io/final'
+        writeup: 'https://uvatoc.github.io/peer_evals'
     
     
