@@ -167,7 +167,7 @@ underlying concepts by working through the problems themselves and in
 discussions with others, and this goal would be defeated if you
 instead use posted solutions to the problems or else copied or heavily-sampled solutions composed by other cohorts. Other than
 using solutions to the specific problems you are given, students are
-encouraged to use any other resources they find helpful. Cohorts must draft solutions independently from other cohorts.
+encouraged to use any other resources they find helpful. Cohorts must draft solutions independently from other cohorts and may not share any text, figures, illustrations, etc. that are submitted for grading.
 - **Complete Quizzes independently**: You may not collaborate with your cohort members while working on quizzes. You're welcome to reference or copy content from the textbook, officially-provided course materials, and notes compiled prior to your viewing the quiz. You may not consult the internet or communicate with your cohort members regarding quiz between when you first view the quiz and the quiz deadline.
 - **Read the policy on each assignment**: A collaboration policy will be described on each assignment
   document, and may be different for different assignments. We aim to make the language describing the policy as clear
