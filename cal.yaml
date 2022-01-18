@@ -30,7 +30,9 @@ sections:
 lectures:
     - Course Introduction
     - Definitions
-    - Proof Writing
+    - Proofs
+    - Proofs
+    - Proofs
     - Counting
     - Infinities
     - Boolean Circuits
@@ -39,8 +41,6 @@ lectures:
     - Universality
     - Evaluation
     - Complexity
-    - Review
-    - Midterm
     - Automata
     - Regular Expressions and Closure
     - Non-deterministic Computation
