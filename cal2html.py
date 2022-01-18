@@ -173,7 +173,6 @@ def raw2cal(data, links=None):
 
         # handle assignments
         for task,ent in data['assignments'].items():
-            print(task)
             if task[0] == '.': continue
             if 'due' not in ent: continue
             if ent['due'].date() != d: continue
