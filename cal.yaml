@@ -111,6 +111,42 @@ assignments:
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
+    PS7:
+        group: problem_sets
+        due: 2022-03-25 11:59:59
+        writeup: 'https://uvatoc.github.io/week1'
+        weight: 1
+        
+    PS8:
+        group: problem_sets
+        due: 2022-04-01 11:59:59
+        writeup: 'https://uvatoc.github.io/week1'
+        weight: 1
+        
+    PS9:
+        group: problem_sets
+        due: 2022-04-08 11:59:59
+        writeup: 'https://uvatoc.github.io/week1'
+        weight: 1
+        
+    PS10:
+        group: problem_sets
+        due: 2022-04-15 11:59:59
+        writeup: 'https://uvatoc.github.io/week1'
+        weight: 1
+        
+    PS11:
+        group: problem_sets
+        due: 2022-04-22 11:59:59
+        writeup: 'https://uvatoc.github.io/week1'
+        weight: 1
+        
+    PS12:
+        group: problem_sets
+        due: 2022-04-29 11:59:59
+        writeup: 'https://uvatoc.github.io/week1'
+        weight: 1
+        
     final:
         group: exams
         due: 2021-05-13 17:00:00
