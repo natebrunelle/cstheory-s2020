@@ -9,7 +9,7 @@ title: CS3102 Course Pledge
 As a student at the University of Virginia, you are trusted to be honorable and expected to behave in ways that merit that trust. We take advantage of this trust to provide a better learning environment for everyone. In particular, students in cs3102 are expected to follow these rules throughout the course:
 
 - **I will not lie, cheat or steal.** If I am unsure whether something would be considered lying, cheating or stealing, I will ask before doing it.
-- **I will carefully read and follow the collaboration policies on each assignment.** In particular, I will follow the principles of *Try it yourself first*, *Discuss with other students in the course*, *Don't copy solutions*, *Do writeups independently*, and *Read the policy on each assignment* as described in the [course syllabus](/syllabus.html).
+- **I will carefully read and follow the collaboration policies on each assignment.** In particular, I will follow the principles of *Try it yourself first*, *Discuss with other students in the course*, *Don't copy solutions*, *Do quizzes independently*, and *Read the policy on each assignment* as described in the [course syllabus](/syllabus.html).
 
 
 ## Community Expectations
@@ -39,16 +39,12 @@ you are expected to exemplify these behaviors in cs3102:
   stationary and working at home can make it difficult to maintain
   your physical and emotional well-being. I will ensure that whatever
   I am doing to succeed in my courses does not take priority over my
-  needs to exercise, stay hydrated, make time to eat lunch and dinner
-  away from my workspace, and to safely spend time outside.
+  needs to exercise, stay hydrated, keep well-rested, make time to eat lunch and dinner   away from my workspace, and to safely spend time outside.
 
 **I will be connected with others, and look out for the well-being of
-my classmates.** Even though people are dispersed and distant, The
-University of Virginia is still a community, and we hope this class,
-and your learning cohort within it, will become one. Be creative in
+my classmates.** The University of Virginia is a community, and we hope this class, and your learning cohort within it, will also become one. Be creative in
 maintaining and reinforcing that community through the struggles
-caused by remoted learning and social distancing, and seek out and
-maximize opportunities for virtual social interactions with fellow
+caused by gathering restrictions or other COVID safety measures, and seek out and maximize opportunities for virtual social interactions with fellow
 students and others in the university community.
 
 **I will ask for help.** I will make a reasonable effort to do things
