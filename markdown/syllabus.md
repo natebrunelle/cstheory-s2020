@@ -106,7 +106,7 @@ We encourage cohorts meet for preparation meetings on schedule even in the case 
 
 In the case you are unable to submit a problem set/quiz on time, please submit an extension request. When possible, requests should be submitted 48 hours before the assessed cohort meeting.
 
-In cases where a student must be exempted for more than one proble during the semester, we will provide an alternate assessment through an individual video meeting.
+In cases where a student must be exempted for more than one problem set during the semester, we will provide an alternate assessment through an individual video meeting.
 
 ## Bonus Points
 
