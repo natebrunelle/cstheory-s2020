@@ -6,15 +6,16 @@ title: Syllabus
 
 ## Meetings
 
-We will have just one instructional lecture during the semester. This will occur on the first day of class: Monday June 21, 10:30am on [Zoom](https://collab.its.virginia.edu).  For the remainder of the semester, instruction will be provided via pre-recorded videos and optional zoom problem-solving sessions. The asynchoronous instruction will be some mix of footage from previously semesters' lectures, original content, and relevant (and sometimes irrelevant) third party content.
+Lectures are held in Maury 209 5:00pm-6:15pm on Mondays and Wednesdays. All lectures will additional be live-streamed via Zoom (links to the meetings are available in collab under "Online Meetings"). The live streams will also be recorded for later viewing (links available in collab "Online Meetings"). There may be supplementary instructional videos posted, those will be available on the [schedule page](/schedule.html).
+
 
 ## Contact Information
 
 |        | Instructor | TAs |
 |--------|------------|-----|
 | Name | Nathan Brunelle | [Bios](/staff.html) |
-| Location | Discord `#OH` | Discord `#OH` |
-| Office Hours | M-F 9:00am-10:00am | [OH](/oh.html) |
+| Location | Rice 209 and Discord `#OH` | Various and Discord `#OH` |
+| Office Hours | TBD | [OH](/oh.html) |
 | Phone | 243-3845 | (none) |
 | Email | <a href="mailto:njb2b@virginia.edu?subject=cs3102">njb2b@virginia.edu</a> | Discord |
 
@@ -43,22 +44,56 @@ In addition to the course textbook, some readings will be assigned from other (f
 This textbook is still in development, and Nathan Brunelle is in frequent communication with the author on improvements. If you find any errors in the textbook, feel free to submit an issue in the [book github](https://github.com/boazbk/tcs/issues). Doing so will earn extra credit (with factual errors being worth more than typographical errors).
 
 
-## Tasks {#tasks}
-
-For each problem set, Students will be expected to do the following:
-
-- **Before their prep cohort meeting**: Watch provided instructional videos, read provided instructional text, attempt weekly problem sets, attend office hours to improve understanding when necessary
-- **During their prep cohort meeting**: Discuss (potentially incomplete or incorrect) solutions with the cohort. Collaborate and converge on the best answer you can muster for each problem.
-- **Between their cohort meetings**: Review solutions from the first weekly cohort meeting to ensure you understand them. Seek clarification from your cohort-mates or office hours when necessary. Refine solutions if necessary.
-- **During their assessed cohort meeting**: Do your best to provide solutions when called-upon by the TA. The TA will ask each student to attempt at least one problem, and may ask follow-up or clarification questions to more accurately assess understanding.
-- **After their assessed cohort meeting**: Complete and submit your problem writeup.
-
-
 # Grading
 
-For details on grading, see: [Grading information](structure.html#grading).
+In February 2019 the CS faculty approved [a definition](http://ugrads.cs.virginia.edu/grading-guidelines.html) of what we believe grades mean.
+It is my intent to approximate that definition in this course.
+As a brief summary,
 
-Note that we will have **no traditional exams** in this course.
+Letter  Student demonstrated                Recommendation re future courses[^future]
+------  ---------------------------         ------------------------------------
+A       mastery of all topics               likely to do well
+B       competence in significant topics    able to do well with some review
+C       sufficient competence               likely to be challenging
+D       minimal competence                  unlikely to succeed
+F       less than minimal competence        retake this course first
+
+[^future]:
+    While there are no regularly-offerred UVA undergraduate courses which list cs3102 as a prerequisite, this recommendation will be mostly relative to a hypothetical follow-on course.
+
+We will consider the grade assigned by the following point-based breakdown to be a **guideline** for the grade earned according to the definitions above.
+
+Task                        Weight  Comments
+-------------------------  -------- ----------------------------------------------
+Quizzes                     33%     6 total at 5.5% each
+Problem Sets                67%     13 total at 5.5% each (except for PS0, worth 1%)
+Exams                       (25%)   Optional. Worth 0% if not taken. Worth 25% if taken (and in that case Quizzes and Problem sets will be worth 24.75% and 50.25% respectively).
+Professionalism Penalty    0--100%  Excessive missed classes, rude behavior toward instructor or classmates, unauthorized homework assistance, contacting TAs when they are not on the clock, etc., can be held against a student when final grades are calculated.
+
+The exact weights of assignments is subject to change as we further refine the assignments we will give.
+
+Your final letter grade will then be assigned as follows:
+
+You get  if you score  GPA value
+-------- ------------- ---------
+A+       near the top  4.0
+A        ≥ 93%         4.0
+A−       ≥ 90%         3.7
+B+       ≥ 86%         3.3
+B        ≥ 83%         3.0
+B−       ≥ 80%         2.7
+C+       ≥ 76%         2.3
+C        ≥ 73%         2.0
+C−       ≥ 70%         1.7
+D+       ≥ 66%         1.3
+D        ≥ 63%         1.0
+D−       ≥ 60%         0.7
+F        otherwise     0.0
+
+**Rounding:** By default, grades will not be rounded in this course.
+
+This numerical calculation is to be considered a **guideline** on your score in the course. Final letter grades may take other factors into account so that your grade is the most accurate reflection of your understanding of course materials. I expect that qualitative adjustments will only result in a student's grade increasing (though in extreme circumstances I reserve the right to decrease grades).
+
 
 ## Absences and Deadlines
 
@@ -67,11 +102,11 @@ a scheduled cohort meeting or writeup deadline. We consider medical issues, pers
 obligations, family responsibilities, and other justifiable conflicts
 to be valid excuses.
 
-In the case that you are unable to make an assessed cohort meeting, please submit an exemption request for both the cohort assessment and the writeup in the kytos submission site. In the case you are unable to submit a writeup on time, please submit an extension request for the writeup. When possible, requests should be submitted 48 hours before the assessed cohort meeting.
+We encourage cohorts meet for preparation meetings on schedule even in the case that one or more members must be absent. In the case that a student is unable to effectively contribute to a given problem set for excusable reasons, that student may submit an exemption request for that problem set (though that student will still be responsible for the relevent material).
 
-In cases where a student has to miss
-more than one cohort meeting during the semester, we will provide an
-alternate assessment through an individual video meeting.
+In the case you are unable to submit a problem set/quiz on time, please submit an extension request. When possible, requests should be submitted 48 hours before the assessed cohort meeting.
+
+In cases where a student must be exempted for more than one proble during the semester, we will provide an alternate assessment through an individual video meeting.
 
 ## Bonus Points
 
@@ -119,10 +154,10 @@ To get the most out of this course, we expect all students to abide by the follo
 
 - **Try it yourself first**: We believe it is important for students to
 learn by thinking about problems on their own, so it is expected that
-each student studies the provided materials and attempts to solve the
-problems on their own, before discussing the problems with others (including cohortmates
-at the cohort meeting).
-- **Discuss with other students in the course**: You are welcome to also discuss problems with any students currently enrolled in the class (including students who are and are not in your cohort) and to share what you
+each student studies the provided materials and attempts to solve all
+problems on their own before discussing the problems with others (including cohortmates
+at the cohort meeting and course staff during office hours).
+- **Discuss with other students in the course**: You are welcome to also discuss problem sets with any students currently enrolled in the class (including students who are and are not in your cohort) and to share what you
 learn from them with your cohortmates. Do not discuss problems with 
 any students who are not officially associated with the course (e.g. former CS3102 students or students attending other universities).
 - **Don't copy solutions**: Many problems in this course will be selected from problems used in
@@ -135,7 +170,7 @@ clear in the assessed cohort meetings if you do not understand a
 problem as deeply as you would if you solved in yourself). Other than
 using solutions to the specific problems you are given, students are
 encouraged to use any other resources they find helpful.
-- **Do writeups independently**: You may not collaborate with your cohort members while working on the writeups. You're welcome to reference or copy content from the textbook, officially-provided course materials, and notes compiled prior to your assessed cohort meetings. You may not consult the internet or communicate with your cohort members regarding your writeup between the assessed cohort meeting and when you submit your writeup.
+- **Complete Quizzes independently**: You may not collaborate with your cohort members while working on quizzes. You're welcome to reference or copy content from the textbook, officially-provided course materials, and notes compiled prior to your viewing the quiz. You may not consult the internet or communicate with your cohort members regarding quiz between when you first view the quiz and the quiz deadline.
 - **Read the policy on each assignment**: A collaboration policy will be described on each assignment
   document, and may be different for different assignments. We aim to make the language describing the policy as clear
   and unambiguous as possible, but if anything is ever unclear about
