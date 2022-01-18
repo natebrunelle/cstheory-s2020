@@ -72,86 +72,99 @@ assignments:
         quizzes:
             portion: "1"
         exams:
-            portion: "1"
+            portion: "0"
     
     
     PS0 Getting Started:
         group: problem_sets
         due: 2022-02-01 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
-        weight: 1        
+        weight: 1
+        files: 'ps0.pdf'
 
     PS1 Induction:
         group: problem_sets
         due: 2022-02-08 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
+        files: 'ps1.pdf'
         
     PS2 Countability:
         group: problem_sets
         due: 2022-02-15 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
+        files: 'ps2.pdf'
         
     PS3 Circuits and Straightline:
         group: problem_sets
         due: 2022-02-22 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
+        files: 'ps3.pdf'
 
     PS4 Sugar and Universality:
         group: problem_sets
         due: 2022-03-01 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
+        files: 'ps4.pdf'
 
     PS5 EVAL and Complexity:
         group: problem_sets
         due: 2022-03-17 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
+        files: 'ps5.pdf'
 
     PS6 Automata and Regex:
         group: problem_sets
         due: 2022-03-23 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
+        files: 'ps6.pdf'
         
     PS7 Non-determinism and Closure:
         group: problem_sets
         due: 2022-03-29 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
+        files: 'ps7.pdf'
         
     PS8 Turing Machines:
         group: problem_sets
         due: 2022-04-05 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
+        files: 'ps8.pdf'
         
     PS9 Uncomputability:
         group: problem_sets
         due: 2022-04-12 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
+        files: 'ps9.pdf'
         
     PS10 Rices Theorem and Asymptotics:
         group: problem_sets
         due: 2022-04-19 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
+        files: 'ps10.pdf'
         
     PS11 Complexity Classes:
         group: problem_sets
         due: 2022-04-26 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
+        files: 'ps11.pdf'
         
     PS12 NP Complete:
         group: problem_sets
         due: 2022-05-03 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
+        files: 'ps12.pdf'
         
         
     Quiz1 Induction and Diagonalization:
@@ -159,36 +172,42 @@ assignments:
         due: 2022-02-18 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
+        files: 'quiz1.pdf'
         
     Quiz2 Universality:
         group: quizzes
         due: 2022-03-04 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
+        files: 'quiz2.pdf'
         
     Quiz3 Circuit Complexity:
         group: quizzes
         due: 2022-03-25 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
+        files: 'quiz3.pdf'
         
     Quiz4 Automata and Turing Machines:
         group: quizzes
         due: 2022-04-08 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
+        files: 'quiz4.pdf'
         
     Quiz5 Reductions:
         group: quizzes
         due: 2022-04-22 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
+        files: 'quiz5.pdf'
         
     Quiz6 P vs NP:
         group: quizzes
         due: 2022-05-13 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
+        files: 'quiz6.pdf'
         
     Practice Midterm:
         group: exams
