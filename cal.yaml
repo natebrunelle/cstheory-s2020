@@ -147,6 +147,26 @@ assignments:
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
+        
+    Quiz1:
+        group: quizzes
+        due: 2022-02-11 11:59:59
+        writeup: 'https://uvatoc.github.io/week1'
+        weight: 1
+        
+    Quiz2:
+        group: quizzes
+        due: 2022-02-25 11:59:59
+        writeup: 'https://uvatoc.github.io/week1'
+        weight: 1
+        
+    Quiz3:
+        group: quizzes
+        due: 2022-03-25 11:59:59
+        writeup: 'https://uvatoc.github.io/week1'
+        weight: 1
+        
+        
     final:
         group: exams
         due: 2021-05-13 17:00:00
