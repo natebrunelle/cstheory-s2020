@@ -29,30 +29,33 @@ sections:
 
 lectures:
     - Course Introduction
-    - Defining definitions
-    - What can be represented by bits
-    - What cannot be represented by bits
-    - defining Computation
-    - Defining Boolean Circuits
+    - Definitions
+    - Proof Writing
+    - Counting
+    - Infinities
+    - Boolean Circuits
+    - Straightline Programs
     - Syntactic Sugar
-    - Complexity
+    - Universality
     - Evaluation
+    - Complexity
+    - Automata
+    - Regular Expressions and Closure
+    - Non-deterministic Computation
+    - FSA Equals Regex
     - Review
-    - Cost and Counting
-    - Size Hierarchy
-    - Machines
-    - Computability
-    - Universality and Uncomputability
+    - Midterm
+    - Turing Machines
+    - Church Turing Thesis
+    - Turing Universality and Uncomputability
     - Reductions
-    - Rice's Theorem
-    - Review
-    - Turing Machine Running Time
-    - Polynomial-Time Reducitons
-    - Is Omniscience Helpful?
+    - Rice's Theorem and Complexity Classes
+    - Polynomial Time Reductions
+    - Complexity classes and Tractability
     - NP-Completeness
     - More NP-Completeness
+    - Approximation
     - Conclusion
-
     
 
 reading: 
