@@ -41,10 +41,10 @@ lectures:
     - Complexity
     - Automata
     - Regular Expressions and Closure
-    - Non-deterministic Computation
-    - FSA Equals Regex
     - Review
     - Midterm
+    - Non-deterministic Computation
+    - FSA Equals Regex
     - Turing Machines
     - Church Turing Thesis
     - Turing Universality and Uncomputability
