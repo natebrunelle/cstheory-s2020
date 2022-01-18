@@ -73,9 +73,15 @@ assignments:
             portion: "1"
         exams:
             portion: "1"
-            
+    
+    
+    PS0 Getting Started:
+        group: problem_sets
+        due: 2022-02-01 11:59:59
+        writeup: 'https://uvatoc.github.io/week1'
+        weight: 1        
 
-    PS1 Getting Started:
+    PS1 Induction:
         group: problem_sets
         due: 2022-02-08 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
