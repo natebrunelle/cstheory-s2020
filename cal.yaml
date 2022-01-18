@@ -67,22 +67,52 @@ reading:
     
 assignments:
     ".groups":
-        cohort:
+        problem_sets:
             portion: "1"
-        writeup:
+        quizzes:
             portion: "1"
-        final:
+        exams:
             portion: "1"
             
 
     PS1:
-        group: cohort
-        due: 2022-01-028 11:59:59
+        group: problem_sets
+        due: 2022-01-28 11:59:59
+        writeup: 'https://uvatoc.github.io/week1'
+        weight: 1
+        
+    PS2:
+        group: problem_sets
+        due: 2022-02-04 11:59:59
+        writeup: 'https://uvatoc.github.io/week1'
+        weight: 1
+        
+    PS3:
+        group: problem_sets
+        due: 2022-02-11 11:59:59
+        writeup: 'https://uvatoc.github.io/week1'
+        weight: 1
+
+    PS4:
+        group: problem_sets
+        due: 2022-02-18 11:59:59
+        writeup: 'https://uvatoc.github.io/week1'
+        weight: 1
+
+    PS5:
+        group: problem_sets
+        due: 2022-02-25 11:59:59
+        writeup: 'https://uvatoc.github.io/week1'
+        weight: 1
+
+    PS6:
+        group: problem_sets
+        due: 2022-03-04 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
     final:
-        group: final
+        group: exams
         due: 2021-05-13 17:00:00
         writeup: 'https://uvatoc.github.io/final'
 
