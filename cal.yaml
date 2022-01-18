@@ -107,13 +107,13 @@ assignments:
 
     PS6 Automata and Regex:
         group: problem_sets
-        due: 2022-03-08 11:59:59
+        due: 2022-03-22 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
     PS7 Non-determinism and Closure:
         group: problem_sets
-        due: 2022-03-22 11:59:59
+        due: 2022-03-29 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
