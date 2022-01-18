@@ -173,6 +173,7 @@ def raw2cal(data, links=None):
 
         # handle assignments
         for task,ent in data['assignments'].items():
+            print(task)
             if task[0] == '.': continue
             if 'due' not in ent: continue
             if ent['due'].date() != d: continue
@@ -220,7 +221,7 @@ def cal2html(cal):
                 ans.append('<span class="date w{1}">{0}</span>'.format(day['date'].strftime('%d %b').strip('0'), day['date'].strftime('%w')))
                 ans.append('<div class="events">')
                 for e in day['events']:
-                    if e.get('kind') == 'assignment' : continue
+                    #if e.get('kind') == 'assignment' : continue
                     if e.get('kind') == 'oh': continue
                     if e.get('hide'): continue
                     classes = [e[k] for k in ('section','kind','group') if k in e]
