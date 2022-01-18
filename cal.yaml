@@ -101,80 +101,80 @@ assignments:
 
     PS5 EVAL and Complexity:
         group: problem_sets
-        due: 2022-03-01 11:59:59
+        due: 2022-03-08 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
 
     PS6 Automata and Regex:
         group: problem_sets
-        due: 2022-03-22 11:59:59
+        due: 2022-03-15 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
     PS7 Non-determinism and Closure:
         group: problem_sets
-        due: 2022-03-29 11:59:59
+        due: 2022-03-22 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
     PS8 Turing Machines:
         group: problem_sets
-        due: 2022-04-05 11:59:59
+        due: 2022-03-29 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
     PS9 Uncomputability:
         group: problem_sets
-        due: 2022-04-12 11:59:59
+        due: 2022-04-05 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
     PS10 Rices Theorem and Asymptotics:
         group: problem_sets
-        due: 2022-04-19 11:59:59
+        due: 2022-04-12 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
     PS11 Complexity Classes:
         group: problem_sets
-        due: 2022-04-26 11:59:59
+        due: 2022-04-19 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
     PS12 NP Complete:
         group: problem_sets
-        due: 2022-05-03 11:59:59
+        due: 2022-04-26 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
         
     Quiz1 Induction and Diagonalization:
         group: quizzes
-        due: 2022-02-11 11:59:59
+        due: 2022-02-18 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
     Quiz2 Universality:
         group: quizzes
-        due: 2022-02-25 11:59:59
+        due: 2022-03-04 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
     Quiz3 Circuit Complexity:
         group: quizzes
-        due: 2022-03-25 11:59:59
+        due: 2022-04-01 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
     Quiz4 Automata and Turing Machines:
         group: quizzes
-        due: 2022-04-08 11:59:59
+        due: 2022-04-15 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
     Quiz5 Reductions:
         group: quizzes
-        due: 2022-04-22 11:59:59
+        due: 2022-04-29 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
