@@ -42,9 +42,7 @@ Students who complete the course will:
 ## Eligibility
 
 **Official Prerequisites:** CS 2102/2120 and CS 2110/2100 (or comparable
-  courses) with grades of at least a C- (if taken for a grade) or CR (if taken using the COVID Credit/No Credit option). (We will waive this
-  prerequisite for students who convince us that they satisfy the
-  expected background below.)
+  courses) with grades of at least a C- (if taken for a grade) or CR (if taken using the COVID Credit/No Credit option). 
   
 
 ## Background
