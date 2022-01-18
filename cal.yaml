@@ -77,25 +77,25 @@ assignments:
 
     PS1 Getting Started:
         group: problem_sets
-        due: 2022-02-01 11:59:59
+        due: 2022-02-08 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
     PS2 Countability:
         group: problem_sets
-        due: 2022-02-08 11:59:59
+        due: 2022-02-15 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
     PS3 Circuits and Straightline:
         group: problem_sets
-        due: 2022-02-15 11:59:59
+        due: 2022-02-22 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
 
     PS4 Sugar and Universality:
         group: problem_sets
-        due: 2022-02-22 11:59:59
+        due: 2022-03-01 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
 
