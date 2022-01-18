@@ -2,15 +2,6 @@
 title: Theory of Computation
 ...
 
-# Course Onboarding Checklist:
-
-1. Fill out the [course registration survey](https://docs.google.com/forms/d/e/1FAIpQLSfJAitJqWnDbxuipe_uLUowT3NnlEogTVsRRYc_zEwVj-7T1A/viewform?usp=sf_link)
-1. Join Discord (link in collab)
-1. Get verified on discord by messaging your computing id to Turing
-1. Watch the [recording of the first lecture](https://virginia.zoom.us/rec/share/Y4ld_gk-f8-H2nm3RO1022bE1lGL_ZQSLvEkuDlMmhNA_IcJlic1QagCSux4nC6x.Tr3fAuzikaj9TOeZ
-) for information on course goals and structure
-1. Begin working on unit 1 by following the [unit 1 guide](unit1.html)
-
 # Course Description
 
   The goal of this course is to understand the
@@ -50,7 +41,7 @@ Students who complete the course will:
 
 ## Eligibility
 
-**Official Prerequisites:** CS 2102 and CS 2110 (or comparable
+**Official Prerequisites:** CS 2102/2120 and CS 2110/2100 (or comparable
   courses) with grades of at least a C- (if taken for a grade) or CR (if taken using the COVID Credit/No Credit option). (We will waive this
   prerequisite for students who convince us that they satisfy the
   expected background below.)
@@ -58,18 +49,18 @@ Students who complete the course will:
 
 ## Background
 
-This course will assume knowledge of several topics from discrete math (CS2102 at UVA), and object-oriented Java programming (taught in CS2110 at UVA).
+This course will assume knowledge of several topics from discrete math (CS2102 or CS2120 at UVA), and object-oriented Java programming (taught in CS2110 or CS2100 at UVA).
 
 In particular, we assume knowledge of (with recommended resources for review):
 
-- Sets ([CS2102 Sets Primer](http://www.cs.virginia.edu/luther/DMT1/S2020/sets.html))
-- Functions ([Section 4.3 of this text](http://www.cs.virginia.edu/luther/DMT1/S2020/files/mcs.pdf))
-- Proof Techniques ([CS2102 Proof Techniques](http://www.cs.virginia.edu/luther/DMT1/S2020/techniques-q8.html))
-- Proof Styles, we'll mostly be using "prose proofs" ([CS2102 Proof style guide](http://www.cs.virginia.edu/luther/DMT1/S2020/proofs.html))
-- Logic and Notation ([CS2102 Glossary of logical terms](http://www.cs.virginia.edu/luther/DMT1/S2020/glossary.html))
-- Java Programming ([Java wikibook](https://en.wikibooks.org/wiki/Java_Programming))
+- Sets ([CS2120 Sets Primer](http://www.cs.virginia.edu/~njb2b/cs2120/f2021/sets.html))
+- Functions ([Section 4.3 of this text](http://www.cs.virginia.edu/~njb2b/cs2120/f2021/files/mcs.pdf))
+- Proof Techniques ([CS2120 Proof Techniques](http://www.cs.virginia.edu/~njb2b/cs2120/f2021/techniques-q8.html))
+- Proof Styles, we'll mostly be using "prose proofs" ([CS2120 Proof style guide](http://www.cs.virginia.edu/~njb2b/cs2120/f2021/proofs.html))
+- Logic and Notation ([CS2120 Glossary of logical terms](http://www.cs.virginia.edu/~njb2b/cs2120/f2021/glossary.html))
+- Recursion ([CS2100 Recursion Slides](https://markfloryan.github.io/dsa1/slides/04-trees.html#/3/1))
 
-For each of the CS2102 topics, you can view last [semester's lectures](http://www.cs.virginia.edu/luther/DMT1/F2019/schedule.html) for more information
+For each of the CS2102 topics, you can view the [Fall 2019 lectures](http://www.cs.virginia.edu/luther/DMT1/F2019/schedule.html) for more information
 
 
 
