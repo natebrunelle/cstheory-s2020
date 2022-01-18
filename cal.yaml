@@ -184,6 +184,11 @@ assignments:
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
+    Midterm:
+        group: exams
+        due: 2021-03-04 11:59:59
+        writeup: 'https://uvatoc.github.io/final'
+        
     final:
         group: exams
         due: 2021-05-13 17:00:00
