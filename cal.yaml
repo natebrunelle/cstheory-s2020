@@ -192,8 +192,9 @@ assignments:
         
     Practice Midterm:
         group: exams
-        due: 2022-03-04 11:59:59
+        due: 2022-03-14 11:59:59
         writeup: 'https://uvatoc.github.io/final'
+        weight: 0
         
     Optional Final:
         group: exams
