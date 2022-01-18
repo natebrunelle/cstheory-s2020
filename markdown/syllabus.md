@@ -159,17 +159,15 @@ problems on their own before discussing the problems with others (including coho
 at the cohort meeting and course staff during office hours).
 - **Discuss with other students in the course**: You are welcome to also discuss problem sets with any students currently enrolled in the class (including students who are and are not in your cohort) and to share what you
 learn from them with your cohortmates. Do not discuss problems with 
-any students who are not officially associated with the course (e.g. former CS3102 students or students attending other universities).
+any students who are not officially associated with the course (e.g. former CS3102 students or students attending other universities). Inter-cohort collaboration must be limited to discussion only, and may not involve any sharing of text, figures, illustrations, etc. that are submitted for grading.
 - **Don't copy solutions**: Many problems in this course will be selected from problems used in
 previous courses, as well as well-known problems. The goal of these
 problems is to lead students to develop understanding of the
 underlying concepts by working through the problems themselves and in
 discussions with others, and this goal would be defeated if you
-instead use posted solutions to the problems (it will also probably be
-clear in the assessed cohort meetings if you do not understand a
-problem as deeply as you would if you solved in yourself). Other than
+instead use posted solutions to the problems or else copied or heavily-sampled solutions composed by other cohorts. Other than
 using solutions to the specific problems you are given, students are
-encouraged to use any other resources they find helpful.
+encouraged to use any other resources they find helpful. Cohorts must draft solutions independently from other cohorts.
 - **Complete Quizzes independently**: You may not collaborate with your cohort members while working on quizzes. You're welcome to reference or copy content from the textbook, officially-provided course materials, and notes compiled prior to your viewing the quiz. You may not consult the internet or communicate with your cohort members regarding quiz between when you first view the quiz and the quiz deadline.
 - **Read the policy on each assignment**: A collaboration policy will be described on each assignment
   document, and may be different for different assignments. We aim to make the language describing the policy as clear
@@ -183,7 +181,7 @@ encouraged to use any other resources they find helpful.
 ### Consequences of Dishonesty
 
 If I believe you have acted dishonestly, I will communicate this fact to you and propose a penalty.
-If you have information I lack, please share that with me; I may thereafter change my belief and/or proposed penalty.
+If you have information I lack, please share that with me; I may thereafter change my belief and/or proposed penalty. Please note that violating the collaboration guidelines above constitutes dishonest behavior.
 
 
 # Personal Accommodations
