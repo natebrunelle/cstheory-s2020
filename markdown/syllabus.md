@@ -14,7 +14,7 @@ Lectures are held in Maury 209 5:00pm-6:15pm on Mondays and Wednesdays. All lect
 |        | Instructor | TAs |
 |--------|------------|-----|
 | Name | Nathan Brunelle | [Bios](/staff.html) |
-| Location | Rice 209 and Discord `#OH` | Various and Discord `#OH` |
+| Location | Rice 209 and Discord `#OH` | [OH](/oh.html) |
 | Office Hours | TBD | [OH](/oh.html) |
 | Phone | 243-3845 | (none) |
 | Email | <a href="mailto:njb2b@virginia.edu?subject=cs3102">njb2b@virginia.edu</a> | Discord |
