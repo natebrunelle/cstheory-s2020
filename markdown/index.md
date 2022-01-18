@@ -60,7 +60,7 @@ In particular, we assume knowledge of (with recommended resources for review):
 - Logic and Notation ([CS2120 Glossary of logical terms](http://www.cs.virginia.edu/~njb2b/cs2120/f2021/glossary.html))
 - Recursion ([CS2100 Recursion Slides](https://markfloryan.github.io/dsa1/slides/04-trees.html#/3/1))
 
-For each of the CS2102 topics, you can view the [Fall 2019 lectures](http://www.cs.virginia.edu/luther/DMT1/F2019/schedule.html) for more information
+For each of the Discrete Math topics, you can view the [Fall 2019 lectures](http://www.cs.virginia.edu/luther/DMT1/F2019/schedule.html) for more information
 
 
 
