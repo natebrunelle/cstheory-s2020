@@ -49,9 +49,9 @@ lectures:
     - Church Turing Thesis
     - Turing Universality and Uncomputability
     - Reductions
-    - Rice's Theorem and Complexity Classes
-    - Polynomial Time Reductions
-    - Tractability
+    - Rice's Theorem
+    - Asymptotics
+    - Tractability and Polynomial Time Reductions
     - NP-Completeness
     - More NP-Completeness
     - Approximation
@@ -77,71 +77,71 @@ assignments:
 
     PS1 Getting Started:
         group: problem_sets
-        due: 2022-01-28 11:59:59
+        due: 2022-02-01 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
-    PS2 Proofs:
+    PS2 Countability:
         group: problem_sets
-        due: 2022-02-04 11:59:59
+        due: 2022-02-08 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
-    PS3:
+    PS3 Circuits and Straightline:
         group: problem_sets
-        due: 2022-02-11 11:59:59
+        due: 2022-02-15 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
 
-    PS4:
+    PS4 Sugar and Universality:
         group: problem_sets
-        due: 2022-02-18 11:59:59
+        due: 2022-02-22 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
 
-    PS5:
+    PS5 EVAL and Complexity:
         group: problem_sets
         due: 2022-02-25 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
 
-    PS6:
+    PS6 Automata and Regex:
         group: problem_sets
         due: 2022-03-18 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
-    PS7:
+    PS7 Non-determinism and Closure:
         group: problem_sets
         due: 2022-03-25 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
-    PS8:
+    PS8 Turing Machines:
         group: problem_sets
         due: 2022-04-01 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
-    PS9:
+    PS9 Uncomputability:
         group: problem_sets
         due: 2022-04-08 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
-    PS10:
+    PS10 Rices Theorem and Asymptotics:
         group: problem_sets
         due: 2022-04-15 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
-    PS11:
+    PS11 Complexity Classes:
         group: problem_sets
         due: 2022-04-22 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         
-    PS12:
+    PS12 NP Complete:
         group: problem_sets
         due: 2022-04-29 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
