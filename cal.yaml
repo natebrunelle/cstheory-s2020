@@ -213,4 +213,7 @@ assignments:
         group: quizzes
         due: 2022-05-13 17:00:00
         writeup: 'https://uvatoc.github.io/final'
+        weight: 1
+        files: 'quiz.pdf'
+        
 
