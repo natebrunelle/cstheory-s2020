@@ -53,7 +53,7 @@ In particular, we assume knowledge of (with recommended resources for review):
 
 - Sets ([CS2120 Sets Primer](http://www.cs.virginia.edu/~njb2b/cs2120/f2021/sets.html))
 - Functions ([Section 4.3 of this text](http://www.cs.virginia.edu/~njb2b/cs2120/f2021/files/mcs.pdf))
-- Proof Techniques ([CS2120 Proof Techniques](http://www.cs.virginia.edu/~njb2b/cs2120/f2021/techniques-q8.html))
+- Proof Techniques ([CS2120 Proof Techniques](http://www.cs.virginia.edu/~njb2b/cs2120/f2021/techniques.html))
 - Proof Styles, we'll mostly be using "prose proofs" ([CS2120 Proof style guide](http://www.cs.virginia.edu/~njb2b/cs2120/f2021/proofs.html))
 - Logic and Notation ([CS2120 Glossary of logical terms](http://www.cs.virginia.edu/~njb2b/cs2120/f2021/glossary.html))
 - Recursion ([CS2100 Recursion Slides](https://markfloryan.github.io/dsa1/slides/04-trees.html#/3/1))

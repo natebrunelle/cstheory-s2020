@@ -77,35 +77,35 @@ assignments:
     
     PS0 Getting Started:
         group: problem_sets
-        due: 2022-02-01 11:59:59
+        due: 2022-01-31 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         files: 'ps0.pdf'
 
     PS1 Induction:
         group: problem_sets
-        due: 2022-02-08 11:59:59
+        due: 2022-02-07 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         files: 'ps1.pdf'
         
     PS2 Countability:
         group: problem_sets
-        due: 2022-02-15 11:59:59
+        due: 2022-02-14 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         files: 'ps2.pdf'
         
     PS3 Circuits and Straightline:
         group: problem_sets
-        due: 2022-02-22 11:59:59
+        due: 2022-02-21 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         files: 'ps3.pdf'
 
     PS4 Sugar and Universality:
         group: problem_sets
-        due: 2022-03-01 11:59:59
+        due: 2022-02-28 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         files: 'ps4.pdf'
@@ -119,49 +119,49 @@ assignments:
 
     PS6 Automata and Regex:
         group: problem_sets
-        due: 2022-03-23 11:59:59
+        due: 2022-03-22 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         files: 'ps6.pdf'
         
     PS7 Non-determinism and Closure:
         group: problem_sets
-        due: 2022-03-29 11:59:59
+        due: 2022-03-27 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         files: 'ps7.pdf'
         
     PS8 Turing Machines:
         group: problem_sets
-        due: 2022-04-05 11:59:59
+        due: 2022-04-04 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         files: 'ps8.pdf'
         
     PS9 Uncomputability:
         group: problem_sets
-        due: 2022-04-12 11:59:59
+        due: 2022-04-11 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         files: 'ps9.pdf'
         
     PS10 Rices Theorem and Asymptotics:
         group: problem_sets
-        due: 2022-04-19 11:59:59
+        due: 2022-04-18 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         files: 'ps10.pdf'
         
     PS11 Complexity Classes:
         group: problem_sets
-        due: 2022-04-26 11:59:59
+        due: 2022-04-25 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         files: 'ps11.pdf'
         
     PS12 NP Complete:
         group: problem_sets
-        due: 2022-05-03 11:59:59
+        due: 2022-05-02 11:59:59
         writeup: 'https://uvatoc.github.io/week1'
         weight: 1
         files: 'ps12.pdf'
