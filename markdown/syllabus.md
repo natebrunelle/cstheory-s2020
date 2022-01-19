@@ -67,7 +67,6 @@ Task                        Weight  Comments
 -------------------------  -------- ----------------------------------------------
 Quizzes                     50%     6 total at 8.33% each
 Problem Sets                50%     13 total at 4% each (except for PS0, worth 2%)
-Exams                       0--50%   Optional. Worth 0% if not taken. If you take it then you select the weight (and in that case weights of Quizzes and Problem sets will be correspondingly decreased). Max weight is 50%.
 Professionalism Penalty    0--100%  Excessive missed classes, rude behavior toward instructor or classmates, unauthorized homework assistance, contacting TAs when they are not on the clock, etc., can be held against a student when final grades are calculated.
 
 The exact weights of assignments is subject to change as we further refine the assignments we will give.
