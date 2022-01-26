@@ -89,84 +89,84 @@ assignments:
     PS1 Induction:
         group: problem_sets
         due: 2022-02-07 11:59:59
-        writeup: 'https://uvatoc.github.io/week1'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week2.html'
         weight: 1
         files: 'ps1.pdf'
         
     PS2 Countability:
         group: problem_sets
         due: 2022-02-14 11:59:59
-        writeup: 'https://uvatoc.github.io/week1'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week3.html'
         weight: 1
         files: 'ps2.pdf'
         
     PS3 Circuits and Straightline:
         group: problem_sets
         due: 2022-02-21 11:59:59
-        writeup: 'https://uvatoc.github.io/week1'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week4.html'
         weight: 1
         files: 'ps3.pdf'
 
     PS4 Sugar and Universality:
         group: problem_sets
         due: 2022-02-28 11:59:59
-        writeup: 'https://uvatoc.github.io/week1'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week5.html'
         weight: 1
         files: 'ps4.pdf'
 
     PS5 EVAL and Complexity:
         group: problem_sets
         due: 2022-03-17 11:59:59
-        writeup: 'https://uvatoc.github.io/week1'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week6.html'
         weight: 1
         files: 'ps5.pdf'
 
     PS6 Automata and Regex:
         group: problem_sets
         due: 2022-03-22 11:59:59
-        writeup: 'https://uvatoc.github.io/week1'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week7.html'
         weight: 1
         files: 'ps6.pdf'
         
     PS7 Non-determinism and Closure:
         group: problem_sets
         due: 2022-03-28 11:59:59
-        writeup: 'https://uvatoc.github.io/week1'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week8.html'
         weight: 1
         files: 'ps7.pdf'
         
     PS8 Turing Machines:
         group: problem_sets
         due: 2022-04-04 11:59:59
-        writeup: 'https://uvatoc.github.io/week1'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week9.html'
         weight: 1
         files: 'ps8.pdf'
         
     PS9 Uncomputability:
         group: problem_sets
         due: 2022-04-11 11:59:59
-        writeup: 'https://uvatoc.github.io/week1'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week10.html'
         weight: 1
         files: 'ps9.pdf'
         
     PS10 Rices Theorem and Asymptotics:
         group: problem_sets
         due: 2022-04-18 11:59:59
-        writeup: 'https://uvatoc.github.io/week1'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week11.html'
         weight: 1
         files: 'ps10.pdf'
         
     PS11 Complexity Classes:
         group: problem_sets
         due: 2022-04-25 11:59:59
-        writeup: 'https://uvatoc.github.io/week1'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week12.html'
         weight: 1
         files: 'ps11.pdf'
         
     PS12 NP Complete:
         group: problem_sets
         due: 2022-05-02 11:59:59
-        writeup: 'https://uvatoc.github.io/week1'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week13.html'
         weight: 1
         files: 'ps12.pdf'
         
