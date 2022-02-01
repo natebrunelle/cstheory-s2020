@@ -83,7 +83,7 @@ assignments:
         group: problem_sets
         due: 2022-01-31 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week1.html'
-        weight: 1
+        weight: 0.5
         files: 'ps0.pdf'
 
     PS1 Induction:
