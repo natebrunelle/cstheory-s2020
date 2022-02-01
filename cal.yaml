@@ -217,7 +217,7 @@ assignments:
         group: quizzes
         due: 2022-05-13 17:00:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/finalquizzes.html'
-        weight: 1
+        weight: 0
         files: 'quiz.pdf'
         
 
