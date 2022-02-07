@@ -43,6 +43,16 @@ These are the problems you should discuss and solve first independently, then wi
 
 These are relevant videos from previous semesters. You may find them helpful, but you are not require or expected to watch them. Please be aware that the Spring 2021 semester was much shorter than the Spring 2022 semester, giving us the ability to move a bit slower and cover more depth this semester.
 
+<p>
+Some Functions are Harder than Others (02:54)<br>
+<iframe width="560" height="315" src="https://youtube.com/embed/BVEwedDqJ8w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+</p>
+
+<p>
+Countability (09:30)<br>
+<iframe width="560" height="315" src="https://youtube.com/embed/dgwRtm8WGig" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+</p>
+
 
 <p>
 A set is smaller than its powerset (07:27)<br>
