@@ -182,6 +182,14 @@ encouraged to use any other resources they find helpful. Cohorts must draft solu
 If I believe you have acted dishonestly, I will communicate this fact to you and propose a penalty.
 If you have information I lack, please share that with me; I may thereafter change my belief and/or proposed penalty. Please note that violating the collaboration guidelines above constitutes dishonest behavior.
 
+## Cohort Conduct
+
+Cohorts are an official structure of this course, so students who participate in one are expected to respect that structure by keeping accountable to both their cohort-mates as well as the course staff. In particular, cohorts and the students in them must abide by the following:
+
+1. **Establish a regular weekly meeting time.** Cohorts are expected to meet weekly, and to facilitate this expectation there should be a standing weekly meeting time throughout the semester. All cohort members are expected to attend this weekly meeting time unless exceptional circumstances prevent this. If a student *must* be absent from their cohort meeting that student must notify their cohort as soon as they can attempt to make alternative accommodations.
+1. **Inform the course staff of non-participation.** Unless the course staff is informed otherwise, all problem set submissions made by any cohort member are assumed to represent all cohort members. Students may not receive credit for work that they did not do, so if a student is unable to contribute to a weekly problem set then a member of the course staff must be made aware of that. Upon being made aware of the circumstance, the course staff will decide whether to excuse the student from the assignment, make alternative submission arrangements, or take some other action. Whenever possible, the course staff should receive notice prior to the problem set deadline.
+1. **Get pre-approval before changing cohort membership.** To better faciliate the goal of cohorts as effective learning sub-communities, membership in cohorts is expected to persist for the duration of the semester. In the case that changes to cohort membership are necessary or desired, the course instructor must approve of that change. As an additional motivation, there are logistics structure in place that must be updated with each change in cohort membership.
+
 
 # Personal Accommodations
 
