@@ -104,8 +104,15 @@ assignments:
         group: problem_sets
         due: 2022-02-21 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week4.html'
-        weight: 1
+        weight: 0.75
         files: 'ps3.pdf'
+        
+    PS3 programming:
+        group: problem_sets
+        due: 2022-02-21 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week4.html'
+        weight: 0.25
+        files: 'straightline.py'
 
     PS4 Sugar and Universality:
         group: problem_sets
