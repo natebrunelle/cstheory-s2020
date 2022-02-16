@@ -25,7 +25,7 @@ You can view the [quiz here](/files/ps/quiz1_blank.pdf).
 
 This quiz has the same submission procedure you saw for problem sets 1 and 2: 
 
-1. Download the [Quiz1 template](https://www.cs.virginia.edu/~njb2b/cstheory/s2022/files/ps/quiz.zip)
+1. Download the [Quiz1 template](https://www.cs.virginia.edu/~njb2b/cstheory/s2022/files/ps/quiz1.zip)
 1. In Overleaf, click on *Create First Project* or *New Project in Overleaf* and select *Upload Project* from the menu.
 1. Click *Select a .zip file* then select the *ps2.zip* you downloaded in step 1
 1. Look in `quiz1.tex` for the line, `submitter{TODO: your name}` and replace the `TODO: your name` with  your name and UVA id ( e.g. `submitter{Nathan Brunelle (njb2b)}`).
