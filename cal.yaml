@@ -118,8 +118,15 @@ assignments:
         group: problem_sets
         due: 2022-02-28 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week5.html'
-        weight: 1
+        weight: 0.8
         files: 'ps4.pdf'
+
+    PS4 programming:
+        group: problem_sets
+        due: 2022-02-28 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week5.html'
+        weight: 0.2
+        files: 'adders.py'
 
     PS5 EVAL and Complexity:
         group: problem_sets
