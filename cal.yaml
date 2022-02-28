@@ -70,12 +70,12 @@ reading:
           txt: week1 guide
       
     Evaluation:
-        - lnk: /week5.html
-          txt: week5 guide
+        - lnk: /week6.html
+          txt: week6 guide
 
     Complexity:
-        - lnk: /week5.html
-          txt: week5 guide
+        - lnk: /week6.html
+          txt: week6 guide
     
 assignments:
     ".groups":
