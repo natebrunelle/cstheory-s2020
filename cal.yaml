@@ -68,6 +68,14 @@ reading:
     Definitions:
         - lnk: /week1.html
           txt: week1 guide
+      
+    Evaluation:
+        - lnk: /week5.html
+          txt: week5 guide
+
+    Complexity:
+        - lnk: /week5.html
+          txt: week5 guide
     
 assignments:
     ".groups":
