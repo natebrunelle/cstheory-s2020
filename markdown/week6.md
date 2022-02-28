@@ -59,10 +59,53 @@ Note that this problem set additionally has a [programming problem](https://www.
 
 Professor Brunelle must be out of town for a conference, and as such there is no in-person lecture for Wednesday March 2. Instead, Please watch the following instructional videos (recorded for Spring 2021).
 
-(TBD based on progress in class on Monday)
+<p>Introducing Complexity (5:37)<br>
+<iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/HOgP-99MFoU' frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+</p>
+
+<p>Introducing SIZE (5:59)<br>
+<iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/SfS3nl9O190' frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+</p>
+
+<p>Our First Complexity Proof (11:38)<br>
+<iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/SSXy7BbuZGM' frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+</p>
+
+<p>Asymptotic Operators (7:06)<br>
+<iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/96XtkxDNDCs' frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+</p>
+
+<p>Understanding Asymptotics (10:40)<br>
+<iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/KA8uSlGqc_o' frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+</p>
+
+<p>Big-Oh Examples (17:04)<br>
+<iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/iG_BGStzPQE' frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+</p>
+
+<p>Common Misuses of Asymptotic Notation (5:52)<br>
+<iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/WLV99-6ep2c' frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+</p>
+
+<p>Some Functions Are Expensive (7:36)<br>
+<iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/BavLtSyKlFg' frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+</p>
+
+<p>Cost of Computing (5:03)<br>
+<iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/5H6DvmEzwDY' frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+</p>
+
 
 ## Optional Videos
 
 The videos below match with content covered on Monday February 28, and therefore should be consider optional.
 
-(TBD based on progress in class on Monday)
+
+<p>Introducing EVAL<br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/HTHYjpgyWNY' frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></p>
+
+<p>Representing Programs<br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/RNN-hW9x_8Y' frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></p>
+
+
+
+<p>Defining EVAL<br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/5RbgIcs0bEw' frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></p>
+
