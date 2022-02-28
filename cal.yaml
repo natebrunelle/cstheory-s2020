@@ -140,8 +140,15 @@ assignments:
         group: problem_sets
         due: 2022-03-17 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week6.html'
-        weight: 1
+        weight: 0.75
         files: 'ps5.pdf'
+        
+    PS5 programming:
+        group: problem_sets
+        due: 2022-03-17 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week6.html'
+        weight: 0.25
+        files: 'eval.py'
 
     PS6 Automata and Regex:
         group: problem_sets
