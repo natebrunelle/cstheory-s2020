@@ -138,14 +138,14 @@ assignments:
 
     PS5 EVAL and Complexity:
         group: problem_sets
-        due: 2022-03-17 23:59:59
+        due: 2022-03-22 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week6.html'
         weight: 0.75
         files: 'ps5.pdf'
         
     PS5 programming:
         group: problem_sets
-        due: 2022-03-17 23:59:59
+        due: 2022-03-22 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week6.html'
         weight: 0.25
         files: 'eval.py'
@@ -209,7 +209,7 @@ assignments:
         
     Quiz2 Universality:
         group: quizzes
-        due: 2022-03-04 23:59:59
+        due: 2022-03-15 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/quiz2.html'
         weight: 1
         files: 'quiz2.pdf'
