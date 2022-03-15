@@ -209,7 +209,7 @@ assignments:
         
     Quiz2 Universality:
         group: quizzes
-        due: 2022-03-15 23:59:59
+        due: 2022-03-16 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/quiz2.html'
         weight: 1
         files: 'quiz2.pdf'
