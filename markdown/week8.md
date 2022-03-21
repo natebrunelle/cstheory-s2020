@@ -40,7 +40,7 @@ These are the problems you should discuss and solve first independently, then wi
 
 [PS7 [ZIP]](https://www.cs.virginia.edu/~njb2b/cstheory/s2022/files/ps/ps7.pdf)
 
-Note that this problem set does not have a programming portion.
+Note that this problem set has a programming portion. The directions for that are included below.
 
 ## Written Instructions
 
