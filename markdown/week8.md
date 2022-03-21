@@ -37,6 +37,7 @@ any additional readings.
 These are the problems you should discuss and solve first independently, then with your cohort (supposing you're in one). These problems focus on material discussed in the March 14 and March 16 lectures.
 
 [PS7 [PDF]](https://www.cs.virginia.edu/~njb2b/cstheory/s2022/files/ps/ps7_blank.pdf)
+
 [PS7 [ZIP]](https://www.cs.virginia.edu/~njb2b/cstheory/s2022/files/ps/ps7.pdf)
 
 Note that this problem set does not have a programming portion.
