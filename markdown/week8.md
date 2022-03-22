@@ -66,7 +66,7 @@ Before you begin on this assignment, you will need to download three python file
 
 The `NFA` program implements nfa simulation and various closure constructions. The `regex` program defines a class that reads regular expressions and converts them to NFAs. The `ps7` program contains example uses of the `NFA` and `regex` functionality, and also contains the stub for the `huntingtons` function you must implement.
 
-You'll need to use the following functions (example usage of all of them are in `ps7.py`). You may not use the built-in python re library.
+You'll need to use the following functions (example usage of all of them are in `ps7.py`). You may not use the built-in python re library (as this behaves differently from and is more powerful than the regular expressions we defined in class).
 
 - `regex.regex_to_NFA(the_regex)`: If `the_regex` is a string, the function `regex_to_NFA` found in `regex.py` returns and NFA that computes the language indicated by `the_regex`
 - `the_nfa.execute(the_string)`: If `the_nfa` is an instance of the `NFA` class defined in `NFA.py`, then invoking the class method `execute` on string `the_string` will return a Boolean value indicating whether or not `the_string` belonged to the language of the NFA.
