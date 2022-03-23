@@ -12,7 +12,7 @@ This quiz contains 3 questions:
 
 This material is sourced from the material covered in [week 6](/week6.html) and [week 7](/week7.html). Similar problems to these were seen in problem sets 5 and 6. No material introduced after week 7 will be represented in this quiz.
 
-To help you prepare, I have will provide sample solutions for Problem Set 5 and Problem Set 6 on the morning of March 23 (after the deadlines for said problem sets have passed).
+To help you prepare, I have provided sample solutions for [Problem Set 5](/files/ps/ps5_solutions.pdf) and [Problem Set 6](/files/ps/ps6_solutions.pdf).
 
 # Collaboration Policy
 
