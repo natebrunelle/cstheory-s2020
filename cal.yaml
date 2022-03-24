@@ -230,7 +230,7 @@ assignments:
         
     Quiz4 Automata and Turing Machines:
         group: quizzes
-        due: 2022-04-010 23:59:59
+        due: 2022-04-10 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/quiz4.html'
         weight: 1
         files: 'quiz4.pdf'
