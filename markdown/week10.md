@@ -33,7 +33,7 @@ These are the problems you should discuss and solve first independently, then wi
 
 [PS9 [PDF]](https://www.cs.virginia.edu/~njb2b/cstheory/s2022/files/ps/ps9_blank.pdf)
 
-[PS9 [ZIP]](https://www.cs.virginia.edu/~njb2b/cstheory/s2022/files/ps/ps9.pdf)
+[PS9 [ZIP]](https://www.cs.virginia.edu/~njb2b/cstheory/s2022/files/ps/ps9.zip)
 
 Note that this problem set does not have a programming portion.
 
@@ -53,4 +53,21 @@ Note that this problem set does not have a programming portion.
 
 
 # Optional Videos
+
+These videos mostly cover the same content as was presented in class. Be aware that in some cases the notation used may be different compared to the live-lecture.
+
+
+<p>Introduction (3:20) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/Zqqv8MWnC6c' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+
+
+<p>Self-Rejection (An Uncomputable Function) (17:13) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/qRNIK4qaNTA' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+
+<p>An Uncomputable Problem in Python (8:10) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/Bit7FvUzcMU' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+
+<p>Universal Turing Machines (8:54) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/Ij01xiZDN8k' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+
+
+<p>ACCEPTS, Practical but Uncomputable (15:53) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/L-MkPxn5r_s' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
+
+<p>Computability in Theory vs Practice (8:50) <br><iframe width='800' height='450' src='https://www.youtube-nocookie.com/embed/YbrFeIC3jXo' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br></p>
 
