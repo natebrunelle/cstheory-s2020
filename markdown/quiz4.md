@@ -12,7 +12,7 @@ This quiz contains 3 questions:
 
 This material is sourced from the material covered in [week 8](/week8.html) and [week 9](/week9.html). Similar problems to these were seen in problem sets 7 and 8. No material introduced after week 9 will be represented in this quiz.
 
-I will provide sample solutions for problem sets 7 and 8 to help you out, but I need to wait until those with extensions have opportunity to submit. They will be posted by end of day Thursday.
+To help you prepare, I have provided sample solutions for [Problem Set 7](/files/ps/ps7_solutions.pdf) and [Problem Set 8](/files/ps/ps8_solutions.pdf).
 
 # Collaboration Policy
 
