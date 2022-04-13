@@ -161,14 +161,14 @@ assignments:
         group: problem_sets
         due: 2022-03-29 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week8.html'
-        weight: 1
+        weight: 0.8
         files: 'ps7.pdf'
         
     PS7 programming:
         group: problem_sets
         due: 2022-03-29 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week8.html'
-        weight: 1
+        weight: 0.2
         files: 'ps7.py'
         
     PS8 Turing Machines:
