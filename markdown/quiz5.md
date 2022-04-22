@@ -11,7 +11,7 @@ This quiz contains 2 questions:
 
 This material is sourced from the material covered in [week 10](/week10.html) and [week 11](/week11.html). Similar problems to these were seen in problem sets 9 and 10. No material introduced after week 11 will be represented in this quiz.
 
-To help you prepare, I have provided sample solutions for [Problem Set 9](/files/ps/ps9_solutions.pdf), and  will post solutions to Problem set 10 once we're a little farther past the deadline.
+To help you prepare, I have provided sample solutions for [Problem Set 9](/files/ps/ps9_solutions.pdf) and [Problem Set 10](/files/ps/ps10_solutions.pdf) 
 
 # Collaboration Policy
 
