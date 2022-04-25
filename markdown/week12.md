@@ -1,5 +1,5 @@
 ---
-title: Week 12 Guide
+title: Week 12+13 Guide
 ...
 
 
@@ -13,7 +13,7 @@ substantially easier to verify the solution to a (certain very broad
 and common type of) problem, than it is to find that solution?_
 (stated more formally in computer science as "P = NP?".
 
-The main goals for Week 11 are to:
+The main goals for Week 12 are to:
 
 - Understand how to talk about the hardness ("difficulty") of computing functions.
 - Learn about a few examples of problems that appear to have surprisingly different difficulties.
