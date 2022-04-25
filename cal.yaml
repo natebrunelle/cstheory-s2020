@@ -202,7 +202,7 @@ assignments:
         
     PS12:
         group: problem_sets
-        due: 2022-05-04 23:59:59
+        due: 2022-01-30 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week13.html'
         weight: 1
         
