@@ -66,7 +66,7 @@ We will consider the grade assigned by the following point-based breakdown to be
 Task                        Weight  Comments
 -------------------------  -------- ----------------------------------------------
 Quizzes                     50%     6 total at 8.33% each
-Problem Sets                50%     13 total at 4% each (except for PS0, worth 2%)
+Problem Sets                50%     12 total (with PS0 with half the weight of all others). Lowest problem set score is replaced with 100%.
 Professionalism Penalty    0--100%  Excessive missed classes, rude behavior toward instructor or classmates, unauthorized homework assistance, contacting TAs when they are not on the clock, etc., can be held against a student when final grades are calculated.
 
 The exact weights of assignments is subject to change as we further refine the assignments we will give.
