@@ -196,7 +196,7 @@ assignments:
     PS11 NP Complete:
         group: problem_sets
         due: 2022-05-03 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week13.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week12.html'
         weight: 1
         files: 'ps11_revised.pdf'
         
