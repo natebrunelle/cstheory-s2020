@@ -84,6 +84,7 @@ assignments:
             drop: 1
         quiz1:
             portion: "1"
+            no-exemption: True
         quiz2:
             portion: "1"
         quiz3:
