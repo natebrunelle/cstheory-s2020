@@ -84,22 +84,16 @@ assignments:
             drop: 1
         quiz1:
             portion: "1"
-            drop: 0
         quiz2:
             portion: "1"
-            drop: 0
         quiz3:
             portion: "1"
-            drop: 0
         quiz4:
             portion: "1"
-            drop: 0
         quiz5:
             portion: "1"
-            drop: 0
         quiz6:
             portion: "1"
-            drop: 0
     
     
     PS0 Getting Started:
