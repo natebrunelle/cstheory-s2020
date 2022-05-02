@@ -82,20 +82,8 @@ assignments:
         problem_sets:
             portion: "6"
             drop: 1
-        quiz1:
-            portion: "1"
-            no-exemption: True
-        quiz2:
-            portion: "1"
-        quiz3:
-            portion: "1"
-        quiz4:
-            portion: "1"
-        quiz5:
-            portion: "1"
-        quiz6:
-            portion: "1"
-    
+        quizzes:
+            portion: "6"    
     
     PS0 Getting Started:
         group: problem_sets
@@ -217,84 +205,84 @@ assignments:
         
         
     Quiz1 Induction and Diagonalization:
-        group: quiz1
+        group: quizzes
         due: 2022-02-18 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/quiz1.html'
         weight: 1
         files: 'quiz1.pdf'
         
     Quiz2 Universality:
-        group: quiz2
+        group: quizzes
         due: 2022-03-16 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/quiz2.html'
         weight: 1
         files: 'quiz2.pdf'
         
     Quiz3 Circuit Complexity:
-        group: quiz3
+        group: quizzes
         due: 2022-03-27 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/quiz3.html'
         weight: 1
         files: 'quiz3.pdf'
         
     Quiz4 Automata and Turing Machines:
-        group: quiz4
+        group: quizzes
         due: 2022-04-10 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/quiz4.html'
         weight: 1
         files: 'quiz4.pdf'
         
     Quiz5 Reductions:
-        group: quiz5
+        group: quizzes
         due: 2022-04-24 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/quiz5.html'
         weight: 1
         files: 'quiz5.pdf'
         
     Quiz6 P vs NP:
-        group: quiz6
+        group: quizzes
         due: 2022-05-13 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/quiz6.html'
         weight: 1
         files: 'quiz6.pdf'
         
     Quiz1 Retake:
-        group: quiz1
+        group: quizzes
         due: 2022-05-13 17:00:01
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/finalquizzes.html'
         weight: 0
         files: 'quiz1_redo.pdf'
     
     Quiz2 Retake:
-        group: quiz2
+        group: quizzes
         due: 2022-05-13 17:00:01
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/finalquizzes.html'
         weight: 0
         files: 'quiz2_redo.pdf'
         
     Quiz3 Retake:
-        group: quiz3
+        group: quizzes
         due: 2022-05-13 17:00:01
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/finalquizzes.html'
         weight: 0
         files: 'quiz3_redo.pdf'
     
     Quiz4 Retake:
-        group: quiz4
+        group: quizzes
         due: 2022-05-13 17:00:01
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/finalquizzes.html'
         weight: 0
         files: 'quiz4_redo.pdf'
         
     Quiz5 Retake:
-        group: quiz5
+        group: quizzes
         due: 2022-05-13 17:00:01
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/finalquizzes.html'
         weight: 0
         files: 'quiz5_redo.pdf'
         
     Quiz6 Retake:
-        group: quiz6
+        group: quizzes
         due: 2022-05-13 17:00:01
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/finalquizzes.html'
         weight: 0
